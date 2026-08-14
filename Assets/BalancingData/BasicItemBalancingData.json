@@ -1,0 +1,2626 @@
+[
+  {
+    "NameId": "experience",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "Resource_XP",
+    "LocaBaseId": "player_stat_experience",
+    "SortPriority": 2,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "gold",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "Resource_Coin",
+    "LocaBaseId": "player_stat_coin",
+    "SortPriority": 0,
+    "SetAsNewInShop": 1
+  },
+  {
+    "NameId": "lucky_coin",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "Resource_LuckyCoin",
+    "LocaBaseId": "player_stat_lucky_coin",
+    "SortPriority": 1,
+    "SetAsNewInShop": 1
+  },
+  {
+    "NameId": "delayed_lucky_coin",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "Resource_LuckyCoin",
+    "LocaBaseId": "player_stat_lucky_coin",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "friendship_essence",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "Resource_FriendshipEssence",
+    "LocaBaseId": "player_stat_friendship_essence",
+    "SortPriority": 1,
+    "SetAsNewInShop": 1
+  },
+  {
+    "NameId": "shard",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "Resource_EnchantmentShard",
+    "LocaBaseId": "player_stat_shard",
+    "SortPriority": 1,
+    "SetAsNewInShop": 1
+  },
+  {
+    "NameId": "event_energy",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "Resource_EventEnergy",
+    "LocaBaseId": "player_stat_event_energy",
+    "SortPriority": 4,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "event_energy_cap_extension",
+    "ItemType": "Story",
+    "AssetBaseId": "EventEnergyCapExtension",
+    "LocaBaseId": "story_event_energy_cap_extension",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "addbird_asia",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_asia",
+    "LocaBaseId": "addbird_asia",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "addbird_redbird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_red",
+    "LocaBaseId": "addbird_red",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "addbird_yellowbird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_yellow",
+    "LocaBaseId": "addbird_yellowbird",
+    "SortPriority": 2,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "addbird_whitebird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_white",
+    "LocaBaseId": "addbird_white",
+    "SortPriority": 3,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "addbird_blackbird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_black",
+    "LocaBaseId": "addbird_blackbird",
+    "SortPriority": 4,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "addbird_bluebird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_blue",
+    "LocaBaseId": "addbird_bluebird",
+    "SortPriority": 5,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "removebird_asia",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_asia",
+    "LocaBaseId": "removebird_asia",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "removebird_redbird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_red",
+    "LocaBaseId": "removebird_red",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "removebird_yellowbird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_yellow",
+    "LocaBaseId": "removebird_yellowbird",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "removebird_whitebird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_white",
+    "LocaBaseId": "removebird_white",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "removebird_blackbird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_black",
+    "LocaBaseId": "removebird_blackbird",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "removebird_bluebird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_blue",
+    "LocaBaseId": "removebird_bluebird",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_forge",
+    "ItemType": "Story",
+    "AssetBaseId": "MagicAnvil_Basic",
+    "LocaBaseId": "story_forge",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_asia",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_asia",
+    "LocaBaseId": "story_asia",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_mauvey",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_mauvey",
+    "LocaBaseId": "story_mauvey",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_rex",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_rex",
+    "LocaBaseId": "story_rex",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_mace",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_mace",
+    "LocaBaseId": "story_mace",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_cauldron",
+    "ItemType": "Story",
+    "AssetBaseId": "MagicCauldron_Basic",
+    "LocaBaseId": "story_cauldron",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_goldenpig",
+    "ItemType": "Story",
+    "AssetBaseId": "GoldenPigMachine",
+    "LocaBaseId": "story_goldenpig",
+    "SortPriority": 4,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_goldenpig_advanced",
+    "ItemType": "Story",
+    "AssetBaseId": "AdvGoldenPigMachine",
+    "LocaBaseId": "story_goldenpig_advanced",
+    "SortPriority": 4,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_shop",
+    "ItemType": "Story",
+    "AssetBaseId": "Shop",
+    "LocaBaseId": "story_shop",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_mailbox",
+    "ItemType": "Story",
+    "AssetBaseId": "Mailbox",
+    "LocaBaseId": "story_mailbox",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_steeringwheel",
+    "ItemType": "Story",
+    "AssetBaseId": "SteeringWheel",
+    "LocaBaseId": "story_steeringwheel",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_steeringwheel_02",
+    "ItemType": "Story",
+    "AssetBaseId": "SteeringWheel",
+    "LocaBaseId": "story_steeringwheel_02",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "key_yellow",
+    "ItemType": "Story",
+    "AssetBaseId": "PigKey_Yellow",
+    "LocaBaseId": "key_yellow",
+    "SortPriority": 8,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "key_blue",
+    "ItemType": "Story",
+    "AssetBaseId": "PigKey_Blue",
+    "LocaBaseId": "key_blue",
+    "SortPriority": 9,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "key_red",
+    "ItemType": "Story",
+    "AssetBaseId": "PigKey_Red",
+    "LocaBaseId": "key_red",
+    "SortPriority": 10,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "rate_app_01",
+    "ItemType": "Story",
+    "AssetBaseId": "Rate_App",
+    "LocaBaseId": "rate_app",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "rate_app_02",
+    "ItemType": "Story",
+    "AssetBaseId": "Rate_App",
+    "LocaBaseId": "rate_app",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "rate_app_03",
+    "ItemType": "Story",
+    "AssetBaseId": "Rate_App",
+    "LocaBaseId": "rate_app",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "rate_app_04",
+    "ItemType": "Story",
+    "AssetBaseId": "Rate_App",
+    "LocaBaseId": "rate_app",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "rate_app_05",
+    "ItemType": "Story",
+    "AssetBaseId": "Rate_App",
+    "LocaBaseId": "rate_app",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "rate_app_06",
+    "ItemType": "Story",
+    "AssetBaseId": "Rate_App",
+    "LocaBaseId": "rate_app",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "rate_app_07",
+    "ItemType": "Story",
+    "AssetBaseId": "Rate_App",
+    "LocaBaseId": "rate_app",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "rate_app_08",
+    "ItemType": "Story",
+    "AssetBaseId": "Rate_App",
+    "LocaBaseId": "rate_app",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_events",
+    "ItemType": "Story",
+    "AssetBaseId": "Event",
+    "LocaBaseId": "unlock_events",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_pvp",
+    "ItemType": "Story",
+    "AssetBaseId": "Arena",
+    "LocaBaseId": "unlock_pvp",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_replay",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_replay",
+    "LocaBaseId": "unlock_replay",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_hide_turns",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_hide_turns",
+    "LocaBaseId": "unlock_hide_turns",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_submarine",
+    "ItemType": "Story",
+    "AssetBaseId": "BirdSubmarine",
+    "LocaBaseId": "unlock_submarine",
+    "SortPriority": 11,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_airship",
+    "ItemType": "Story",
+    "AssetBaseId": "BirdAirShip",
+    "LocaBaseId": "unlock_airship",
+    "SortPriority": 11,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_ship",
+    "ItemType": "Story",
+    "AssetBaseId": "BirdShip",
+    "LocaBaseId": "unlock_ship",
+    "SortPriority": 6,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_mastery_badge",
+    "ItemType": "Story",
+    "AssetBaseId": "StarCollectionReward_Mastery",
+    "LocaBaseId": "unlock_mastery_badge",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_mastery_conversion",
+    "ItemType": "Story",
+    "AssetBaseId": "StarCollectionReward_Mastery",
+    "LocaBaseId": "unlock_mastery_conversion",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_mastery_conversion_to60",
+    "ItemType": "Story",
+    "AssetBaseId": "MasteryConversion",
+    "LocaBaseId": "unlock_mastery_conversion_to60",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_rage",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_rage",
+    "LocaBaseId": "unlock_rage",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_gloden_pig_rage",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_gloden_pig_rage",
+    "LocaBaseId": "unlock_gloden_pig_rage",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_scrap",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_scrap",
+    "LocaBaseId": "unlock_scrap",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_itemcraftedonce",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_craftedonce",
+    "LocaBaseId": "unlock_craftedonce",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_potioncraftedonce",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_craftedonce",
+    "LocaBaseId": "unlock_craftedonce",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_reroll_tutorial",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_reroll_tutorial",
+    "LocaBaseId": "unlock_reroll_tutorial",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_reroll_failed_roll",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_reroll_failed_roll",
+    "LocaBaseId": "unlock_reroll_failed_roll",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_reroll_first_reroll",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_reroll_failed_roll",
+    "LocaBaseId": "unlock_reroll_failed_roll",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_craft_reroll_failed_roll",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_craft_reroll_failed_roll",
+    "LocaBaseId": "unlock_craft_reroll_failed_roll",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_craft_reroll_first_reroll",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_craft_reroll_first_reroll",
+    "LocaBaseId": "unlock_craft_reroll_first_reroll",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_toons",
+    "ItemType": "Story",
+    "AssetBaseId": "HotSpot_CinePig",
+    "LocaBaseId": "unlock_toons",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_rovio_account",
+    "ItemType": "Story",
+    "AssetBaseId": "RovioAccount",
+    "LocaBaseId": "unlock_rovio_account",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_facebook",
+    "ItemType": "Story",
+    "AssetBaseId": "FriendList",
+    "LocaBaseId": "unlock_facebook",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_sponsored_rewards",
+    "ItemType": "Story",
+    "AssetBaseId": "SponsoredRewards",
+    "LocaBaseId": "unlock_sponsored_rewards",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_autobattle",
+    "ItemType": "Story",
+    "AssetBaseId": "AutoBattle",
+    "LocaBaseId": "unlock_autobattle",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_enchantment",
+    "ItemType": "Story",
+    "AssetBaseId": "Enchantment",
+    "LocaBaseId": "unlock_enchantment",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_offer_golden_chili",
+    "ItemType": "Story",
+    "AssetBaseId": "GoldenChili_Unlock",
+    "LocaBaseId": "special_offer_golden_chili",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_offer_golden_chili_02",
+    "ItemType": "Story",
+    "AssetBaseId": "GoldenChili_Unlock",
+    "LocaBaseId": "special_offer_golden_chili_02",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_offer_golden_chili_03",
+    "ItemType": "Story",
+    "AssetBaseId": "GoldenChili_Unlock",
+    "LocaBaseId": "special_offer_golden_chili_02",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_friendshipgate",
+    "ItemType": "Story",
+    "AssetBaseId": "Hotspot_FriendshipGate",
+    "LocaBaseId": "unlock_friendshipgate",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_chronicle_cave",
+    "ItemType": "Story",
+    "AssetBaseId": "ChronicleCave",
+    "LocaBaseId": "unlock_chronicle_cave",
+    "SortPriority": 3,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_dungeon_01",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_moustache_pirate_captain_boss_03",
+    "LocaBaseId": "unlock_dungeon_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_dungeon_02",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_caster_necromancer_boss",
+    "LocaBaseId": "unlock_dungeon_02",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_dungeon_03",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_shaman_witch_doctor_boss",
+    "LocaBaseId": "unlock_dungeon_03",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_dungeon_04",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_ninja_black_boss",
+    "LocaBaseId": "unlock_dungeon_04",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_dungeon_05",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_knight_dark",
+    "LocaBaseId": "unlock_dungeon_05",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_dungeon_06",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_brute_frosthog_boss",
+    "LocaBaseId": "unlock_dungeon_06",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_dungeon_07",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_zombie_mummy_boss",
+    "LocaBaseId": "unlock_dungeon_07",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_hotspot_05",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_brute_brute",
+    "LocaBaseId": "hint_hotspot_05",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_hotspot_09",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_prince_porky_firstencounter",
+    "LocaBaseId": "hint_hotspot_09",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_hotspot_11",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_brute_brute",
+    "LocaBaseId": "hint_hotspot_11",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_lightningbird",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_minion_rogue_miniboss",
+    "LocaBaseId": "hint_hotspot_21",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_defeat_monty",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_minion_rogue_miniboss",
+    "LocaBaseId": "hint_defeat_monty",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_hotspot_06_01",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_moustache_pirate_captain",
+    "LocaBaseId": "hint_hotspot_06_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_defeat_cabinboy",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_brute_pirate",
+    "LocaBaseId": "hint_defeat_cabinboy",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_defeat_porky_ship",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_prince_porky_secondencounter",
+    "LocaBaseId": "hint_defeat_porky_ship",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_hotspot_42_01",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_knight_cactus",
+    "LocaBaseId": "hint_hotspot_42_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_hotspot_45",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_prince_porky_firstencounter",
+    "LocaBaseId": "hint_hotspot_45",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_fuse_resources",
+    "ItemType": "Story",
+    "AssetBaseId": "AdvancedForging",
+    "LocaBaseId": "hint_fuse_resources",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_fuse_ingredients",
+    "ItemType": "Story",
+    "AssetBaseId": "AdvancedAlchemy",
+    "LocaBaseId": "hint_fuse_ingredients",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "hint_hotspot_53_01",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_pirate_adventurer",
+    "LocaBaseId": "hint_hotspot_53_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "monty_lost_01",
+    "ItemType": "Story",
+    "AssetBaseId": "monty_lost_01",
+    "LocaBaseId": "monty_lost_01",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "cabinboy_lost_01",
+    "ItemType": "Story",
+    "AssetBaseId": "cabinboy_lost_01",
+    "LocaBaseId": "cabinboy_lost_01",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "porky_ship_lost_01",
+    "ItemType": "Story",
+    "AssetBaseId": "porky_ship_lost_01",
+    "LocaBaseId": "porky_ship_lost_01",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "cc_boss_resolved_01",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "cc_boss_resolved_01",
+    "LocaBaseId": "cc_boss_resolved_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_01",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_shaman_shaman",
+    "LocaBaseId": "skill_env_cc_floor_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_02",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_moustache_pirate_captain_redbeard",
+    "LocaBaseId": "skill_env_cc_floor_02",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_03",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_ghost_willowhisp",
+    "LocaBaseId": "skill_env_cc_floor_03",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_04",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_shaman_ice",
+    "LocaBaseId": "skill_env_cc_floor_04",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_05",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_caster_pyropig",
+    "LocaBaseId": "skill_env_cc_floor_05",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_06",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_zombie_knight",
+    "LocaBaseId": "skill_env_cc_floor_17",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_12",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_minion_turban",
+    "LocaBaseId": "skill_env_cc_floor_12",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_08",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_ninja_master_cc_boss",
+    "LocaBaseId": "skill_env_cc_floor_08",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_09",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_moustache_big_boss",
+    "LocaBaseId": "skill_env_cc_floor_09",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_10",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_caster_pyropig",
+    "LocaBaseId": "skill_env_cc_floor_10",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_11",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_zombie_berserk_cc_boss",
+    "LocaBaseId": "skill_env_cc_floor_01_1",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_07",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_caster_pyropig",
+    "LocaBaseId": "skill_env_cc_floor_12",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_13",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_knight_ice",
+    "LocaBaseId": "skill_env_cc_floor_06",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_14",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_pirate_veteran",
+    "LocaBaseId": "skill_env_cc_floor_14",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_15",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_moustache_tinker",
+    "LocaBaseId": "skill_env_cc_floor_15",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_16",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_knight_royal_guard",
+    "LocaBaseId": "skill_env_cc_floor_16",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_17",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_moustache_pirate_captain_redbeard",
+    "LocaBaseId": "skill_env_cc_floor_07",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_18",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_knight_roseknight_boss",
+    "LocaBaseId": "skill_env_cc_floor_18",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_19",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_zombie_knight",
+    "LocaBaseId": "skill_env_cc_floor_19",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_20",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_caster_pyropig",
+    "LocaBaseId": "skill_env_cc_floor_20",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_21",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_minion_cupid_dark",
+    "LocaBaseId": "skill_env_cc_floor_21",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_22",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_brute_pirate_cc_boss_02",
+    "LocaBaseId": "skill_env_cc_floor_22",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_23",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_drone_doom",
+    "LocaBaseId": "skill_env_cc_floor_23",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_24",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_shaman_ice",
+    "LocaBaseId": "skill_env_cc_floor_24",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_25",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_minion_stickpig",
+    "LocaBaseId": "skill_env_cc_floor_25",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "skill_env_cc_floor_26",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_pirate_airpirate",
+    "LocaBaseId": "skill_env_cc_floor_26",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "xp_multiplier_consumable_01",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "XPMultiplier_Consumable",
+    "LocaBaseId": "xpmultiplier_consumable",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "xp_multiplier_global",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "XPMultiplier_Global",
+    "LocaBaseId": "xpmultiplier_global",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "gacha_first_use",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "high_gacha_used",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "gacha_standard_uses",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "gacha_set_uses",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "permanent_golden_chili",
+    "ItemType": "Story",
+    "AssetBaseId": "GoldenChili",
+    "LocaBaseId": "permanent_golden_chili",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_goldenpigspawn",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_golden_pig",
+    "LocaBaseId": "story_goldenpigspawn",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "free_gacha_use",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_offer_wood_01",
+    "ItemType": "Story",
+    "AssetBaseId": "special_offer_wood",
+    "LocaBaseId": "special_offer_wood_01",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_offers",
+    "ItemType": "Story",
+    "AssetBaseId": "special_offers",
+    "LocaBaseId": "special_offers",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_premium_offers",
+    "ItemType": "Story",
+    "AssetBaseId": "special_premium_offers",
+    "LocaBaseId": "special_premium_offers",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_cauldron_offer",
+    "ItemType": "Story",
+    "AssetBaseId": "MagicCauldron_Basic",
+    "LocaBaseId": "special_cauldron_offer",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_cauldron_offer_02",
+    "ItemType": "Story",
+    "AssetBaseId": "special_cauldron_offer_02",
+    "LocaBaseId": "special_cauldron_offer_02",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_coin_offer",
+    "ItemType": "Story",
+    "AssetBaseId": "special_coin_offer",
+    "LocaBaseId": "special_coin_offer",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_event_summersale",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_golden_pig;bird_yellow_archmage",
+    "LocaBaseId": "special_offer_google_summer",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_event_fullmoonsale",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_golden_pig;bird_white_moonpriest",
+    "LocaBaseId": "special_offer_fullmoonsale",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "forge_leveled",
+    "ItemType": "Story",
+    "AssetBaseId": "MagicAnvil",
+    "LocaBaseId": "forge_leveled",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "cauldron_leveled",
+    "ItemType": "Story",
+    "AssetBaseId": "MagicCauldron",
+    "LocaBaseId": "cauldron_leveled",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "egg_01",
+    "ItemType": "Story",
+    "AssetBaseId": "BirdNest_1Egg",
+    "LocaBaseId": "egg_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "egg_02",
+    "ItemType": "Story",
+    "AssetBaseId": "BirdNest_2Eggs",
+    "LocaBaseId": "egg_02",
+    "SortPriority": 2,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "egg_03",
+    "ItemType": "Story",
+    "AssetBaseId": "BirdNest_3Eggs",
+    "LocaBaseId": "egg_03",
+    "SortPriority": 3,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "egg_04",
+    "ItemType": "Story",
+    "AssetBaseId": "BirdNest_4Eggs",
+    "LocaBaseId": "egg_04",
+    "SortPriority": 4,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "egg_05",
+    "ItemType": "Story",
+    "AssetBaseId": "BirdNest_5Eggs",
+    "LocaBaseId": "egg_05",
+    "SortPriority": 5,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "class_upgrade_bronze",
+    "ItemType": "Story",
+    "AssetBaseId": "ClassUpgrades_Bronze",
+    "LocaBaseId": "class_upgrade_bronze",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "class_upgrade_silver",
+    "ItemType": "Story",
+    "AssetBaseId": "ClassUpgrades_Silver",
+    "LocaBaseId": "class_upgrade_silver",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "class_upgrade_gold",
+    "ItemType": "Story",
+    "AssetBaseId": "ClassUpgrades_Gold",
+    "LocaBaseId": "class_upgrade_gold",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "chronicle_cave_progress",
+    "ItemType": "Story",
+    "AssetBaseId": "ChronicleCaveProgress",
+    "LocaBaseId": "chronicle_cave_progress",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "chronicle_cave_resolved_01",
+    "ItemType": "Story",
+    "AssetBaseId": "Birds",
+    "LocaBaseId": "chronicle_cave_resolved_01",
+    "SortPriority": 2,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "chronicle_cave_update_67",
+    "ItemType": "Story",
+    "AssetBaseId": "ChronicleCave",
+    "LocaBaseId": "chronicle_cave_update_6_7",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "chronicle_cave_update_89",
+    "ItemType": "Story",
+    "AssetBaseId": "ChronicleCave",
+    "LocaBaseId": "chronicle_cave_update_8_9",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "chronicle_cave_update_1011",
+    "ItemType": "Story",
+    "AssetBaseId": "ChronicleCave",
+    "LocaBaseId": "chronicle_cave_update_8_9",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "chronicle_cave_update_1415",
+    "ItemType": "Story",
+    "AssetBaseId": "ChronicleCave",
+    "LocaBaseId": "chronicle_cave_update_8_9",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "chronicle_cave_update_1617",
+    "ItemType": "Story",
+    "AssetBaseId": "ChronicleCave",
+    "LocaBaseId": "chronicle_cave_update_8_9",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "chronicle_cave_update_1819",
+    "ItemType": "Story",
+    "AssetBaseId": "ChronicleCave",
+    "LocaBaseId": "chronicle_cave_update_8_9",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "chronicle_cave_update_2021",
+    "ItemType": "Story",
+    "AssetBaseId": "ChronicleCave",
+    "LocaBaseId": "chronicle_cave_update_8_9",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "mighty_eagle_dojo",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_mighty_eagle",
+    "LocaBaseId": "mighty_eagle_dojo",
+    "SortPriority": 12,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "comic_cutscene_01",
+    "ItemType": "Story",
+    "AssetBaseId": "VideoCutscene_01",
+    "LocaBaseId": "VideoCutscene_01",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "comic_cutscene_02",
+    "ItemType": "Story",
+    "AssetBaseId": "ComicCutscene_02",
+    "LocaBaseId": "ComicCutscene_02",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "comic_cutscene_03",
+    "ItemType": "Story",
+    "AssetBaseId": "ComicCutscene_03",
+    "LocaBaseId": "ComicCutscene_03",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "comic_cutscene_04",
+    "ItemType": "Story",
+    "AssetBaseId": "ComicCutscene_04",
+    "LocaBaseId": "ComicCutscene_04",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "comic_cutscene_05",
+    "ItemType": "Story",
+    "AssetBaseId": "ComicCutscene_05",
+    "LocaBaseId": "ComicCutscene_05",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "comic_cutscene_06",
+    "ItemType": "Story",
+    "AssetBaseId": "ComicCutscene_06",
+    "LocaBaseId": "ComicCutscene_06",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "comic_cutscene_07",
+    "ItemType": "Story",
+    "AssetBaseId": "ComicCutscene_07",
+    "LocaBaseId": "ComicCutscene_07",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "comic_cutscene_pvp",
+    "ItemType": "Story",
+    "AssetBaseId": "ComicCutscene_PvP",
+    "LocaBaseId": "ComicCutscene_PvP",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "achievement_poseidonpig",
+    "ItemType": "Story",
+    "AssetBaseId": "achievement_poseidonpig",
+    "LocaBaseId": "achievement_poseidonpig",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "castle01_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "castle01_chest",
+    "LocaBaseId": "castle01_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "castle02_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "castle02_chest",
+    "LocaBaseId": "castle02_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "castle03_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "castle03_chest",
+    "LocaBaseId": "castle03_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "castle04_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "castle04_chest",
+    "LocaBaseId": "castle04_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "castle05_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "castle05_chest",
+    "LocaBaseId": "castle05_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "castle06_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "castle06_chest",
+    "LocaBaseId": "castle06_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_18_08_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_18_08_chest",
+    "LocaBaseId": "miniboss_18_08_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_24_03_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_24_03_chest",
+    "LocaBaseId": "miniboss_24_03_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_33_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_33_chest",
+    "LocaBaseId": "miniboss_33_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_35_01_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_35_01_chest",
+    "LocaBaseId": "miniboss_35_01_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_39_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_39_chest",
+    "LocaBaseId": "miniboss_39_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_42_01_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_42_01_chest",
+    "LocaBaseId": "miniboss_42_01_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_53_01_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_53_01_chest",
+    "LocaBaseId": "miniboss_53_01_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_56_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_56_chest",
+    "LocaBaseId": "miniboss_56_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_71_02_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_71_02_chest",
+    "LocaBaseId": "miniboss_71_02_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_81_06_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_81_06_chest",
+    "LocaBaseId": "miniboss_81_06_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_96_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_96_chest",
+    "LocaBaseId": "miniboss_96_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_94_11_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_94_11_chest",
+    "LocaBaseId": "miniboss_94_11_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_99_12_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_99_12_chest",
+    "LocaBaseId": "miniboss_99_12_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_99_15_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_99_15_chest",
+    "LocaBaseId": "miniboss_99_15_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_108_05_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_108_05_chest",
+    "LocaBaseId": "miniboss_108_05_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_109_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_109_chest",
+    "LocaBaseId": "miniboss_109_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_110_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_110_chest",
+    "LocaBaseId": "miniboss_110_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_111_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_111_chest",
+    "LocaBaseId": "miniboss_111_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_112_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_112_chest",
+    "LocaBaseId": "miniboss_112_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "miniboss_113_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "miniboss_113_chest",
+    "LocaBaseId": "miniboss_113_chest",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "daily_chain_stamp",
+    "ItemType": "Story",
+    "AssetBaseId": "DailyChainStamp",
+    "LocaBaseId": "DailyChainStamp",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "daily_post_card",
+    "ItemType": "Story",
+    "AssetBaseId": "DailyQuestCards",
+    "LocaBaseId": "DailyPostCard",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "daily_post_card_max",
+    "ItemType": "Story",
+    "AssetBaseId": "DailyQuestCards",
+    "LocaBaseId": "DailyPostCard",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "daily_chain_introduction",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "pig_golden_pig",
+    "LocaBaseId": "daily_chain_introduction",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "empty_item",
+    "ItemType": "Story",
+    "AssetBaseId": "empty_item",
+    "LocaBaseId": "empty_item",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "rested_bonus",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "rested_bonus",
+    "LocaBaseId": "rested_bonus",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_rested_bonus",
+    "ItemType": "Story",
+    "AssetBaseId": "unlock_rested_bonus",
+    "LocaBaseId": "unlock_rested_bonus",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_offer_rainbow_riot",
+    "ItemType": "Story",
+    "AssetBaseId": "GoldenPigMachine",
+    "LocaBaseId": "special_offer_rainbow_riot",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "special_offer_rainbow_riot_02",
+    "ItemType": "Story",
+    "AssetBaseId": "GoldenPigMachine",
+    "LocaBaseId": "special_offer_rainbow_riot",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_collection",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "star_collection",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_aquiredreward_01",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_aquiredreward_02",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_aquiredreward_03",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_aquiredreward_04",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_aquiredreward_05",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_aquiredreward_06",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_popup_01",
+    "ItemType": "Story",
+    "AssetBaseId": "StarCollectionReward_XPPotions",
+    "LocaBaseId": "potion_xp_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_popup_02",
+    "ItemType": "Story",
+    "AssetBaseId": "StarCollectionReward_Mastery",
+    "LocaBaseId": "unlock_mastery_badge",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_popup_03",
+    "ItemType": "Story",
+    "AssetBaseId": "StarCollectionReward_MightyEaglesDish",
+    "LocaBaseId": "potion_damage_all_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_popup_04",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_Avenger",
+    "LocaBaseId": "bird_class_avenger",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_popup_04_snoutling",
+    "ItemType": "Story",
+    "AssetBaseId": "ShopOffer_Snoutlings_2",
+    "LocaBaseId": "player_stat_coin",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_popup_05",
+    "ItemType": "Story",
+    "AssetBaseId": "StarCollectionReward_PurifyPotions",
+    "LocaBaseId": "potion_purify_01",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "star_popup_06",
+    "ItemType": "Story",
+    "AssetBaseId": "StarCollectionReward_AdvGoldenPig",
+    "LocaBaseId": "story_goldenpig_advanced",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "event_points_standard",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "EventScore",
+    "LocaBaseId": "event_points",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "show_energy_discount",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "pvp_points_standard",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "Resource_PVPRankingPoints",
+    "LocaBaseId": "pvp_points",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "pvp_energy",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "PvPCharge_Full",
+    "LocaBaseId": "player_stat_pvp_energy",
+    "SortPriority": 5,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "pvp_energy_refill",
+    "ItemType": "Story",
+    "AssetBaseId": "BuyPvPCharges",
+    "LocaBaseId": "story_pvp_energy_refill",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "pvp_won_battles",
+    "ItemType": "Story",
+    "AssetBaseId": "BadgeOfHonor",
+    "LocaBaseId": "pvp_won_battles",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "pvp_league_crown_max",
+    "ItemType": "Story",
+    "AssetBaseId": "LeagueCrown",
+    "LocaBaseId": "pvp_league_crown",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "pvp_league_crown",
+    "ItemType": "Story",
+    "AssetBaseId": "LeagueCrown",
+    "LocaBaseId": "pvp_league_crown",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "pvpgacha_standard_uses",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "pvpgacha_set_uses",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "free_pvpgacha_use",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "message_reward_gacha_obtained",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "event_gate_unlock",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_event_stars",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Star",
+    "LocaBaseId": "collection_event_stars",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_stoneguard_stone",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "AztecStoneFragment",
+    "LocaBaseId": "collection_stoneguard_stone_02",
+    "SortPriority": 4,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_stoneguard_feathers",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "HugeFeathers",
+    "LocaBaseId": "collection_stoneguard_feathers_02",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_stoneguard_flower",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "MossFlower",
+    "LocaBaseId": "collection_stoneguard_flower_02",
+    "SortPriority": 3,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_stoneguard_tusk",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Tusk",
+    "LocaBaseId": "collection_stoneguard_tusk_02",
+    "SortPriority": 2,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_stoneguard_idol",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Idol",
+    "LocaBaseId": "collection_stoneguard_idol",
+    "SortPriority": 5,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_stoneguard",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_StoneGuard",
+    "LocaBaseId": "bird_class_stoneguard",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_elitestoneguard",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteStoneGuard",
+    "LocaBaseId": "bird_skin_elitestoneguard",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_illusionist",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_Illusionist",
+    "LocaBaseId": "bird_class_illusionist",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_witch",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_Witch",
+    "LocaBaseId": "bird_class_witch",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_winterfighter",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_WinterWarrior",
+    "LocaBaseId": "bird_class_winterfighter",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "pvp_trophy",
+    "ItemType": "Trophy",
+    "AssetBaseId": "Season",
+    "LocaBaseId": "pvp_trophy",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_eventcampaign_dungeon",
+    "ItemType": "Story",
+    "AssetBaseId": "EventCampaignDungeon",
+    "LocaBaseId": "golden_dungeon",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_illusionist_bluecloth",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "BlueCloth",
+    "LocaBaseId": "collection_illusionist_bluecloth",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_illusionist_needles",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Needles",
+    "LocaBaseId": "collection_illusionist_needles",
+    "SortPriority": 2,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_illusionist_redrope",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "RedRope",
+    "LocaBaseId": "collection_illusionist_redrope",
+    "SortPriority": 3,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_illusionist_whitewool",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "WhiteWool",
+    "LocaBaseId": "collection_illusionist_whitewool",
+    "SortPriority": 4,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_illusionist_ring",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Ring",
+    "LocaBaseId": "collection_illusionist_ring",
+    "SortPriority": 5,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "sonic_teaser_info",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "sonic_teaser_info",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "addchar_sonic",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_sonic",
+    "LocaBaseId": "addchar_sonic",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_witch_spirit",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Spirit",
+    "LocaBaseId": "collection_witch_spirit",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_witch_pumpkin",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Pumpkin",
+    "LocaBaseId": "collection_witch_pumpkin",
+    "SortPriority": 2,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_witch_bones",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Bones",
+    "LocaBaseId": "collection_witch_bones",
+    "SortPriority": 3,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_witch_ectoplasm",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Ectoplasm",
+    "LocaBaseId": "collection_witch_ectoplasm",
+    "SortPriority": 4,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_witch_candy",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Candy",
+    "LocaBaseId": "collection_witch_candy",
+    "SortPriority": 5,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_snow_bell",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Bell",
+    "LocaBaseId": "collection_snow_bell",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_snow_candycane",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "CandyCane",
+    "LocaBaseId": "collection_snow_candycane",
+    "SortPriority": 2,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_snow_mistletoe",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Mistletoe",
+    "LocaBaseId": "collection_snow_mistletoe",
+    "SortPriority": 3,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_snow_present",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Present",
+    "LocaBaseId": "collection_snow_present",
+    "SortPriority": 4,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_snow_treeball",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "TreeBall",
+    "LocaBaseId": "collection_snow_treeball",
+    "SortPriority": 5,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_blackfriday",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_merchant",
+    "LocaBaseId": "offer_lucky_coins_blackfriday",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_birdday",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_merchant",
+    "LocaBaseId": "offer_lucky_coins_birdday",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_android40m",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_merchant",
+    "LocaBaseId": "offer_lucky_coins_android40m",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_chinese_nysale",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_minion_lanternpig",
+    "LocaBaseId": "offer_snoutlings_chinese_nysale",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_christmas",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_caster_santa",
+    "LocaBaseId": "unlock_christmas",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_christmas_02",
+    "ItemType": "Story",
+    "AssetBaseId": "pig_caster_santa",
+    "LocaBaseId": "unlock_christmas_02",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_valentine_heartlollipop",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "HeartLollipop",
+    "LocaBaseId": "collection_valentine_heartlollipop",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_valentine_bouquet",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Bouquet",
+    "LocaBaseId": "collection_valentine_bouquet",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_valentine_chocolate",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "ValentineChocolate",
+    "LocaBaseId": "collection_valentine_chocolate",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_valentine_loveletter",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "LoveLetter",
+    "LocaBaseId": "collection_valentine_loveletter",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_valentine_goldenarrows",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "GoldenArrows",
+    "LocaBaseId": "collection_valentine_goldenarrows",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_treasurehunters",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_TreasureHunters",
+    "LocaBaseId": "bird_class_treasurehunters",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "news_introduction",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "pig_golden_pig",
+    "LocaBaseId": "news_introduction",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_easter_bunny",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "ChocolateBunny",
+    "LocaBaseId": "collection_easter_bunny",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_easter_basket",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "EasterBasket",
+    "LocaBaseId": "collection_easter_basket",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_easter_carrots",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Carrots",
+    "LocaBaseId": "collection_easter_carrots",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_easter_egg",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "EasterEgg",
+    "LocaBaseId": "collection_easter_egg",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_easter_hat",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "EasterHat",
+    "LocaBaseId": "collection_easter_hat",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_eliteknight",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteKnight",
+    "LocaBaseId": "bird_skin_eliteknight",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_xpromo",
+    "ItemType": "Story",
+    "AssetBaseId": "Xpromo",
+    "LocaBaseId": "unlock_xpromo",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_skins",
+    "ItemType": "Story",
+    "AssetBaseId": "Skins",
+    "LocaBaseId": "unlock_skin",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_movie_ticket",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "MovieTicket",
+    "LocaBaseId": "collection_movie_ticket",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_movie_popcorn",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Popcorn",
+    "LocaBaseId": "collection_movie_popcorn",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_movie_softdrink",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Softdrink",
+    "LocaBaseId": "collection_movie_softdrink",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_movie_glasses",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "3DGlasses",
+    "LocaBaseId": "collection_movie_glasses",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_movie_filmreel",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "FilmReel",
+    "LocaBaseId": "collection_movie_filmreel",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_elitemage",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteMage",
+    "LocaBaseId": "bird_skin_elitemage",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_eventcampaign_moviedungeon",
+    "ItemType": "Story",
+    "AssetBaseId": "CinePig_Movie",
+    "LocaBaseId": "golden_dungeon_movie",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_elitecleric",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteCleric",
+    "LocaBaseId": "bird_skin_elitecleric",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_anniversary_partyhat",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "PartyHat",
+    "LocaBaseId": "collection_anniversary_partyhat",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_anniversary_balloons",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "Balloons",
+    "LocaBaseId": "collection_anniversary_balloons",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_anniversary_partywhistle",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "PartyWhistle",
+    "LocaBaseId": "collection_anniversary_partywhistle",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_anniversary_birthdaypresent",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "BirthdayPresent",
+    "LocaBaseId": "collection_anniversary_birthdaypresent",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_anniversary_birthdaycake",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "BirthdayCake",
+    "LocaBaseId": "collection_anniversary_birthdaycake",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_elitepirate",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_ElitePirate",
+    "LocaBaseId": "bird_skin_elitepirate",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_sports_torch",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "OlympicTorch",
+    "LocaBaseId": "collection_sports_torch",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_sports_flag",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "OlympiaRings",
+    "LocaBaseId": "collection_sports_flag",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_sports_podium",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "WinnersPodium",
+    "LocaBaseId": "collection_sports_podium",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_sports_baywreath",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "BayWreath",
+    "LocaBaseId": "collection_sports_baywreath",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_sports_goldmedal",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "GoldMedal",
+    "LocaBaseId": "collection_sports_goldmedal",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_elitetricksters",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteTrickster",
+    "LocaBaseId": "bird_skin_elitetricksters",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "coll_reward_elitetricksters_noblues",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_blue_elitetricksters",
+    "LocaBaseId": "bird_skin_elitetricksters_noblues",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_eliteguardian",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteGuardian",
+    "LocaBaseId": "bird_skin_eliteguardian",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_oktoberfest_prezel",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "GiantPrezel",
+    "LocaBaseId": "collection_oktoberfest_prezel",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_oktoberfest_gingerbreadheart",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "GingerbreadHeart",
+    "LocaBaseId": "collection_oktoberfest_gingerbreadheart",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_oktoberfest_bavarianhat",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "BavarianHat",
+    "LocaBaseId": "collection_oktoberfest_bavarianhat",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_oktoberfest_cottoncandy",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "CottonCandy",
+    "LocaBaseId": "collection_oktoberfest_cottoncandy",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_oktoberfest_bavarianflag",
+    "ItemType": "CollectionComponent",
+    "AssetBaseId": "BavarianFlag",
+    "LocaBaseId": "collection_oktoberfest_bavarianflag",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_eliteillusionist",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteIllusionist",
+    "LocaBaseId": "bird_skin_eliteillusionist",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_elitewitch",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteWitch",
+    "LocaBaseId": "bird_skin_elitewitch",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_elitewinterfighter",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteWinterWarrior",
+    "LocaBaseId": "bird_skin_elitewinterfighter",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_reward_elitetreasurehunters",
+    "ItemType": "Story",
+    "AssetBaseId": "Headgear_EliteTreasureHunters",
+    "LocaBaseId": "bird_skin_elitetreasurehunters",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "free_refresh_use",
+    "ItemType": "PlayerStats",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_elite_chest_campaign",
+    "ItemType": "Story",
+    "AssetBaseId": "ClassChest_Large",
+    "LocaBaseId": "elitechest00",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_elite_chest_worldboss",
+    "ItemType": "Story",
+    "AssetBaseId": "EliteChest_Large",
+    "LocaBaseId": "elitechest01",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "elite_chest",
+    "ItemType": "Story",
+    "AssetBaseId": "EliteChest_Large",
+    "LocaBaseId": "elitechest02",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_bps",
+    "ItemType": "Story",
+    "AssetBaseId": "Skins",
+    "LocaBaseId": "unlock_skin",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "story_fusion",
+    "ItemType": "Story",
+    "AssetBaseId": "SetItemFusion",
+    "LocaBaseId": "story_fusion",
+    "SortPriority": 1,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_elite_chest_worldboss_mastery",
+    "ItemType": "Story",
+    "AssetBaseId": "EliteChest_Large",
+    "LocaBaseId": "elitechest02",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "collection_elite_chest_worldboss_currency",
+    "ItemType": "Story",
+    "AssetBaseId": "EliteChest_Large",
+    "LocaBaseId": "elitechest03",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_offer_perma_s",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_offer_perma_m",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_offer_perma_l",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_offer_perma_xl",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_offer_perma_xxl",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "unlock_arenaoffer",
+    "ItemType": "Story",
+    "AssetBaseId": "",
+    "LocaBaseId": "",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  }
+]

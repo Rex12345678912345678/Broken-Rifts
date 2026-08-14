@@ -1,0 +1,53 @@
+﻿using System;
+
+namespace ABH.Shared.Generic
+{
+	public enum RequirementType
+	{
+		None,
+		PayItem,
+		HaveItem,
+		NotHaveItem,
+		HaveBird,
+		Level,
+		CooldownFinished,
+		IsSpecificWeekday,
+		IsNotSpecificWeekday,
+		HaveCurrentHotpsotState,
+		HavePassedCycleTime,
+		NotHavePassedCycleTime,
+		NotHaveItemWithLevel,
+		HaveItemWithLevel,
+		UsedFriends,
+		HaveUnlockedHotpsot,
+		NotHaveUnlockedHotpsot,
+		HaveLessThan,
+		HaveBirdCount,
+		HaveAllUpgrades,
+		NotHaveAllUpgrades,
+		NotUseBirdInBattle,
+		UseBirdInBattle,
+		HaveMasteryFactor,
+		NotHaveMasteryFactor,
+		NotHaveClass,
+		IsConverted,
+		HaveEventCampaignHotspotState,
+		HaveTotalItemsInCollection,
+		LostPvpBattle,
+		HaveEventScore,
+		HaveClass,
+		HaveCurrentChronicleCaveState,
+		TutorialCompleted,
+		TotalMoneySpent,
+		LostUnresolvedHotspot,
+		UnlockedAllClasses,
+		BirdMasteryFactorMinimum,
+		BirdMasteryFactorMaximum,
+		HighestLeagueReached,
+		TimeSinceLastPurchase,
+		DeclinedOffer,
+		AcceptedOffer,
+		EndedOffer,
+		UnlockedAllSkins
+	}
+}

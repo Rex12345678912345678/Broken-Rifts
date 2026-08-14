@@ -1,0 +1,6366 @@
+[
+  {
+    "NameId": "class_knight",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Knight",
+    "LocaBaseId": "bird_class_knight",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_red_knight",
+      "bird_support_red_knight"
+    ],
+    "RestrictedBirdId": "bird_red",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_knight",
+          "bird_support_red_knight",
+          "bird_attack_red_knight"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_knight",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_knight",
+          "bird_support_red_knight",
+          "bird_attack_red_knight"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_red_knight",
+      "bird_support_red_knight"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_ronin",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Ronin",
+    "LocaBaseId": "bird_class_ronin",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_red_ronin",
+      "bird_support_red_ronin"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_ronin",
+          "bird_support_red_ronin",
+          "bird_attack_red_ronin"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "class_knight",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_ronin",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_ronin",
+          "bird_support_red_ronin",
+          "bird_attack_red_ronin"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_red_ronin",
+      "bird_support_red_ronin"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_guardian",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Guardian",
+    "LocaBaseId": "bird_class_guardian",
+    "SortPriority": 2,
+    "SkillNameIds": [
+      "bird_attack_red_guardian",
+      "bird_support_red_guardian"
+    ],
+    "RestrictedBirdId": "bird_red",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_red_guardian",
+          "bird_attack_red_guardian",
+          "bird_attack_red_guardian",
+          "bird_attack_red_guardian"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_guardian",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_red_guardian",
+          "bird_attack_red_guardian",
+          "bird_attack_red_guardian",
+          "bird_attack_red_guardian"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_red_guardian",
+      "bird_support_red_guardian"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_samurai",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Samurai",
+    "LocaBaseId": "bird_class_samurai",
+    "SortPriority": 3,
+    "SkillNameIds": [
+      "bird_attack_red_samurai",
+      "bird_support_red_samurai"
+    ],
+    "RestrictedBirdId": "bird_red",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_samurai"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_samurai",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_samurai"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_red_samurai",
+      "bird_support_red_samurai"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_avenger",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Avenger",
+    "LocaBaseId": "bird_class_avenger",
+    "SortPriority": 4,
+    "SkillNameIds": [
+      "bird_attack_red_avenger",
+      "bird_support_red_avenger"
+    ],
+    "RestrictedBirdId": "bird_red",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_red_avenger",
+          "bird_attack_red_avenger",
+          "bird_attack_red_avenger"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_avenger",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_red_avenger",
+          "bird_attack_red_avenger",
+          "bird_attack_red_avenger"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_red_avenger",
+      "bird_support_red_avenger"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_paladin",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Paladin",
+    "LocaBaseId": "bird_class_paladin",
+    "SortPriority": 5,
+    "SkillNameIds": [
+      "bird_attack_red_paladin",
+      "bird_support_red_paladin"
+    ],
+    "RestrictedBirdId": "bird_red",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_paladin"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_paladin",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_paladin"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_red_paladin",
+      "bird_support_red_paladin"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_stoneguard",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_StoneGuard",
+    "LocaBaseId": "bird_class_stoneguard",
+    "SortPriority": 6,
+    "SkillNameIds": [
+      "bird_attack_red_stoneguard",
+      "bird_support_red_stoneguard"
+    ],
+    "RestrictedBirdId": "bird_red",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_red_stoneguard",
+          "bird_attack_red_stoneguard",
+          "bird_attack_red_stoneguard"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_stoneguard",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_red_stoneguard",
+          "bird_attack_red_stoneguard",
+          "bird_attack_red_stoneguard"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_red_stoneguard",
+      "bird_support_red_stoneguard"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 1428264000,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_mage",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Mage",
+    "LocaBaseId": "bird_class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_yellow_mage",
+      "bird_support_yellow_mage"
+    ],
+    "RestrictedBirdId": "bird_yellow",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_mage"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "tauntingAlly",
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_mage",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_mage"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_yellow_mage",
+      "bird_support_yellow_mage"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_nerd",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ArchMage",
+    "LocaBaseId": "bird_class_nerd",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_yellow_nerd",
+      "bird_support_yellow_nerd"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_nerd"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "class_mage",
+    "InterruptConditionCombos": [
+      "tauntingAlly",
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_nerd",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_nerd"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_yellow_nerd",
+      "bird_support_yellow_nerd"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_lightningbird",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_LightningBird",
+    "LocaBaseId": "bird_class_lightningbird",
+    "SortPriority": 2,
+    "SkillNameIds": [
+      "bird_attack_yellow_lightningbird",
+      "bird_support_yellow_lightningbird"
+    ],
+    "RestrictedBirdId": "bird_yellow",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 65.0,
+        "ComboChain": [
+          "bird_attack_yellow_lightningbird"
+        ]
+      },
+      {
+        "Percentage": 35.0,
+        "ComboChain": [
+          "bird_support_yellow_lightningbird"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_lightningbird",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 65.0,
+        "ComboChain": [
+          "bird_attack_yellow_lightningbird"
+        ]
+      },
+      {
+        "Percentage": 35.0,
+        "ComboChain": [
+          "bird_support_yellow_lightningbird"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_yellow_lightningbird",
+      "bird_support_yellow_lightningbird"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_wizard",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Wizard",
+    "LocaBaseId": "bird_class_wizard",
+    "SortPriority": 4,
+    "SkillNameIds": [
+      "bird_attack_yellow_wizard",
+      "bird_support_yellow_wizard"
+    ],
+    "RestrictedBirdId": "bird_yellow",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_wizard"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "tauntingAlly",
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_wizard",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_wizard"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_yellow_wizard",
+      "bird_support_yellow_wizard"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_rainbird",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Rainbird",
+    "LocaBaseId": "bird_class_rainbird",
+    "SortPriority": 3,
+    "SkillNameIds": [
+      "bird_attack_yellow_rainbird",
+      "bird_support_yellow_rainbird"
+    ],
+    "RestrictedBirdId": "bird_yellow",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_rainbird",
+          "bird_support_yellow_rainbird",
+          "bird_support_yellow_rainbird",
+          "bird_support_yellow_rainbird"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_rainbird",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_rainbird",
+          "bird_support_yellow_rainbird",
+          "bird_support_yellow_rainbird",
+          "bird_support_yellow_rainbird"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_yellow_rainbird",
+      "bird_support_yellow_rainbird"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_thunderbird",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Thunderbird",
+    "LocaBaseId": "bird_class_thunderbird",
+    "SortPriority": 5,
+    "SkillNameIds": [
+      "bird_attack_yellow_thunderbird",
+      "bird_support_yellow_thunderbird"
+    ],
+    "RestrictedBirdId": "bird_yellow",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_yellow_thunderbird",
+          "bird_attack_yellow_thunderbird",
+          "bird_attack_yellow_thunderbird",
+          "bird_attack_yellow_thunderbird"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_thunderbird",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_yellow_thunderbird",
+          "bird_attack_yellow_thunderbird",
+          "bird_attack_yellow_thunderbird",
+          "bird_attack_yellow_thunderbird"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_yellow_thunderbird",
+      "bird_support_yellow_thunderbird"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_illusionist",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Illusionist",
+    "LocaBaseId": "bird_class_illusionist",
+    "SortPriority": 6,
+    "SkillNameIds": [
+      "bird_attack_yellow_illusionist",
+      "bird_support_yellow_illusionist"
+    ],
+    "RestrictedBirdId": "bird_yellow",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_yellow_illusionist",
+          "bird_attack_yellow_illusionist",
+          "bird_attack_yellow_illusionist",
+          "bird_attack_yellow_illusionist"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_illusionist",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_yellow_illusionist",
+          "bird_attack_yellow_illusionist",
+          "bird_attack_yellow_illusionist",
+          "bird_attack_yellow_illusionist"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_yellow_illusionist",
+      "bird_support_yellow_illusionist"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 1442174400,
+    "TeasedAt": 1442174400,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_darkmagician",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DarkMagician",
+    "LocaBaseId": "bird_class_darkmagician",
+    "SortPriority": 7,
+    "SkillNameIds": [
+      "bird_attack_yellow_darkmage",
+      "bird_support_yellow_darkmage"
+    ],
+    "RestrictedBirdId": "bird_yellow",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_darkmage"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "tauntingAlly",
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_mage",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_yellow_darkmage"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_yellow_darkmage",
+      "bird_support_yellow_darkmage"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_cleric",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Cleric",
+    "LocaBaseId": "bird_class_cleric",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_white_cleric",
+      "bird_support_white_cleric"
+    ],
+    "RestrictedBirdId": "bird_white",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_white_cleric",
+          "bird_attack_white_cleric",
+          "bird_attack_white_cleric",
+          "bird_attack_white_cleric"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_cleric",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_white_cleric",
+          "bird_attack_white_cleric",
+          "bird_attack_white_cleric",
+          "bird_attack_white_cleric"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_white_cleric",
+      "bird_support_white_cleric"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_moonpriest",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_MoonPriest",
+    "LocaBaseId": "bird_class_moonpriest",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_white_moonpriest",
+      "bird_support_white_moonpriest"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_white_moonpriest",
+          "bird_attack_white_moonpriest",
+          "bird_attack_white_moonpriest",
+          "bird_attack_white_moonpriest"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "class_cleric",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_moonpriest",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_white_moonpriest",
+          "bird_attack_white_moonpriest",
+          "bird_attack_white_moonpriest",
+          "bird_attack_white_moonpriest"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_white_moonpriest",
+      "bird_support_white_moonpriest"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_druid",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Druid",
+    "LocaBaseId": "bird_class_druid",
+    "SortPriority": 2,
+    "SkillNameIds": [
+      "bird_attack_white_druid",
+      "bird_support_white_druid"
+    ],
+    "RestrictedBirdId": "bird_white",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_white_druid"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "woundedAlly"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_druid",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_white_druid"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_white_druid",
+      "bird_support_white_druid"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_princess",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Princess",
+    "LocaBaseId": "bird_class_princess",
+    "SortPriority": 3,
+    "SkillNameIds": [
+      "bird_attack_white_princess",
+      "bird_support_white_princess"
+    ],
+    "RestrictedBirdId": "bird_white",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_white_princess"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "woundedAlly"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_princess",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_white_princess"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_white_princess",
+      "bird_support_white_princess"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_bard",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Bard",
+    "LocaBaseId": "bird_class_bard",
+    "SortPriority": 5,
+    "SkillNameIds": [
+      "bird_attack_white_bard",
+      "bird_support_white_bard"
+    ],
+    "RestrictedBirdId": "bird_white",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_white_bard",
+          "bird_support_white_bard",
+          "bird_attack_white_bard",
+          "bird_attack_white_bard"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_bard",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_white_bard",
+          "bird_support_white_bard",
+          "bird_attack_white_bard",
+          "bird_attack_white_bard"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_white_bard",
+      "bird_support_white_bard"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_priest",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Priest",
+    "LocaBaseId": "bird_class_priest",
+    "SortPriority": 4,
+    "SkillNameIds": [
+      "bird_attack_white_priest",
+      "bird_support_white_priest"
+    ],
+    "RestrictedBirdId": "bird_white",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_white_priest",
+          "bird_attack_white_priest",
+          "bird_attack_white_priest",
+          "bird_attack_white_priest"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_priest",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_white_priest",
+          "bird_attack_white_priest",
+          "bird_attack_white_priest",
+          "bird_attack_white_priest"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_white_priest",
+      "bird_support_white_priest"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_witch",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Witch",
+    "LocaBaseId": "bird_class_witch",
+    "SortPriority": 6,
+    "SkillNameIds": [
+      "bird_attack_white_witch",
+      "bird_support_white_witch"
+    ],
+    "RestrictedBirdId": "bird_white",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_white_witch",
+          "bird_attack_white_witch",
+          "bird_attack_white_witch",
+          "bird_attack_white_witch"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_witch",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_white_witch",
+          "bird_attack_white_witch",
+          "bird_attack_white_witch",
+          "bird_attack_white_witch"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_white_witch",
+      "bird_support_white_witch"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_pirate",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Pirate",
+    "LocaBaseId": "bird_class_pirate",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_black_pirate",
+      "bird_support_black_pirate"
+    ],
+    "RestrictedBirdId": "bird_black",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_pirate",
+          "bird_attack_black_pirate",
+          "bird_attack_black_pirate",
+          "bird_attack_black_pirate"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_pirate",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_pirate",
+          "bird_attack_black_pirate",
+          "bird_attack_black_pirate",
+          "bird_attack_black_pirate"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_black_pirate",
+      "bird_support_black_pirate"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_corsair",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Corsair",
+    "LocaBaseId": "bird_class_corsair",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_black_corsair",
+      "bird_support_black_corsair"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_corsair",
+          "bird_attack_black_corsair",
+          "bird_attack_black_corsair",
+          "bird_attack_black_corsair"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "class_pirate",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_corsair",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_corsair",
+          "bird_attack_black_corsair",
+          "bird_attack_black_corsair",
+          "bird_attack_black_corsair"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_black_corsair",
+      "bird_support_black_corsair"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_cannoneer",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Cannoneer",
+    "LocaBaseId": "bird_class_cannoneer",
+    "SortPriority": 2,
+    "SkillNameIds": [
+      "bird_attack_black_cannoneer",
+      "bird_support_black_cannoneer"
+    ],
+    "RestrictedBirdId": "bird_black",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_black_cannoneer"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "tauntingAlly",
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_cannoneer",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_black_cannoneer"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_black_cannoneer",
+      "bird_support_black_cannoneer"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_berserk",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Berserk",
+    "LocaBaseId": "bird_class_berserk",
+    "SortPriority": 3,
+    "SkillNameIds": [
+      "bird_attack_black_berserk",
+      "bird_support_black_berserk"
+    ],
+    "RestrictedBirdId": "bird_black",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_black_berserk"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "min3Enemies"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_berserk",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_black_berserk"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_black_berserk",
+      "bird_support_black_berserk_pvp"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_captn",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Captain",
+    "LocaBaseId": "bird_class_captn",
+    "SortPriority": 4,
+    "SkillNameIds": [
+      "bird_attack_black_captn",
+      "bird_support_black_captn"
+    ],
+    "RestrictedBirdId": "bird_black",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_captn",
+          "bird_attack_black_captn",
+          "bird_attack_black_captn",
+          "bird_attack_black_captn"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_captn",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_captn",
+          "bird_attack_black_captn",
+          "bird_attack_black_captn",
+          "bird_attack_black_captn"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_black_captn",
+      "bird_support_black_captn"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_seadog",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SeaDog",
+    "LocaBaseId": "bird_class_seadog",
+    "SortPriority": 5,
+    "SkillNameIds": [
+      "bird_attack_black_seadog",
+      "bird_support_black_seadog"
+    ],
+    "RestrictedBirdId": "bird_black",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_seadog",
+          "bird_attack_black_seadog",
+          "bird_attack_black_seadog"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_seadog",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_seadog",
+          "bird_attack_black_seadog",
+          "bird_attack_black_seadog"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_black_seadog",
+      "bird_support_black_seadog"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_winterfighter",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_WinterWarrior",
+    "LocaBaseId": "bird_class_winterfighter",
+    "SortPriority": 6,
+    "SkillNameIds": [
+      "bird_attack_black_winterfighter",
+      "bird_support_black_winterfighter"
+    ],
+    "RestrictedBirdId": "bird_black",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_winterfighter",
+          "bird_attack_black_winterfighter",
+          "bird_attack_black_winterfighter",
+          "bird_attack_black_winterfighter"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_winterfighter",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_black_winterfighter",
+          "bird_attack_black_winterfighter",
+          "bird_attack_black_winterfighter",
+          "bird_attack_black_winterfighter"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_black_winterfighter",
+      "bird_support_black_winterfighter"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_tricksters",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Trickster",
+    "LocaBaseId": "bird_class_tricksters",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_blues_tricksters",
+      "bird_support_blues_tricksters"
+    ],
+    "RestrictedBirdId": "bird_blue",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_blues_tricksters",
+          "bird_attack_blues_tricksters",
+          "bird_attack_blues_tricksters",
+          "bird_attack_blues_tricksters"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "min3Debuffs"
+    ],
+    "InterruptAction": "resetChain",
+    "Mastery": "mastery_tricksters",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_blues_tricksters",
+          "bird_attack_blues_tricksters",
+          "bird_attack_blues_tricksters",
+          "bird_attack_blues_tricksters"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_blues_tricksters",
+      "bird_support_blues_tricksters"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_rogues",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Rogue",
+    "LocaBaseId": "bird_class_rogues",
+    "SortPriority": 2,
+    "SkillNameIds": [
+      "bird_attack_blues_rogues",
+      "bird_support_blues_rogues"
+    ],
+    "RestrictedBirdId": "bird_blue",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_blues_rogues",
+          "bird_support_blues_rogues",
+          "bird_attack_blues_rogues"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_rogues",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_blues_rogues",
+          "bird_support_blues_rogues",
+          "bird_attack_blues_rogues"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_blues_rogues",
+      "bird_support_blues_rogues"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_skulkers",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Skulker",
+    "LocaBaseId": "bird_class_skulkers",
+    "SortPriority": 5,
+    "SkillNameIds": [
+      "bird_attack_blues_skulkers",
+      "bird_support_blues_skulkers"
+    ],
+    "RestrictedBirdId": "bird_blue",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 60.0,
+        "ComboChain": [
+          "bird_attack_blues_skulkers"
+        ]
+      },
+      {
+        "Percentage": 40.0,
+        "ComboChain": [
+          "bird_support_blues_skulkers"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_skulkers",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 60.0,
+        "ComboChain": [
+          "bird_attack_blues_skulkers"
+        ]
+      },
+      {
+        "Percentage": 40.0,
+        "ComboChain": [
+          "bird_support_blues_skulkers"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_blues_skulkers",
+      "bird_support_blues_skulkers"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_spies",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Spy",
+    "LocaBaseId": "bird_class_spies",
+    "SortPriority": 4,
+    "SkillNameIds": [
+      "bird_attack_blues_spies",
+      "bird_support_blues_spies"
+    ],
+    "RestrictedBirdId": "bird_blue",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_blues_spies",
+          "bird_attack_blues_spies",
+          "bird_support_blues_spies",
+          "bird_attack_blues_spies"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_spies",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_blues_spies",
+          "bird_attack_blues_spies",
+          "bird_support_blues_spies",
+          "bird_attack_blues_spies"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_blues_spies",
+      "bird_support_blues_spies"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_marksmen",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Marksman",
+    "LocaBaseId": "bird_class_marksmen",
+    "SortPriority": 3,
+    "SkillNameIds": [
+      "bird_attack_blues_marksmen",
+      "bird_support_blues_marksmen"
+    ],
+    "RestrictedBirdId": "bird_blue",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_blues_marksmen"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "tauntingAlly",
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_marksmen",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_blues_marksmen"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_blues_marksmen",
+      "bird_support_blues_marksmen"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_treasurehunters",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_TreasureHunters",
+    "LocaBaseId": "bird_class_treasurehunters",
+    "SortPriority": 6,
+    "SkillNameIds": [
+      "bird_attack_blues_explorers",
+      "bird_support_blues_explorers"
+    ],
+    "RestrictedBirdId": "bird_blue",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 65.0,
+        "ComboChain": [
+          "bird_attack_blues_explorers"
+        ]
+      },
+      {
+        "Percentage": 35.0,
+        "ComboChain": [
+          "bird_support_blues_explorers"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_treasurehunters",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 65.0,
+        "ComboChain": [
+          "bird_attack_blues_explorers"
+        ]
+      },
+      {
+        "Percentage": 35.0,
+        "ComboChain": [
+          "bird_support_blues_explorers"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_blues_explorers",
+      "bird_support_blues_explorers"
+    ],
+    "IsPremium": true,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_mighty_eagle",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear",
+    "LocaBaseId": "bird_class_samurai",
+    "SortPriority": 3,
+    "SkillNameIds": [
+      "bird_attack_red_samurai",
+      "bird_support_red_samurai"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_samurai"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": [
+      "chargeAttack"
+    ],
+    "InterruptAction": "support",
+    "Mastery": "mastery_mighty_eagle",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_red_samurai"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_red_samurai",
+      "bird_support_red_samurai"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bird_prince_porky",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear",
+    "LocaBaseId": "class_prince_porky",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_prince_porky",
+      "bird_support_prince_porky"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 75.0,
+        "ComboChain": [
+          "bird_attack_prince_porky"
+        ]
+      },
+      {
+        "Percentage": 25.0,
+        "ComboChain": [
+          "bird_support_prince_porky"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_headgear_bird_prince_porky",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 75.0,
+        "ComboChain": [
+          "bird_attack_prince_porky"
+        ]
+      },
+      {
+        "Percentage": 25.0,
+        "ComboChain": [
+          "bird_support_prince_porky"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_prince_porky",
+      "bird_support_prince_porky"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bird_merchant",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_MerchantPig",
+    "LocaBaseId": "class_merchant",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_minion_merchant",
+      "bird_support_minion_merchant"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_minion_merchant"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_headgear_bird_merchant",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_minion_merchant"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_minion_merchant",
+      "bird_support_minion_merchant"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bird_asia",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Onmioji",
+    "LocaBaseId": "class_asia",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_asia",
+      "bird_support_asia"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_asia"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_headgear_bird_merchant",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_asia"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_asia",
+      "bird_support_asia"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bird_mauvey",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Mauvey",
+    "LocaBaseId": "class_mauvey",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_mauvey",
+      "bird_support_mauvey"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_mauvey"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_headgear_bird_merchant",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_mauvey"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_mauvey",
+      "bird_support_mauvey"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bird_mace",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Mace",
+    "LocaBaseId": "class_mace",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_mace",
+      "bird_support_mace"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_mace"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_headgear_bird_merchant",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_mauvey"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_mace",
+      "bird_support_mace"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bird_rex",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Rex",
+    "LocaBaseId": "class_rex",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_rex",
+      "bird_support_rex"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_rex"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_headgear_bird_merchant",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_rex"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_rex",
+      "bird_support_rex"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bird_heroknight",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Hero",
+    "LocaBaseId": "class_heroknight",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_heroknight",
+      "bird_support_heroknight"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_heroknight"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_headgear_bird_merchant",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_attack_heroknight"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_minion_merchant",
+      "bird_support_minion_merchant"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bird_adventurer",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Adventurer",
+    "LocaBaseId": "class_bird_adventurer",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_pirate_adventurer",
+      "bird_support_pirate_adventurer"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 75.0,
+        "ComboChain": [
+          "bird_attack_pirate_adventurer"
+        ]
+      },
+      {
+        "Percentage": 25.0,
+        "ComboChain": [
+          "bird_support_pirate_adventurer"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_headgear_bird_adventurer",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 75.0,
+        "ComboChain": [
+          "bird_attack_pirate_adventurer"
+        ]
+      },
+      {
+        "Percentage": 25.0,
+        "ComboChain": [
+          "bird_support_pirate_adventurer"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_pirate_adventurer",
+      "bird_support_pirate_adventurer"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_prince_porky",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_prince_porky_lovestruck",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Lovestruck",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_valkyrie",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Valkyrie",
+    "LocaBaseId": "bird_valkyrie",
+    "SortPriority": 1,
+    "SkillNameIds": [
+      "bird_attack_valkyrie_01",
+      "bird_support_valkyrie_01"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 75.0,
+        "ComboChain": [
+          "bird_support_valkyrie_01",
+          "bird_attack_valkyrie_01",
+          "bird_attack_valkyrie_01"
+        ]
+      },
+      {
+        "Percentage": 25.0,
+        "ComboChain": [
+          "bird_attack_valkyrie_01"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_headgear_valkyrie",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 75.0,
+        "ComboChain": [
+          "bird_support_valkyrie_01",
+          "bird_attack_valkyrie_01",
+          "bird_attack_valkyrie_01"
+        ]
+      },
+      {
+        "Percentage": 25.0,
+        "ComboChain": [
+          "bird_attack_valkyrie_01"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_valkyrie_01",
+      "bird_support_valkyrie_01"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "class_sonic",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear",
+    "LocaBaseId": "bird_sonic",
+    "SortPriority": 6,
+    "SkillNameIds": [
+      "bird_attack_sonic",
+      "bird_support_sonic"
+    ],
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_sonic",
+          "bird_attack_sonic",
+          "bird_attack_sonic",
+          "bird_attack_sonic"
+        ]
+      }
+    ],
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "mastery_sonic",
+    "PvPSkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "bird_support_sonic",
+          "bird_attack_sonic",
+          "bird_attack_sonic",
+          "bird_attack_sonic"
+        ]
+      }
+    ],
+    "PvPSkillNameIds": [
+      "bird_attack_sonic",
+      "bird_support_sonic"
+    ],
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_rogue",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Rogue",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pig_heroknight",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Hero",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_mermaid",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Mermaid",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sheriff",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Sheriff",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pilgrim",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Pilgrim",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_jester",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Jester",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_rouxls",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Rouxls",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_box",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Box",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_boxred",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BoxRed",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_shaman_sheep",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Sheep",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_shaman_direwolf",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Direwolf",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_wolflackeyp",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_WolfLackeyP",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_wolflackeyb",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_WolfLackeyB",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_duchess",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Duchess",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_dukeg",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DukeG",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_farmerz",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_FarmerZ",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_executioner",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Executioner",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bird_catcher",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BirdCatcher",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_guard",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_PigGuard",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_daguard",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Guard",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_dapirate",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Dapirate",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_deadeye",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Deadeye",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_batteringram",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Ram",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_batteringrampoison",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_RamPoison",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_squire",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Squire",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_cupid_cute",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_CuteCupid",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_cupid_dark",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DarkCupid",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_cupido",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Cupido",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_apprentice",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Apprentice",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_eggpainter",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_EggPainter",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_flowerpig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_FlowerPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_egg_red",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_RedEgg",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_egg_yellow",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_YellowEgg",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_egg_white",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_WhiteEgg",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_egg_black",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BlackEgg",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_egg_blue",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BlueEgg",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_camerapig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_CameraPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_soundpig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SoundPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_bestboy",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BestBoy",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_makeup",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_MakeUpArtist",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_slatepig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SlatePig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_securitypig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SecurityPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_reporterpig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ReporterPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_sportsman_a",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SportsmanA",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_sportsman_b",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SportsmanB",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_sportsman_c",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SportsmanC",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_sportsman_d",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SportsmanD",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_sportsman_e",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SportsmanE",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_lederhosen_visitor_a",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_LederhosenVisitorA",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_lederhosen_visitor_b",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_LederhosenVisitorB",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_dirndl_visitor_a",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DirndlVisitorA",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_dirndl_visitor_b",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DirndlVisitorB",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_dirndl_visitor_c",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DirndlVisitorC",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_corporal",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Corporal",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_turban",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_TurbanPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_rogueboss",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_RogueBoss",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_snowpig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SnowPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_elf",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Elf",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_pumpkin",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_PumpkinPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_guardcaptain",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_GuardCaptain",
+    "LocaBaseId": "class_chevalier",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_protector",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Protector",
+    "LocaBaseId": "class_chevalier",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_knight_roseknight",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_RoseKnight",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_kingmantle",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_KingMantle",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_lunar",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Lunar",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_knight_ice",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_IceChevallier",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_knight_dark",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DarkKnight",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_knight_shogun",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Shogun",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_knight_royal_guard",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_RoyalGuard",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_knight_cactus",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_CactusKnight",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_knight_tin",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_TinKnight",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_pyropig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_PyroPig",
+    "LocaBaseId": "class_pyropig",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_frostpig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Frostpig",
+    "LocaBaseId": "class_pyropig",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_lightningpig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_LightningPig",
+    "LocaBaseId": "class_pyropig",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_necromancer",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Necromancer",
+    "LocaBaseId": "class_pyropig",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_naturepig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_NaturePig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_clown_a",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ClownA",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_clown_b",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ClownB",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_rooster",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Rooster",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pirate",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Pirate",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pirate_airpirate",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_AirPirate",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pirate_adventurer",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Adventurer",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pirate_captain",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_PirateCaptain",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pirate_captain_redbeard",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_CaptainRedBeard",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_captainredbeard",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_CaptainRedBeard",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_brute_bunny",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Bunny",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_brute_brawler",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Brawler",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_brute_pirate",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BigPirate",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_brute_frankenpig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Frankenpig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_brute_frosthog",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_FrostHog",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_brute_proppig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_PropPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_brute_cutter",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Cutter",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_brute_brass",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BrassBrute",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bigboss",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BigBoss",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_chieftain",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Chieftain",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_foreman",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Foreman",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_mandarin",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Mandarin",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pilotpig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_PilotPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_moustache_pastrychef",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Chocolatier",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_moustache_director",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Director",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_moustache_tinker",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Tinker",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_moustache_antler",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Antler",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_moustache_trainer",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Trainer",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_moustache_maestro",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Maestro",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_santa",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SantaPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_caster_referee",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Referee",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_knight_windup_knight",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_WindupKnight",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_zombie_knight",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ZombieKnight",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_zombie_berserk",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ZombieBerserker",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_zombie_stinky",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_StinkyZombie",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_zombie_mummy",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Mummy",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_ghost_willowhisp",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Willowhisp",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_ghost_banshee",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Banshee",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_ghost_wick",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Wick",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_ghost_poltergeist",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Poltergeist",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_ghost_shipkobold",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ShipsKobold",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pigmies_forest",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ForestPigmies",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pigmies_shooters",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_PigmyShooters",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pigmies_frost",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_FrostPigmies",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pigmies_templar",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_TemplePigmies",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pigmies_spectators_a",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SpectatorsA",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pigmies_spectators_b",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SpectatorsB",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pigmies_spectators_c",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SpectatorsC",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pigmies_spectators_d",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SpectatorsD",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_ninja_bowman",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_NinjaBowman",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_ninja_red",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_RedNinja",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_ninja_master",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_MasterNinja",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_shaman_ice",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Iceshaman",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_shaman_witchdoctor",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_WitchDoctor",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_wiz_pig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_wiz_pig_easter",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_EasterWizPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_wiz_pig_ringmaster",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Ringmaster",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_red_avenger",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Avenger",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_red_ronin",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Ronin",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_yellow_nerd",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ArchMage",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_white_moonpriest",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_MoonPriest",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_black_corsair",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Corsair",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_blue_treasurehunters",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_TreasureHunters",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_king_pig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bomb_dud",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DudBomb",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bomb_royal",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_RoyalBomb",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bomb_heal",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_AidBomb",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bomb_snow",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SnowBomb",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bomb_easter_damage",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_EggBomb",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bomb_easter_heal",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_HealingEgg",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bomb_spoiler",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_SpoilerBomb",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bomb_volleyball",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_VolleyBomb",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_google",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Google",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_tyrra",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Tyrra",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_lilgreendragon",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_LilGreenDragon",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_baddie",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Baddie",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bubblie",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Bubblie",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_draggie",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Draggie",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_draggieknight",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DraggieKnight",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_dragonseed",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DragonSeed",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_woodsie",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Woodsie",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_greatwoodsie",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_GreatWoodsie",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_earthdragon",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_EarthDragon",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_falconhorus",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_FalconHorus",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_firedragon",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_FireDragon",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_shynee",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Shynee",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_tamadra",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Tamadra",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_redhunter",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_RedHunter",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_yellowhunter",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_YellowHunter",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_whitehunter",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_WhiteHunter",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_blackhunter",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BlackHunter",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bluehunter",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BlueHunter",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_doomdrone",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DoomDrone",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_projectordrone",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ProjectorDrone",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_lancer",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Lancer",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_lanternpig",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_LanternPig",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_minion_pyrobolist",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Pyrobolist",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_bomb_firecrackers",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Firecrackers",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_pigmies_dragonplayer",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DragonPlayer",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_brute_battering",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BatteringBrute",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_motobug",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_MotoBug",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_motobug_golden",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_GoldenMotoBug",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_eggpawn",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_EggPawn",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_eggpawn_giant",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_GiantEggPawn",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_spikes",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Spikes",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_spikes_big",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BigSpikes",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_electrospinner",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ElectroSpinner",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_shieldspinner",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_ShieldSpinner",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_crabmeat_tiny",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_TinyCrabmeat",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_crabmeat",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Crabmeat",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_bomb",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BombCrate",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_chopper",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_Chopper",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_chopper_blue",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BlueChopper",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_buzzbomber",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_BigBadBuzzBomber",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  },
+  {
+    "NameId": "headgear_sonic_eggman",
+    "ItemType": "Class",
+    "AssetBaseId": "Headgear_DrEggman",
+    "LocaBaseId": "class_mage",
+    "SortPriority": 1,
+    "SkillNameIds": null,
+    "RestrictedBirdId": "",
+    "AttackBoostPerMasteryRank": null,
+    "HealthBoostPerMasteryRank": null,
+    "SkillCombos": null,
+    "ReplacementClassNameId": "",
+    "InterruptConditionCombos": null,
+    "InterruptAction": "none",
+    "Mastery": "",
+    "PvPSkillCombos": null,
+    "PvPSkillNameIds": null,
+    "IsPremium": false,
+    "AvailableAt": 0,
+    "TeasedAt": 0,
+    "Inactive": false
+  }
+]

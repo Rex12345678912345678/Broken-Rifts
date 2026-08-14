@@ -1,0 +1,477 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: 5756d81aa87e464fb75773e9b4238632, type: 3}
+  m_Name: PigShaman_Atlas_01
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: f3a8a54c0c2d0b946abc0d5d3949b85f, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: 0.21679688
+    y: 0.8984375
+    width: 0.040039062
+    height: 0.0625
+  - serializedVersion: 2
+    x: 0.14550781
+    y: 0.8544922
+    width: 0.1171875
+    height: 0.04296875
+  - serializedVersion: 2
+    x: 0
+    y: 0.8544922
+    width: 0.14453125
+    height: 0.08203125
+  - serializedVersion: 2
+    x: 0.58984375
+    y: 0.18652344
+    width: 0.076171875
+    height: 0.044921875
+  - serializedVersion: 2
+    x: 0.4951172
+    y: 0.14257812
+    width: 0.1015625
+    height: 0.037109375
+  - serializedVersion: 2
+    x: 0.21679688
+    y: 0.96191406
+    width: 0.046875
+    height: 0.037109375
+  - serializedVersion: 2
+    x: 0.14550781
+    y: 0.96972656
+    width: 0.0546875
+    height: 0.0234375
+  - serializedVersion: 2
+    x: 0.58984375
+    y: 0.26660156
+    width: 0.07421875
+    height: 0.029296875
+  - serializedVersion: 2
+    x: 0.14550781
+    y: 0.8984375
+    width: 0.0703125
+    height: 0.0703125
+  - serializedVersion: 2
+    x: 0.66308594
+    y: 0.14257812
+    width: 0.08203125
+    height: 0.03125
+  - serializedVersion: 2
+    x: 0.8701172
+    y: 0.119140625
+    width: 0.056640625
+    height: 0.064453125
+  - serializedVersion: 2
+    x: 0.69921875
+    y: 0.20507812
+    width: 0.046875
+    height: 0.025390625
+  - serializedVersion: 2
+    x: 0.93066406
+    y: 0.12109375
+    width: 0.04296875
+    height: 0.033203125
+  - serializedVersion: 2
+    x: 0.69921875
+    y: 0.265625
+    width: 0.029296875
+    height: 0.03125
+  - serializedVersion: 2
+    x: 0.6669922
+    y: 0.18652344
+    width: 0.111328125
+    height: 0.017578125
+  - serializedVersion: 2
+    x: 0.2578125
+    y: 0.2998047
+    width: 0.005859375
+    height: 0.0078125
+  - serializedVersion: 2
+    x: 0.12011719
+    y: 0.9375
+    width: 0.017578125
+    height: 0.021484375
+  - serializedVersion: 2
+    x: 0.74609375
+    y: 0.14257812
+    width: 0.04296875
+    height: 0.0390625
+  - serializedVersion: 2
+    x: 0
+    y: 0.9375
+    width: 0.119140625
+    height: 0.0625
+  - serializedVersion: 2
+    x: 0.24902344
+    y: 0.2998047
+    width: 0.0078125
+    height: 0.0078125
+  - serializedVersion: 2
+    x: 0.7294922
+    y: 0.265625
+    width: 0.02734375
+    height: 0.03125
+  - serializedVersion: 2
+    x: 0.6669922
+    y: 0.2841797
+    width: 0.03125
+    height: 0.03125
+  - serializedVersion: 2
+    x: 0.6669922
+    y: 0.20507812
+    width: 0.03125
+    height: 0.04296875
+  - serializedVersion: 2
+    x: 0.59765625
+    y: 0.14257812
+    width: 0.064453125
+    height: 0.04296875
+  - serializedVersion: 2
+    x: 0.79296875
+    y: 0.07324219
+    width: 0.13671875
+    height: 0.044921875
+  - serializedVersion: 2
+    x: 0.93066406
+    y: 0.07324219
+    width: 0.044921875
+    height: 0.046875
+  - serializedVersion: 2
+    x: 0.7792969
+    y: 0.18652344
+    width: 0.02734375
+    height: 0.03125
+  - serializedVersion: 2
+    x: 0.9267578
+    y: 0
+    width: 0.068359375
+    height: 0.0625
+  - serializedVersion: 2
+    x: 0.73339844
+    y: 0.23144531
+    width: 0.03125
+    height: 0.03125
+  - serializedVersion: 2
+    x: 0.79296875
+    y: 0
+    width: 0.1328125
+    height: 0.072265625
+  - serializedVersion: 2
+    x: 0.58984375
+    y: 0.23242188
+    width: 0.076171875
+    height: 0.033203125
+  - serializedVersion: 2
+    x: 0.93066406
+    y: 0.15527344
+    width: 0.046875
+    height: 0.02734375
+  - serializedVersion: 2
+    x: 0.79296875
+    y: 0.119140625
+    width: 0.076171875
+    height: 0.056640625
+  - serializedVersion: 2
+    x: 0.69921875
+    y: 0.23144531
+    width: 0.033203125
+    height: 0.033203125
+  - serializedVersion: 2
+    x: 0.265625
+    y: 0
+    width: 0.22851562
+    height: 0.18554688
+  - serializedVersion: 2
+    x: 0.12011719
+    y: 0.95996094
+    width: 0.017578125
+    height: 0.017578125
+  - serializedVersion: 2
+    x: 0.58984375
+    y: 0.296875
+    width: 0.02734375
+    height: 0.017578125
+  - serializedVersion: 2
+    x: 0.7792969
+    y: 0.21875
+    width: 0.02734375
+    height: 0.03125
+  - serializedVersion: 2
+    x: 0.6669922
+    y: 0.24902344
+    width: 0.03125
+    height: 0.034179688
+  - serializedVersion: 2
+    x: 0.24902344
+    y: 0.30859375
+    width: 0.00390625
+    height: 0.00390625
+  - serializedVersion: 2
+    x: 0
+    y: 0.5859375
+    width: 0.25
+    height: 0.26757812
+  - serializedVersion: 2
+    x: 0
+    y: 0.2998047
+    width: 0.24804688
+    height: 0.28515625
+  - serializedVersion: 2
+    x: 0.265625
+    y: 0.18652344
+    width: 0.3232422
+    height: 0.12988281
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0.26464844
+    height: 0.29882812
+  - serializedVersion: 2
+    x: 0.4951172
+    y: 0
+    width: 0.296875
+    height: 0.14160156
+  textureGUIDs:
+  - a3b7cf1f856b1e2428ed40faa428a375
+  - c954b6e4a972fad439d63c823e7a5a93
+  - 577f133e2bd72ef49a31fda7f3f2a181
+  - fba70e23a7d9ccf4caacc01c54342b37
+  - 5e6fb71c36716de4d8cb24482aef03e0
+  - b96718fa801f7d843b9c8815596769e9
+  - e31f1f2e653f70c43b4d1ffe5ff86d08
+  - 3993c421e5fabd74497ccf3ec733e886
+  - b435bfd61ac60384f91d7642f7df0907
+  - 6715f8feb91af0748a4fcfde1c6b898c
+  - 191426d8a0d0af344ab5004aeb77b4a8
+  - 9b2e5d2d53d7c6d4dbce7c6719acaff3
+  - 39745bcefcdeffd41bbf961082b94a81
+  - 0f9640c1ec5fa8f4a9b472a1c4d9d6f7
+  - 18aef4b6917caad46935f38e008f1dbb
+  - 1bd6bdb2d3da4fe4d8ec66d5d93e8494
+  - 34b713b329a808741b560edc5b915f35
+  - 37606011b0321b64fb134b2c1fc5fb8e
+  - 438929f17330a5242900846ed229f59f
+  - 4a8d7e7517486214ba49c14b68456115
+  - 505bf604f297e044b99f9362711ae815
+  - 67950d4d38081d740b2e203cbdd93e66
+  - 7f3cf97f38012344cb2bcc201d74bfcc
+  - 8b2bd0e021e935248ba5798936ed8aae
+  - 9559e636d9c871745a41a83749f0de47
+  - 959902a3a66796845b8fe5a6f9a45add
+  - a42e68363c46db8488a6f5f1f9e89a40
+  - b2178167325093e40a2425bfed7f76ce
+  - c306e6687612176479580c369e83901e
+  - cbcc9cd0af9128c49a78657ea84a01a6
+  - da150fee72ccfef4ab6a78df0cb7889d
+  - e242689a22e59a9449dd0320ce49130c
+  - f1c08204cc32ed847987be06a82c47ac
+  - f6aa1470667d25d47bfc61ece0283331
+  - e82181a12368d6543be1adb91bf20db8
+  - 71d02c9f4d24d3947ae710e29d99709f
+  - 92036c387ce75ba46ae6d9cbc9312b52
+  - be2fd4d336536194aa6a5496c8b2b619
+  - cb5b10fc3dd3590488500dd231a88276
+  - a5c5c202b007c524e9cd27434e0839e7
+  - 9669ec9c75d969349823893cd7eee628
+  - e5fce87fccb67fc4a8e89d6ba154bc3c
+  - 75ba82dcaf5e7be489473821947a2e51
+  - a5f21aee57d20784fa192de85b40ee3c
+  - 19dc1517857c5e644ab0e193e5e40bd0
+  textureSizes:
+  - {x: 41, y: 64}
+  - {x: 120, y: 44}
+  - {x: 148, y: 84}
+  - {x: 78, y: 46}
+  - {x: 104, y: 38}
+  - {x: 48, y: 38}
+  - {x: 56, y: 24}
+  - {x: 76, y: 30}
+  - {x: 72, y: 72}
+  - {x: 84, y: 32}
+  - {x: 58, y: 66}
+  - {x: 48, y: 26}
+  - {x: 44, y: 34}
+  - {x: 30, y: 32}
+  - {x: 114, y: 18}
+  - {x: 6, y: 8}
+  - {x: 18, y: 22}
+  - {x: 44, y: 40}
+  - {x: 122, y: 64}
+  - {x: 8, y: 8}
+  - {x: 28, y: 32}
+  - {x: 32, y: 32}
+  - {x: 32, y: 44}
+  - {x: 66, y: 44}
+  - {x: 140, y: 46}
+  - {x: 46, y: 48}
+  - {x: 28, y: 32}
+  - {x: 70, y: 64}
+  - {x: 32, y: 32}
+  - {x: 136, y: 74}
+  - {x: 78, y: 34}
+  - {x: 48, y: 28}
+  - {x: 78, y: 58}
+  - {x: 34, y: 34}
+  - {x: 234, y: 190}
+  - {x: 18, y: 18}
+  - {x: 28, y: 18}
+  - {x: 28, y: 32}
+  - {x: 32, y: 35}
+  - {x: 4, y: 4}
+  - {x: 256, y: 274}
+  - {x: 254, y: 292}
+  - {x: 331, y: 133}
+  - {x: 271, y: 306}
+  - {x: 304, y: 145}
+  defaultPivotOffsets:
+  - {x: 0.08, y: 0.13}
+  - {x: 0.03, y: -0.22}
+  - {x: 0.05, y: 0.02}
+  - {x: -0.04285714, y: -0.3588121}
+  - {x: -0.06, y: 0.2}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: -0.06, y: 0.09}
+  - {x: 0.05, y: -0.1}
+  - {x: -0.13, y: -0.19}
+  - {x: 0, y: 0}
+  - {x: -0.01607143, y: -0.37090337}
+  - {x: 0.053571425, y: -0.007533482}
+  - {x: -0.08, y: 0}
+  - {x: 0, y: 0}
+  - {x: -0.42, y: 0.5}
+  - {x: 0, y: 0.1}
+  - {x: 0.12, y: 0.01}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0.025781251}
+  - {x: 0.026785713, y: -0.008035714}
+  - {x: 0, y: 0}
+  - {x: 0, y: -0.15}
+  - {x: -0.08, y: -0.12}
+  - {x: -0.016071428, y: -0.110379465}
+  - {x: 0.026785716, y: 0.016406251}
+  - {x: -0.01, y: -0.08}
+  - {x: 0.0053571425, y: 0.013392856}
+  - {x: 0.08, y: -0.06}
+  - {x: 0.04, y: 0.08}
+  - {x: 0, y: 0}
+  - {x: -0.04285714, y: -0.19812192}
+  - {x: -0.04285714, y: 0.013392856}
+  - {x: -0.22, y: -0.2}
+  - {x: 0.28, y: 0.4}
+  - {x: -0.12, y: 0.46}
+  - {x: -0.03, y: 0.01}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: -0.15535714, y: -0.10260688}
+  - {x: -0.1553571, y: -0.1026069}
+  - {x: -0.20892859, y: -0.09999329}
+  - {x: -0.15200113, y: -0.0576923}
+  - {x: -0.28928572, y: -0.07862069}
+  textureNames:
+  - Eye_Left
+  - Mouth_Angry
+  - Mouth_Attack
+  - Lid_Right
+  - Mouth_Sad
+  - Eyebrow_Left_Angry
+  - Eyebrow_Left_Sad
+  - Eyebrow_Right
+  - Eye_Right
+  - Eyebrow_Right_Sad
+  - Mouth_KO
+  - Eyebrow_Left
+  - Lid_Left
+  - Lid_Left_Blue
+  - Mouth
+  - Pupil_Left
+  - Tear
+  - Eyebrow_Left_Curved
+  - Mouth_Scream
+  - Pupil_Right
+  - Lid_Left_Squint
+  - Lid_Right_Closed
+  - Mouth_O
+  - Eyebrow_Right_Angry
+  - Mouth_Smile
+  - Lid_Left_Happy
+  - Lid_Left_Closed
+  - Snout
+  - Lid_Right_Squint
+  - Mouth_Happy
+  - Eyebrow_Right_Curved
+  - Eyebrow_Left_Straight
+  - Lid_Right_Happy
+  - Lid_Right_Blue
+  - Headgear_WitchDoctor
+  - Lid_Left_Lower
+  - Lid_Right_Lower
+  - Lid_Left_HalfClosed
+  - Lid_Right_HalfClosed
+  - Empty
+  - Headgear_Iceshaman
+  - Headgear_Sheep
+  - MainHand_Sheep
+  - Headgear_Direwolf
+  - MainHand_Direwolf
+  texturePaths:
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eye_Left.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Mouth_Angry.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Mouth_Attack.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Right.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Mouth_Sad.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eyebrow_Left_Angry.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eyebrow_Left_Sad.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eyebrow_Right.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eye_Right.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eyebrow_Right_Sad.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Mouth_KO.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eyebrow_Left.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Left.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Left_Blue.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Mouth.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Pupil_Left.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Tear.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eyebrow_Left_Curved.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Mouth_Scream.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Pupil_Right.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Left_Squint.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Right_Closed.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Mouth_O.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eyebrow_Right_Angry.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Mouth_Smile.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Left_Happy.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Left_Closed.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Snout.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Right_Squint.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Mouth_Happy.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eyebrow_Right_Curved.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Eyebrow_Left_Straight.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Right_Happy.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Right_Blue.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Headgear_WitchDoctor.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Left_Lower.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Right_Lower.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Left_HalfClosed.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Lid_Right_HalfClosed.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Empty.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Headgear_Iceshaman.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Headgear_Sheep.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/MainHand_Sheep.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/Headgear_Direwolf.png
+  - Assets/content/4_Characters/2_Pigs/14_PigShaman/BodyParts/MainHand_Direwolf.png
+  lastBuildID: 20260729103033606
+  needsRebuilt: 0
+  dataVersion: 4
+  maxAtlasSize: 1024
+  padding: 1
+  forceSquare: 1

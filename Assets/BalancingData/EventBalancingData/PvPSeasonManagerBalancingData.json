@@ -1,0 +1,2229 @@
+[
+  {
+    "NameId": "pvp_season_01",
+    "SeasonStartTimeStamp": 1418587200,
+    "SeasonEndTimeStamp": 1427054400,
+    "SeasonTurnAmount": 14,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_01",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 1
+  },
+  {
+    "NameId": "pvp_season_02",
+    "SeasonStartTimeStamp": 1427054400,
+    "SeasonEndTimeStamp": 1434312000,
+    "SeasonTurnAmount": 12,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_02",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 2
+  },
+  {
+    "NameId": "pvp_season_03",
+    "SeasonStartTimeStamp": 1434312000,
+    "SeasonEndTimeStamp": 1441569600,
+    "SeasonTurnAmount": 12,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_03",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 3
+  },
+  {
+    "NameId": "pvp_season_04",
+    "SeasonStartTimeStamp": 1441569600,
+    "SeasonEndTimeStamp": 1448827200,
+    "SeasonTurnAmount": 12,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_04",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 4
+  },
+  {
+    "NameId": "pvp_season_05",
+    "SeasonStartTimeStamp": 1448827200,
+    "SeasonEndTimeStamp": 1456084800,
+    "SeasonTurnAmount": 12,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_05",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 5
+  },
+  {
+    "NameId": "pvp_season_06",
+    "SeasonStartTimeStamp": 1456084800,
+    "SeasonEndTimeStamp": 1463342400,
+    "SeasonTurnAmount": 12,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 1,
+      "9": 1,
+      "10": 1,
+      "11": 1,
+      "12": 1
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_06",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 1
+  },
+  {
+    "NameId": "pvp_season_07",
+    "SeasonStartTimeStamp": 1463342400,
+    "SeasonEndTimeStamp": 1470600000,
+    "SeasonTurnAmount": 12,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_07",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 2
+  },
+  {
+    "NameId": "pvp_season_08",
+    "SeasonStartTimeStamp": 1470600000,
+    "SeasonEndTimeStamp": 1477857600,
+    "SeasonTurnAmount": 12,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_08",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 3
+  },
+  {
+    "NameId": "pvp_season_09",
+    "SeasonStartTimeStamp": 1477857600,
+    "SeasonEndTimeStamp": 1485115200,
+    "SeasonTurnAmount": 12,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_09",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 4
+  },
+  {
+    "NameId": "pvp_season_10",
+    "SeasonStartTimeStamp": 1485115200,
+    "SeasonEndTimeStamp": 1493582400,
+    "SeasonTurnAmount": 14,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_10",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 5
+  },
+  {
+    "NameId": "pvp_season_11",
+    "SeasonStartTimeStamp": 1494187200,
+    "SeasonEndTimeStamp": 1500235200,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_11",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": null,
+    "TrophyId": 6
+  },
+  {
+    "NameId": "pvp_season_12",
+    "SeasonStartTimeStamp": 1500235200,
+    "SeasonEndTimeStamp": 1506283200,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_12",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "50000": "loot_arena_rewards_tier_01",
+      "200000": "loot_arena_rewards_tier_02",
+      "400000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 7
+  },
+  {
+    "NameId": "pvp_season_13",
+    "SeasonStartTimeStamp": 1506283200,
+    "SeasonEndTimeStamp": 1512936000,
+    "SeasonTurnAmount": 11,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_13",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "50000": "loot_arena_rewards_tier_01",
+      "200000": "loot_arena_rewards_tier_02",
+      "400000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 8
+  },
+  {
+    "NameId": "pvp_season_14",
+    "SeasonStartTimeStamp": 1512936000,
+    "SeasonEndTimeStamp": 1518984000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_14",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 9
+  },
+  {
+    "NameId": "pvp_season_15",
+    "SeasonStartTimeStamp": 1518984000,
+    "SeasonEndTimeStamp": 1525032000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_15",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 10
+  },
+  {
+    "NameId": "pvp_season_16",
+    "SeasonStartTimeStamp": 1525032000,
+    "SeasonEndTimeStamp": 1531080000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_16",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 6
+  },
+  {
+    "NameId": "pvp_season_17",
+    "SeasonStartTimeStamp": 1531080000,
+    "SeasonEndTimeStamp": 1537128000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_17",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 7
+  },
+  {
+    "NameId": "pvp_season_18",
+    "SeasonStartTimeStamp": 1537128000,
+    "SeasonEndTimeStamp": 1543176000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_18",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 8
+  },
+  {
+    "NameId": "pvp_season_19",
+    "SeasonStartTimeStamp": 1543176000,
+    "SeasonEndTimeStamp": 1549224000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_19",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 9
+  },
+  {
+    "NameId": "pvp_season_20",
+    "SeasonStartTimeStamp": 1549224000,
+    "SeasonEndTimeStamp": 1555272000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_20",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 10
+  },
+  {
+    "NameId": "pvp_season_21",
+    "SeasonStartTimeStamp": 1555272000,
+    "SeasonEndTimeStamp": 1561320000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_21",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 6
+  },
+  {
+    "NameId": "pvp_season_22",
+    "SeasonStartTimeStamp": 1561320000,
+    "SeasonEndTimeStamp": 1567368000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_22",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 7
+  },
+  {
+    "NameId": "pvp_season_23",
+    "SeasonStartTimeStamp": 1567368000,
+    "SeasonEndTimeStamp": 1573416000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_23",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 8
+  },
+  {
+    "NameId": "pvp_season_24",
+    "SeasonStartTimeStamp": 1573416000,
+    "SeasonEndTimeStamp": 1579464000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_24",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 9
+  },
+  {
+    "NameId": "pvp_season_25",
+    "SeasonStartTimeStamp": 1579464000,
+    "SeasonEndTimeStamp": 1585512000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_25",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 10
+  },
+  {
+    "NameId": "pvp_season_26",
+    "SeasonStartTimeStamp": 1585512000,
+    "SeasonEndTimeStamp": 1591560000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_26",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 6
+  },
+  {
+    "NameId": "pvp_season_27",
+    "SeasonStartTimeStamp": 1591560000,
+    "SeasonEndTimeStamp": 1597608000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_27",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 7
+  },
+  {
+    "NameId": "pvp_season_28",
+    "SeasonStartTimeStamp": 1597608000,
+    "SeasonEndTimeStamp": 1603656000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_28",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 8
+  },
+  {
+    "NameId": "pvp_season_29",
+    "SeasonStartTimeStamp": 1603656000,
+    "SeasonEndTimeStamp": 1609704000,
+    "SeasonTurnAmount": 10,
+    "PvPRewardLootTablesPerLeague": [
+      "loot_pvp_reward_wood",
+      "loot_pvp_reward_stone",
+      "loot_pvp_reward_silver",
+      "loot_pvp_reward_gold",
+      "loot_pvp_reward_platinum",
+      "loot_pvp_reward_diamond"
+    ],
+    "PvPBonusLootTablesPerRank": [
+      "pvp_bonus_{rank}"
+    ],
+    "StarRatingForRanking": {
+      "1": 3,
+      "2": 3,
+      "3": 3,
+      "4": 2,
+      "5": 2,
+      "6": 2,
+      "7": 2,
+      "8": 2,
+      "9": 2,
+      "10": 2,
+      "11": 1,
+      "12": 1,
+      "13": 1,
+      "14": 1,
+      "15": 1,
+      "16": 1,
+      "17": 1,
+      "18": 1,
+      "19": 1,
+      "20": 0,
+      "21": 0,
+      "22": 0,
+      "23": 0,
+      "24": 0,
+      "25": 0
+    },
+    "RerollResultRequirement": [
+      {
+        "RequirementType": "PayItem",
+        "NameId": "friendship_essence",
+        "Value": 10.0
+      }
+    ],
+    "MaximumMatchmakingPlayers": 24,
+    "MaxLeague": 6,
+    "LocaBaseId": "pvp_season_29",
+    "MatchmakingStrategy": null,
+    "LobbyPrefix": null,
+    "OnlineMatchmakeTimeoutInSec": 0,
+    "OnlineFallbackMatchmakingStrategy": null,
+    "FailedWithNoPlayersCountTillFallback": 0,
+    "OfflineGetCompetitorsFunction": null,
+    "OfflineGetCompetitorsFallbackFunction": null,
+    "OfflineGetBattleFunction": "get_battle_by_powerlevel_difficulty_{value_1}",
+    "TimeTillMatchmakingBattleRefreshes": 1200,
+    "HourOfDayToRefreshEnergyAndObjectives": 20,
+    "MaxMatchmakingDifficulty": 3,
+    "PvpRewardFirstRank": [
+      "pvp_firstrankbonus_{levelrange}_wood",
+      "pvp_firstrankbonus_{levelrange}_stone",
+      "pvp_firstrankbonus_{levelrange}_silver",
+      "pvp_firstrankbonus_{levelrange}_gold",
+      "pvp_firstrankbonus_{levelrange}_platinum",
+      "pvp_firstrankbonus_{levelrange}_diamond"
+    ],
+    "RerollResultCostIncrease": 10.0,
+    "RerollResultCostMax": 50.0,
+    "TresholdRewards": {
+      "25000": "loot_arena_rewards_tier_01",
+      "150000": "loot_arena_rewards_tier_02",
+      "300000": "loot_arena_rewards_tier_03"
+    },
+    "TrophyId": 9
+  }
+]
