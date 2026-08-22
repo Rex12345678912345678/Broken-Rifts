@@ -6374,6 +6374,176 @@
     "IgnoreDifficulty": true
   },
   {
+    "NameId": "pig_jester_boss",
+    "AssetId": "MinionPig",
+    "LocaId": "pig_jester_boss",
+    "DefaultInventoryNameId": "pig_jester_boss",
+    "BaseHealth": 444,
+    "BaseAttack": 22,
+    "PerLevelHealth": 0,
+    "PerLevelAttack": 0,
+    "SkillNameIds": [
+      "pig_attack_jester_01"
+    ],
+    "SkillCombos": [
+      {
+        "Percentage": 50.0,
+        "ComboChain": [
+          "pig_attack_jester_01"
+        ]
+      }
+    ],
+    "SizeType": "Small",
+    "Faction": "Pigs",
+    "LootTableDefeatBonus": {
+      "loot_pig3_defeated_gold": 1,
+      "loot_pig3_defeated_exp": 1,
+      "loot_pigsmall_defeated_mastery": 1
+    },
+    "SizeScale": 1.2,
+    "PigStrength": 8,
+    "PassiveSkillNameId": "pig_passive_jester_boss",
+    "IgnoreDifficulty": true
+  },
+  {
+    "NameId": "pig_duchess_jevil",
+    "AssetId": "Piglette",
+    "LocaId": "pig_pilgrim",
+    "DefaultInventoryNameId": "pig_duchess",
+    "BaseHealth": 105,
+    "BaseAttack": 35,
+    "PerLevelHealth": 0,
+    "PerLevelAttack": 0,
+    "SkillNameIds": [
+      "pig_attack_duchess"
+    ],
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "pig_attack_duchess"
+        ]
+      }
+    ],
+    "SizeType": "Small",
+    "Faction": "Pigs",
+    "LootTableDefeatBonus": {
+      "loot_pig2_defeated_gold": 1,
+      "loot_pig2_defeated_exp": 1,
+      "loot_pigsmall_defeated_mastery": 1
+    },
+    "SizeScale": 1.0,
+    "PigStrength": 2,
+    "PassiveSkillNameId": "pig_passive_da_pirate",
+    "IgnoreDifficulty": false
+  },
+  {
+    "NameId": "pig_executioner_jevil",
+    "AssetId": "PigBrute",
+    "LocaId": "pig_da_pirate_01",
+    "DefaultInventoryNameId": "pig_executioner",
+    "BaseHealth": 315,
+    "BaseAttack": 10,
+    "PerLevelHealth": 0,
+    "PerLevelAttack": 0,
+    "SkillNameIds": [
+      "pig_attack_da_pirate_01"
+    ],
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "pig_attack_da_pirate_01"
+        ]
+      }
+    ],
+    "SizeType": "Large",
+    "Faction": "Pigs",
+    "LootTableDefeatBonus": {
+      "loot_pig10_defeated_gold": 1,
+      "loot_pig10_defeated_exp": 1,
+      "loot_piglarge_defeated_mastery": 1
+    },
+    "SizeScale": 1.1,
+    "PigStrength": 6,
+    "PassiveSkillNameId": "pig_passive_executioner",
+    "IgnoreDifficulty": false
+  },
+  {
+    "NameId": "pig_da_pirate_jevil",
+    "AssetId": "PigPirate",
+    "LocaId": "pig_duchess",
+    "DefaultInventoryNameId": "pig_da_pirate_01",
+    "BaseHealth": 123,
+    "BaseAttack": 11,
+    "PerLevelHealth": 0,
+    "PerLevelAttack": 0,
+    "SkillNameIds": [
+      "pig_attack_pilgrim",
+      "pig_support_duchess"
+    ],
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "pig_support_duchess",
+          "pig_attack_pilgrim",
+          "pig_attack_pilgrim"
+        ]
+      }
+    ],
+    "SizeType": "Medium",
+    "Faction": "Pigs",
+    "LootTableDefeatBonus": {
+      "loot_pig2_defeated_gold": 1,
+      "loot_pig2_defeated_exp": 1,
+      "loot_pigsmall_defeated_mastery": 1
+    },
+    "SizeScale": 0.8,
+    "PigStrength": 5,
+    "PassiveSkillNameId": "",
+    "IgnoreDifficulty": false
+  },
+  {
+    "NameId": "pig_pilgrim_jevil",
+    "AssetId": "MinionPig",
+    "LocaId": "pig_executioner",
+    "DefaultInventoryNameId": "pig_pilgrim",
+    "BaseHealth": 100,
+    "BaseAttack": 17,
+    "PerLevelHealth": 0,
+    "PerLevelAttack": 0,
+    "SkillNameIds": [
+      "pig_attack_executioner",
+      "pig_support_da_pirate_01"
+    ],
+    "SkillCombos": [
+      {
+        "Percentage": 50.0,
+        "ComboChain": [
+          "pig_attack_executioner"
+        ]
+      },
+      {
+        "Percentage": 50.0,
+        "ComboChain": [
+          "pig_support_da_pirate_01"
+        ]
+      }
+    ],
+    "SizeType": "Small",
+    "Faction": "Pigs",
+    "LootTableDefeatBonus": {
+      "loot_pig3_defeated_gold": 1,
+      "loot_pig3_defeated_exp": 1,
+      "loot_pigsmall_defeated_mastery": 1
+    },
+    "SizeScale": 1.0,
+    "PigStrength": 4,
+    "PassiveSkillNameId": "",
+    "IgnoreDifficulty": true
+  },
+  {
     "NameId": "pig_pilgrim",
     "AssetId": "MinionPig",
     "LocaId": "pig_pilgrim",
@@ -9722,8 +9892,8 @@
     "AssetId": "MinionPig",
     "LocaId": "pig_daguard",
     "DefaultInventoryNameId": "pig_daguard",
-    "BaseHealth": 145,
-    "BaseAttack": 18,
+    "BaseHealth": 133,
+    "BaseAttack": 15,
     "PerLevelHealth": 0,
     "PerLevelAttack": 0,
     "SkillNameIds": [
@@ -10140,13 +10310,13 @@
     "PerLevelAttack": 0,
     "SkillNameIds": [
       "pig_attack_moustache_foreman",
-      "pig_support_moustache_foreman"
+      "pig_support_dukeg"
     ],
     "SkillCombos": [
       {
         "Percentage": 100.0,
         "ComboChain": [
-          "pig_support_moustache_foreman",
+          "pig_support_dukeg",
           "pig_attack_moustache_foreman",
           "pig_attack_moustache_foreman",
           "pig_attack_moustache_foreman"
@@ -10162,6 +10332,41 @@
     },
     "SizeScale": 1.0,
     "PigStrength": 5,
+    "PassiveSkillNameId": "pig_passive_incompetentminions",
+    "IgnoreDifficulty": false
+  },
+  {
+    "NameId": "pig_duker",
+    "AssetId": "MoustachePig",
+    "LocaId": "pig_duker",
+    "DefaultInventoryNameId": "pig_duker",
+    "BaseHealth": 688,
+    "BaseAttack": 34,
+    "PerLevelHealth": 0,
+    "PerLevelAttack": 0,
+    "SkillNameIds": [
+      "pig_attack_duker",
+      "pig_support_duker"
+    ],
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "pig_support_duker",
+          "pig_attack_duker",
+          "pig_attack_duker"
+        ]
+      }
+    ],
+    "SizeType": "Large",
+    "Faction": "Pigs",
+    "LootTableDefeatBonus": {
+      "loot_pig5_defeated_gold": 1,
+      "loot_pig5_defeated_exp": 1,
+      "loot_piglarge_defeated_mastery": 1
+    },
+    "SizeScale": 1.3,
+    "PigStrength": 8,
     "PassiveSkillNameId": "pig_passive_incompetentminions",
     "IgnoreDifficulty": false
   },
@@ -10248,20 +10453,20 @@
     "PerLevelHealth": 0,
     "PerLevelAttack": 0,
     "SkillNameIds": [
-      "pig_attack_wolflackeyb",
-      "pig_support_wolflackeyb"
+      "pig_attack_kingknight",
+      "pig_support_kingknight"
     ],
     "SkillCombos": [
       {
-        "Percentage": 50.0,
+        "Percentage": 70.0,
         "ComboChain": [
-          "pig_attack_wolflackeyb"
+          "pig_attack_kingknight"
         ]
       },
       {
-        "Percentage": 50.0,
+        "Percentage": 30.0,
         "ComboChain": [
-          "pig_support_wolflackeyb"
+          "pig_support_kingknight"
         ]
       }
     ],
@@ -10273,7 +10478,7 @@
       "loot_piglarge_defeated_mastery": 1
     },
     "SizeScale": 1.0,
-    "PigStrength": 5,
+    "PigStrength": 22,
     "PassiveSkillNameId": "pig_passive_wolflackey",
     "IgnoreDifficulty": false
   },
@@ -10282,25 +10487,25 @@
     "AssetId": "PigMage",
     "LocaId": "pig_lunarmage",
     "DefaultInventoryNameId": "pig_lunarmage",
-    "BaseHealth": 220,
-    "BaseAttack": 26,
+    "BaseHealth": 210,
+    "BaseAttack": 15,
     "PerLevelHealth": 0,
     "PerLevelAttack": 0,
     "SkillNameIds": [
       "pig_attack_lunarmage",
-      "pig_support_caster_santa"
+      "pig_attack_lunarmage2"
     ],
     "SkillCombos": [
       {
-        "Percentage": 100.0,
+        "Percentage": 50.0,
         "ComboChain": [
           "pig_attack_lunarmage"
         ]
       },
       {
-        "Percentage": 0.0,
+        "Percentage": 50.0,
         "ComboChain": [
-          "pig_support_caster_santa"
+          "pig_attack_lunarmage2"
         ]
       }
     ],
@@ -10321,18 +10526,18 @@
     "AssetId": "ZombiePig",
     "LocaId": "pig_farmerz",
     "DefaultInventoryNameId": "pig_farmerz",
-    "BaseHealth": 290,
-    "BaseAttack": 28,
+    "BaseHealth": 70,
+    "BaseAttack": 18,
     "PerLevelHealth": 0,
     "PerLevelAttack": 0,
     "SkillNameIds": [
-      "pig_attack_zombie_berserk"
+      "pig_attack_farmerz"
     ],
     "SkillCombos": [
       {
         "Percentage": 100.0,
         "ComboChain": [
-          "pig_attack_zombie_berserk"
+          "pig_attack_farmerz"
         ]
       }
     ],
@@ -10353,18 +10558,18 @@
     "AssetId": "PigBrute",
     "LocaId": "pig_executioner",
     "DefaultInventoryNameId": "pig_executioner",
-    "BaseHealth": 420,
+    "BaseHealth": 315,
     "BaseAttack": 35,
     "PerLevelHealth": 0,
     "PerLevelAttack": 0,
     "SkillNameIds": [
-      "pig_attack_brute_battering"
+      "pig_attack_executioner"
     ],
     "SkillCombos": [
       {
         "Percentage": 100.0,
         "ComboChain": [
-          "pig_attack_brute_battering"
+          "pig_attack_executioner"
         ]
       }
     ],
@@ -10377,7 +10582,7 @@
     },
     "SizeScale": 1.1,
     "PigStrength": 10,
-    "PassiveSkillNameId": "pig_passive_pig_headed",
+    "PassiveSkillNameId": "pig_passive_executioner",
     "IgnoreDifficulty": false
   },
   {

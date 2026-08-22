@@ -1122,7 +1122,7 @@
       "gold": 2
     },
     "BackgroundAssetId": "Battleground_SouthBeach_02",
-    "UsableFriendBirdsCount": 0,
+    "UsableFriendBirdsCount": 1,
     "SoundAssetId": "Music_Battle_Rouxls",
     "ScoringStrategy": "MaximumByStrength",
     "BonusPoints": 0,
@@ -1429,7 +1429,7 @@
       "gold": 2
     },
     "BackgroundAssetId": "Battleground_CobaltPlateaus_01",
-    "UsableFriendBirdsCount": 0,
+    "UsableFriendBirdsCount": 1,
     "SoundAssetId": "Battle_Rouxls",
     "ScoringStrategy": "MaximumByStrength",
     "BonusPoints": 0,
@@ -1439,7 +1439,7 @@
     "AdditionalAttackInPercent": 0.0,
     "AdditionalHealthInPercent": 0.0,
     "LootTableWheelAfterWave": null,
-    "Force_Character": "bird_merchant",
+    "Force_Character": "",
     "PowerLevelThresholdLow": 50.0,
     "PowerLevelThresholdHigh": 0.0,
     "ApplyPowerLevelBalancing": false,
@@ -1472,7 +1472,7 @@
       "gold": 2
     },
     "BackgroundAssetId": "Battleground_BirdShip_StarReef_01",
-    "UsableFriendBirdsCount": 0,
+    "UsableFriendBirdsCount": 1,
     "SoundAssetId": "SonicDash_Bossbattle_Zazz",
     "ScoringStrategy": "MaximumByStrength",
     "BonusPoints": 0,
@@ -1610,7 +1610,7 @@
     "BonusPoints": 0,
     "EnvironmentalEffects": null,
     "EnvironmentalStartWave": 0,
-    "MaxBirdsInBattle": 5,
+    "MaxBirdsInBattle": 3,
     "AdditionalAttackInPercent": 0.0,
     "AdditionalHealthInPercent": 0.0,
     "LootTableWheelAfterWave": null,
@@ -1647,8 +1647,578 @@
       "gold": 2
     },
     "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_006_01",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_006_01_01",
+      "bpart_da_006_01_02",
+      "bpart_da_006_01_03"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_006_02",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_006_02"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
     "UsableFriendBirdsCount": 1,
     "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_006_03",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_006_03"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_006_04",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_006_04"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_006_05",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_006_05"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_007",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_007"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_02",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_007_01",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_007_01_01",
+      "bpart_da_007_01_02"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_008",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_008_01",
+      "bpart_da_008_02",
+      "bpart_da_008_03"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_rift_009",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_006"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_009",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_009"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_010",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_010"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 35,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_Castle_06",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_011",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_011_01",
+      "bpart_da_011_02",
+      "bpart_da_011_03"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_01",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Basic",
+    "ScoringStrategy": "MaximumByStrength",
+    "BonusPoints": 0,
+    "EnvironmentalEffects": null,
+    "EnvironmentalStartWave": 0,
+    "MaxBirdsInBattle": 3,
+    "AdditionalAttackInPercent": 0.0,
+    "AdditionalHealthInPercent": 0.0,
+    "LootTableWheelAfterWave": null,
+    "Force_Character": "",
+    "PowerLevelThresholdLow": 50.0,
+    "PowerLevelThresholdHigh": 0.0,
+    "ApplyPowerLevelBalancing": false,
+    "Difficulty": 0,
+    "BonusLoot": {
+      "experience": 6
+    },
+    "BattleType": "Generic_Early",
+    "PowerlevelModifier": 0.0
+  },
+  {
+    "NameId": "battle_da_castle",
+    "BaseLevel": 1,
+    "BattleParticipantsIds": [
+      "bpart_da_castle_01",
+      "bpart_da_castle_02",
+      "bpart_da_castle_03",
+      "bpart_da_castle_04",
+      "bpart_da_castle_05"
+    ],
+    "LootTableWheel": {
+      "battle_cobalt_stone": 1
+    },
+    "LootTableAdditional": null,
+    "StrengthPoints": 15,
+    "BattleRequirements": [
+      {
+        "RequirementType": "HaveCurrentHotpsotState",
+        "NameId": "active",
+        "Value": 1.0
+      }
+    ],
+    "LootTableLost": {
+      "gold": 2
+    },
+    "BackgroundAssetId": "Battleground_DarkAges_03",
+    "UsableFriendBirdsCount": 0,
+    "SoundAssetId": "Music_Combat_Special",
     "ScoringStrategy": "MaximumByStrength",
     "BonusPoints": 0,
     "EnvironmentalEffects": null,
@@ -1780,13 +2350,13 @@
       "gold": 2
     },
     "BackgroundAssetId": "Battleground_CobaltPlateaus_02",
-    "UsableFriendBirdsCount": 1,
+    "UsableFriendBirdsCount": 0,
     "SoundAssetId": "Music_Combat_Special",
     "ScoringStrategy": "MaximumByStrength",
     "BonusPoints": 0,
     "EnvironmentalEffects": null,
     "EnvironmentalStartWave": 0,
-    "MaxBirdsInBattle": 3,
+    "MaxBirdsInBattle": 2,
     "AdditionalAttackInPercent": 0.0,
     "AdditionalHealthInPercent": 0.0,
     "LootTableWheelAfterWave": null,

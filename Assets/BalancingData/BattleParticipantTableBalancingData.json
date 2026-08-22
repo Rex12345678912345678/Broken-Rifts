@@ -1102,7 +1102,7 @@
         "Amount": 1.0,
         "Unique": false,
         "ForcePercent": false
-      },
+      }
     ]
   },
   {
@@ -1669,7 +1669,15 @@
         "ForcePercent": false
       },
       {
-        "NameId": "pig_farmerz",
+        "NameId": "pig_da_pirate_02",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_da_pirate_01",
         "LevelDifference": 0,
         "Probability": 2.0,
         "Amount": 1.0,
@@ -1688,6 +1696,41 @@
     },
     "BattleParticipants": [
       {
+        "NameId": "pig_dukeg",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_pilgrim",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_farmerz",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_006_01_01",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
         "NameId": "pig_lunarmage",
         "LevelDifference": 0,
         "Probability": 2.0,
@@ -1696,7 +1739,764 @@
         "ForcePercent": false
       },
       {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_0071",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_pilgrim",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 3.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_duchess",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_executioner",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_008",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_duchess",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 3.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_pilgrim",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_008_01",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_duchess",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_dukeg",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_pilgrim",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_008_02",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_farmerz",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_jester_01",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_jester_03",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_castle_01",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_duker",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_dukeg",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_castle_02",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 3.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_da_pirate_02",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_castle_03",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_duchess_jevil",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_executioner_jevil",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_da_pirate_jevil",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_pilgrim_jevil",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_jester_boss",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_castle_04",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_duchess",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_da_pirate_01",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 3.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_knight_wolflackeyb",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_castle_05",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
         "NameId": "pig_kingknight",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_006_01_02",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_duchess",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_dukeg",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_jester_03",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_006_01_03",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_jester_01",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_jester_02",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_pilgrim",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_006_02",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_dukeg",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_farmerz",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_006_03",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_lunarmage",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_executioner",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_006_04",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_duchess",
+        "LevelDifference": 0,
+        "Probability": 1.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_dukeg",
+        "LevelDifference": 0,
+        "Probability": 1.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_jester_03",
+        "LevelDifference": 0,
+        "Probability": 1.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_006_05",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_executioner",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_007",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_da_pirate_02",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_da_pirate_01",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_da_pirate_03",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 3.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_007_01_01",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_shaman_blacksheep",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_007_01_02",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_shaman_direwolf",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_pirate_wolflackeyp",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_knight_wolflackeyb",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_008_03",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_dukeg",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_duchess",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_011_01",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_farmerz",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 5.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_011_02",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_pilgrim",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_farmerz",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_lunarmage",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_011_03",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_pilgrim",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 4.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_executioner",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_010",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_executioner",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "da_pirate_02",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_paradise_boss",
         "LevelDifference": 0,
         "Probability": 2.0,
         "Amount": 1.0,
@@ -1715,7 +2515,7 @@
     },
     "BattleParticipants": [
       {
-        "NameId": "pig_duchess",
+        "NameId": "pig_pilgrim",
         "LevelDifference": 0,
         "Probability": 1.0,
         "Amount": 1.0,
@@ -1723,15 +2523,7 @@
         "ForcePercent": false
       },
       {
-        "NameId": "pig_pirate_wolflackeyp",
-        "LevelDifference": 0,
-        "Probability": 1.0,
-        "Amount": 1.0,
-        "Unique": false,
-        "ForcePercent": false
-      },
-      {
-        "NameId": "pig_batteringram",
+        "NameId": "pig_jester_03",
         "LevelDifference": 0,
         "Probability": 1.0,
         "Amount": 1.0,
@@ -1741,7 +2533,77 @@
     ]
   },
   {
-    "NameId": "bpart_008_1",
+    "NameId": "bpart_da_006",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_executioner",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "da_pirate_02",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_da_009",
+    "Type": "IgnoreStrength",
+    "VictoryCondition": {
+      "Type": "DefeatAll",
+      "NameId": "",
+      "Value": 0.0
+    },
+    "BattleParticipants": [
+      {
+        "NameId": "pig_jester_01",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_jester_02",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_jester_03",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 2.0,
+        "Unique": false,
+        "ForcePercent": false
+      }
+    ]
+  },
+  {
+    "NameId": "bpart_008_01",
     "Type": "Weighted",
     "VictoryCondition": {
       "Type": "DefeatAll",
@@ -2009,14 +2871,6 @@
         "Amount": 1.0,
         "Unique": false,
         "ForcePercent": false
-      },
-      {
-        "NameId": "pig_minion_bird_catcher",
-        "LevelDifference": 0,
-        "Probability": 1.0,
-        "Amount": 2.0,
-        "Unique": false,
-        "ForcePercent": false
       }
     ]
   },
@@ -2235,30 +3089,6 @@
         "Amount": 1.0,
         "Unique": false,
         "ForcePercent": false
-      },
-      {
-        "NameId": "pig_minion_bird_catcher_bird2",
-        "LevelDifference": 0,
-        "Probability": 1.0,
-        "Amount": 1.0,
-        "Unique": false,
-        "ForcePercent": false
-      },
-      {
-        "NameId": "pig_minion_stickpig_bird2",
-        "LevelDifference": 0,
-        "Probability": 1.0,
-        "Amount": 2.0,
-        "Unique": false,
-        "ForcePercent": false
-      },
-      {
-        "NameId": "pig_minion_stickpig_bird2",
-        "LevelDifference": 0,
-        "Probability": 1.0,
-        "Amount": 1.0,
-        "Unique": false,
-        "ForcePercent": false
       }
     ]
   },
@@ -2362,14 +3192,6 @@
         "LevelDifference": 0,
         "Probability": 1.0,
         "Amount": 1.0,
-        "Unique": false,
-        "ForcePercent": false
-      },
-      {
-        "NameId": "pig_minion_rogue_bird2",
-        "LevelDifference": 0,
-        "Probability": 1.0,
-        "Amount": 3.0,
         "Unique": false,
         "ForcePercent": false
       }

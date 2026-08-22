@@ -3461,6 +3461,123 @@
     "TargetCulling": null
   },
   {
+    "NameId": "pig_support_dukeg",
+    "AssetId": "TricksyTrick",
+    "LocaId": "pig_support_dukeg",
+    "SkillParameters": {
+      "damage_in_percent": 75.0,
+      "image": 1.0,
+      "all": 1.0,
+      "charge": 2.0,
+      "share_effect": 1.0
+    },
+    "SkillTemplateType": "OrderAttackSkill",
+    "EffectDuration": 0,
+    "TargetType": "Support",
+    "EffectType": "Blessing",
+    "TargetingBehavior": "None",
+    "TargetAlreadyAffectedTargets": true,
+    "TargetSelfPossible": true,
+    "IconAssetId": "PassiveEffect",
+    "IconAtlasId": "Skills_Pigs_01",
+    "EffectIconAtlasId": "",
+    "EffectIconAssetId": "",
+    "TargetCulling": [
+      "Stunned",
+      "Banner"
+    ]
+  },
+  {
+    "NameId": "pig_attack_duker",
+    "AssetId": "OutOfTune",
+    "LocaId": "pig_attack_duker",
+    "SkillParameters": {
+      "damage_in_percent": 200.0,
+      "charge": 2.0,
+      "chance": 100.0,
+      "duration": 1.0,
+      "use_skill_asset": 1.0
+    },
+    "SkillTemplateType": "AttackWithStunChanceSkill",
+    "EffectDuration": 0,
+    "TargetType": "Attack",
+    "EffectType": "Curse",
+    "TargetingBehavior": "None",
+    "TargetAlreadyAffectedTargets": true,
+    "TargetSelfPossible": false,
+    "IconAssetId": "AttackCurse",
+    "IconAtlasId": "Skills_Pigs_01",
+    "EffectIconAtlasId": "Skills_Pigs_01",
+    "EffectIconAssetId": "AttackCurse",
+    "TargetCulling": null
+  },
+  {
+    "NameId": "pig_support_duker",
+    "AssetId": "MirrorImage",
+    "LocaId": "pig_support_duker",
+    "SkillParameters": {
+      "chance": 100.0,
+      "damage_in_percent": 30.0,
+      "mirror_self": 1.0,
+      "all": 1.0
+    },
+    "SkillTemplateType": "AttackSameTargetBlessing",
+    "EffectDuration": 3,
+    "TargetType": "Support",
+    "EffectType": "Blessing",
+    "TargetingBehavior": "Strongest",
+    "TargetAlreadyAffectedTargets": false,
+    "TargetSelfPossible": false,
+    "IconAssetId": "MirrorImage",
+    "IconAtlasId": "Skills_Birds_01",
+    "EffectIconAtlasId": "Skills_Birds_01",
+    "EffectIconAssetId": "MirrorImage",
+    "TargetCulling": null
+  },
+  {
+    "NameId": "pig_attack_kingknight",
+    "AssetId": "BlindingStrike",
+    "LocaId": "pig_attack_kingknight",
+    "SkillParameters": {
+      "damage_in_percent": 100.0,
+      "reduction_in_percent": 100.0,
+      "chance": 100.0
+    },
+    "SkillTemplateType": "AttackWithDamageDebuffSkill",
+    "EffectDuration": 2,
+    "TargetType": "Attack",
+    "EffectType": "Curse",
+    "TargetingBehavior": "None",
+    "TargetAlreadyAffectedTargets": true,
+    "TargetSelfPossible": false,
+    "IconAssetId": "PassiveEffect",
+    "IconAtlasId": "Skills_Pigs_01",
+    "EffectIconAtlasId": "Skills_Pigs_01",
+    "EffectIconAssetId": "AttackCurse",
+    "TargetCulling": null
+  },
+  {
+    "NameId": "pig_support_kingknight",
+    "AssetId": "Alarm",
+    "LocaId": "pig_support_kingknight",
+    "SkillParameters": {
+      "percent": 95.0,
+      "all": 1.0
+    },
+    "SkillTemplateType": "BlockDamageSkill",
+    "EffectDuration": 1,
+    "TargetType": "Support",
+    "EffectType": "Blessing",
+    "TargetingBehavior": "None",
+    "TargetAlreadyAffectedTargets": false,
+    "TargetSelfPossible": true,
+    "IconAssetId": "Blessing",
+    "IconAtlasId": "Skills_Pigs_01",
+    "EffectIconAtlasId": "Skills_Pigs_01",
+    "EffectIconAssetId": "Blessing",
+    "TargetCulling": null
+  },
+  {
     "NameId": "pig_passive_wolflackey",
     "AssetId": "Scared",
     "LocaId": "pig_passive_wolflackey",
@@ -3510,7 +3627,7 @@
     "AssetId": "CallAid",
     "LocaId": "pig_support_rouxls_01",
     "SkillParameters": {
-      "summon_rouxls": 2.0
+      "summon_rouxls": 3.0
     },
     "SkillTemplateType": "SummonCombatant",
     "EffectDuration": 0,
@@ -3600,7 +3717,7 @@
     "EffectType": "Blessing",
     "TargetingBehavior": "None",
     "TargetAlreadyAffectedTargets": true,
-    "TargetSelfPossible": true,
+    "TargetSelfPossible": false,
     "IconAssetId": "Blessing",
     "IconAtlasId": "Skills_Pigs_01",
     "EffectIconAtlasId": "Skills_Pigs_01",
@@ -3800,8 +3917,72 @@
     "TargetCulling": null
   },
   {
+    "NameId": "pig_attack_farmerz",
+    "AssetId": "Leech",
+    "LocaId": "pig_attack_farmerz",
+    "SkillParameters": {
+      "damage_in_percent": 100.0,
+      "dot_chance": 100.0,
+      "dot_damage_in_percent": 100.0
+    },
+    "SkillTemplateType": "AttackAndApplyDotSkill",
+    "EffectDuration": 2,
+    "TargetType": "Attack",
+    "EffectType": "Curse",
+    "TargetingBehavior": "None",
+    "TargetAlreadyAffectedTargets": true,
+    "TargetSelfPossible": false,
+    "IconAssetId": "AttackCurse",
+    "IconAtlasId": "Skills_Pigs_01",
+    "EffectIconAtlasId": "Skills_Pigs_01",
+    "EffectIconAssetId": "AttackCurse",
+    "TargetCulling": null
+  },
+  {
+    "NameId": "pig_attack_executioner",
+    "AssetId": "Smash",
+    "LocaId": "pig_attack_executioner",
+    "SkillParameters": {
+      "damage_in_percent": 250.0,
+      "charge": 2.0
+    },
+    "SkillTemplateType": "SimpleAttackSkill",
+    "EffectDuration": 0,
+    "TargetType": "Attack",
+    "EffectType": "Curse",
+    "TargetingBehavior": "None",
+    "TargetAlreadyAffectedTargets": true,
+    "TargetSelfPossible": false,
+    "IconAssetId": "Attack",
+    "IconAtlasId": "Skills_Pigs_01",
+    "EffectIconAtlasId": "Skills_Pigs_01",
+    "EffectIconAssetId": "Attack",
+    "TargetCulling": null
+  },
+  {
+    "NameId": "pig_passive_executioner",
+    "AssetId": "AngryBomber",
+    "LocaId": "pig_passive_executioner",
+    "SkillParameters": {
+      "damage_increase": 100.0,
+      "hp_treshold": 33.0
+    },
+    "SkillTemplateType": "ModifyDamageByHealthTreshold",
+    "EffectDuration": -1,
+    "TargetType": "Passive",
+    "EffectType": "Passive",
+    "TargetingBehavior": "None",
+    "TargetAlreadyAffectedTargets": false,
+    "TargetSelfPossible": true,
+    "IconAssetId": "PassiveEffect",
+    "IconAtlasId": "Skills_Pigs_01",
+    "EffectIconAtlasId": "",
+    "EffectIconAssetId": "",
+    "TargetCulling": null
+  },
+  {
     "NameId": "pig_attack_batteringram",
-    "AssetId": "Smack",
+    "AssetId": "Smash",
     "LocaId": "pig_attack_batteringram",
     "SkillParameters": {
       "damage_in_percent": 100.0,
@@ -3824,7 +4005,7 @@
   },
   {
     "NameId": "pig_attack_batteringramspear",
-    "AssetId": "Poke",
+    "AssetId": "Smash",
     "LocaId": "pig_attack_batteringramspear",
     "SkillParameters": {
       "damage_in_percent": 100.0
@@ -3844,7 +4025,7 @@
   },
   {
     "NameId": "pig_attack_batteringrampoison",
-    "AssetId": "Punch",
+    "AssetId": "ShatteringSmash",
     "LocaId": "pig_attack_batteringrampoison",
     "SkillParameters": {
       "damage_in_percent": 35.0,
@@ -8443,6 +8624,27 @@
     "IconAtlasId": "Skills_Pigs_01",
     "EffectIconAtlasId": "Skills_Banner",
     "EffectIconAssetId": "Blessing",
+    "TargetCulling": null
+  },
+  {
+    "NameId": "pig_passive_jester_boss",
+    "AssetId": "Annoying",
+    "LocaId": "pig_passive_jester_boss",
+    "SkillParameters": {
+      "increase_in_percent": 25.0,
+      "all": 1.0
+    },
+    "SkillTemplateType": "IncreaseDamage",
+    "EffectDuration": -1,
+    "TargetType": "Passive",
+    "EffectType": "Passive",
+    "TargetingBehavior": "None",
+    "TargetAlreadyAffectedTargets": false,
+    "TargetSelfPossible": true,
+    "IconAssetId": "PassiveEffect",
+    "IconAtlasId": "Skills_Pigs_01",
+    "EffectIconAtlasId": "",
+    "EffectIconAssetId": "",
     "TargetCulling": null
   },
   {
