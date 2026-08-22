@@ -1,0 +1,341 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.2/respin/6000.2.7f1-2eb0c79396db' branch; Version is '6000.2.7f2 (2b518236b676) revision 2838914'; Using compiler version '194234433'; Build Type 'Release'
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-royal" at "2026-08-22T12:48:49.3583271Z"
+OS: 'Windows 11  (10.0.26200) 64bit Core' Language: 'en' Physical Memory: 15765 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+Date: 2026-08-22T12:48:49Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.2.7f2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/royal/Downloads/3.0.1Decomp(2)
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65004
+-licensingIpc
+LicenseClient-royal
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+-diag-temp-memory-leak-validation
+True
+-name
+AssetImport
+Successfully changed project path to: C:/Users/royal/Downloads/3.0.1Decomp(2)
+C:/Users/royal/Downloads/3.0.1Decomp(2)
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [3740]  Target information:
+
+Player connection [3740]  * "[IP] 192.168.178.70 [Port] 0 [Flags] 2 [Guid] 4185148321 [EditorId] 4185148321 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UKKR08J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [3740] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [3740] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 8556, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              58c471d074b645fb9a2c8617b3d41c23
+  Correlation Id:          57796b8066eab08fe75f6d3fa6c1b51d
+  External correlation Id: 5158680607253116744
+  Machine Id:              nr4BdEJEz5NRZbMVu/w9+2Z7r+g=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-royal" (connect: 0.00s, validation: 0.00s, handshake: 0.05s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-royal-notifications" at "2026-08-22T12:48:49.408322Z"
+[Licensing::Module] Licensing Background thread has ended after 0.05s
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+ETC Legacy compression has been deprecated and will be removed in a future release. You can review compressors in "Project Settings > Editor > Texture Compressors".
+The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
+Refreshing native plugins compatible for Editor in 24.34 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.2.7f2 (2b518236b676)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/royal/Downloads/3.0.1Decomp(2)/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1638)
+    Vendor:   ATI
+    VRAM:     7882 MB
+    Driver:   31.0.21916.2
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56448
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.7f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004317 seconds.
+- Loaded All Assemblies, in  0.490 seconds
+Native extension for WindowsStandalone target not found
+Diagnostic switches are active and may impact performance or degrade your user experience. Switches can be configured through the Diagnostics section in the Preferences window.
+	TempMemoryLeakValidation: True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.400 seconds
+Domain Reload Profiling: 886ms
+	BeginReloadAssembly (168ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (38ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (61ms)
+	LoadAllAssembliesAndSetupDomain (207ms)
+		LoadAssemblies (163ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (203ms)
+			TypeCache.Refresh (201ms)
+				TypeCache.ScanAssembly (183ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (401ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (299ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (48ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (65ms)
+			ProcessInitializeOnLoadAttributes (128ms)
+			ProcessInitializeOnLoadMethodAttributes (54ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 9072287710966-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  0.967 seconds
+The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
+Refreshing native plugins compatible for Editor in 19.59 ms, found 4 plugins.
+The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
+Native extension for WindowsStandalone target not found
+Forcing NO_GPGS to be defined for iOS builds.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+GooglePlayGames.Editor.ForceNoGpgsForIOS:setNoGPGS () (at Assets/GooglePlayGames/Editor/ForceNoGpgsForIOS.cs:49)
+GooglePlayGames.Editor.ForceNoGpgsForIOS:.cctor () (at Assets/GooglePlayGames/Editor/ForceNoGpgsForIOS.cs:35)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+(Filename: Assets/GooglePlayGames/Editor/ForceNoGpgsForIOS.cs Line: 49)
+
+The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
+UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+Microsoft.Win32.RegistryKey:InternalOpenSubKeyCore (string,bool,bool)
+Microsoft.Win32.RegistryKey:OpenSubKey (string,bool)
+System.TimeZoneInfo/<>c:<.cctor>b__157_0 ()
+System.Lazy`1<bool>:ViaFactory (System.Threading.LazyThreadSafetyMode)
+System.Lazy`1<bool>:ExecutionAndPublication (System.LazyHelper,bool)
+System.Lazy`1<bool>:CreateValue ()
+System.Lazy`1<bool>:get_Value ()
+System.TimeZoneInfo:get_HaveRegistry ()
+System.TimeZoneInfo:GetLocalTimeZone (System.TimeZoneInfo/CachedData)
+System.TimeZoneInfo/CachedData:CreateLocal ()
+System.TimeZoneInfo/CachedData:get_Local ()
+System.TimeZoneInfo:get_Local ()
+System.DateTime:ToLocalTime (bool)
+System.DateTime:ToLocalTime ()
+System.DateTime:FromFileTime (long)
+System.DateTimeOffset:FromFileTime (long)
+Interop/Kernel32/FILE_TIME:ToDateTimeOffset ()
+System.IO.FileSystem:GetCreationTime (string)
+System.IO.File:GetCreationTime (string)
+System.IO.DefaultWatcher:CreateFileData (string,string)
+System.IO.DefaultWatcher:IterateAndModifyFilesData (System.IO.DefaultWatcherData,string,bool,string[])
+System.IO.DefaultWatcher:DoFiles (System.IO.DefaultWatcherData,string,bool)
+System.IO.DefaultWatcher:UpdateDataAndDispatch (System.IO.DefaultWatcherData,bool)
+System.IO.DefaultWatcher:StartDispatching (object)
+System.IO.FileSystemWatcher:Start ()
+System.IO.FileSystemWatcher:set_EnableRaisingEvents (bool)
+BalancingDataContainerHelper:Init () (at Assets/Editor/BalancingDataContainerHelper.cs:98)
+BalancingDataContainerHelper:.cctor () (at Assets/Editor/BalancingDataContainerHelper.cs:75)
+BalancingDataRuntimeReload:Init () (at Assets/Editor/BalancingDataRuntimeReload.cs:63)
+BalancingDataRuntimeReload:.cctor () (at Assets/Editor/BalancingDataRuntimeReload.cs:58)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Assets/Editor/BalancingDataContainerHelper.cs line 98]
+
+Refreshing native plugins compatible for Editor in 16.15 ms, found 4 plugins.
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Diagnostic switches are active and may impact performance or degrade your user experience. Switches can be configured through the Diagnostics section in the Preferences window.
+	TempMemoryLeakValidation: True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.853 seconds
+Domain Reload Profiling: 1810ms
+	BeginReloadAssembly (216ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (41ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (646ms)
+		LoadAssemblies (479ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (297ms)
+			TypeCache.Refresh (190ms)
+				TypeCache.ScanAssembly (169ms)
+			BuildScriptInfoCaches (80ms)
+			ResolveRequiredComponents (23ms)
+	FinalizeReload (854ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (663ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (138ms)
+			ProcessInitializeOnLoadAttributes (341ms)
+			ProcessInitializeOnLoadMethodAttributes (164ms)
+			AfterProcessingInitializeOnLoad (11ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+ETC Legacy compression has been deprecated and will be removed in a future release. You can review compressors in "Project Settings > Editor > Texture Compressors".
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
+Refreshing native plugins compatible for Editor in 14.81 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5132 unused Assets / (1.8 MB). Loaded Objects now: 5697.
+Memory consumption went from 108.8 MB to 107.0 MB.
+Total: 14.474100 ms (FindLiveObjects: 0.762400 ms CreateObjectMapping: 0.853200 ms MarkObjects: 10.838500 ms  DeleteObjects: 2.018700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 348787.610189 seconds.
+  path: Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/Headgear_PizzaDrone.png
+  artifactKey: Guid(2700d24368425e9479f8351137d26995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/Headgear_PizzaDrone.png using Guid(2700d24368425e9479f8351137d26995) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '99ff56a340fab34cc1e9411300546efe') in 0.0953525 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/Headgear_PizzaDrone_Back.png
+  artifactKey: Guid(b002e76c1be0aa64094adabc95e4ec09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/Headgear_PizzaDrone_Back.png using Guid(b002e76c1be0aa64094adabc95e4ec09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b0c93f6765f9c02597fab87b26d5651') in 0.0089938 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/MainHand_PizzaCutter.png
+  artifactKey: Guid(b15e05866db770d488dee5376c388759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/MainHand_PizzaCutter.png using Guid(b15e05866db770d488dee5376c388759) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '24cadcb33dc770ec4f9d06d038096043') in 0.0083052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.523433 seconds.
+  path: Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/Headgear_PizzaDrone.png
+  artifactKey: Guid(2700d24368425e9479f8351137d26995) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/Headgear_PizzaDrone.png using Guid(2700d24368425e9479f8351137d26995) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c4475dddcf2684be94f44dd76ce1f7c2') in 0.010377 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.859835 seconds.
+  path: Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/OffHand_Pizza.png
+  artifactKey: Guid(97b8977f1b68638478733bc6470de46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/OffHand_Pizza.png using Guid(97b8977f1b68638478733bc6470de46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ff13330dbe18570639c997732b4dd4d6') in 0.0084636 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.013326 seconds.
+  path: Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/Headgear_PizzaDrone_Back.png
+  artifactKey: Guid(b002e76c1be0aa64094adabc95e4ec09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/Headgear_PizzaDrone_Back.png using Guid(b002e76c1be0aa64094adabc95e4ec09) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '48a79154cb2dfb3a6fcc0c234e59c803') in 0.0092858 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.650299 seconds.
+  path: Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/MainHand_PizzaCutter.png
+  artifactKey: Guid(b15e05866db770d488dee5376c388759) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/MainHand_PizzaCutter.png using Guid(b15e05866db770d488dee5376c388759) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd5fdd8fbe719d5863260468023b5c133') in 0.0114584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.474596 seconds.
+  path: Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/OffHand_Pizza.png
+  artifactKey: Guid(97b8977f1b68638478733bc6470de46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/content/4_Characters/2_Pigs/19_PigDrone/BodyParts/OffHand_Pizza.png using Guid(97b8977f1b68638478733bc6470de46d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b6c6e74d8d6528cd817abb195cc75a79') in 0.0099314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+

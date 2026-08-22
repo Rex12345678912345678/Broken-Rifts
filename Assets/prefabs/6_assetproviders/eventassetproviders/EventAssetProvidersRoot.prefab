@@ -1,0 +1,2057 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1208238387013845
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4693820365499180}
+  m_Layer: 0
+  m_Name: EventAssetProvidersRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1850836626391583
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4302231604656781}
+  - component: {fileID: 114312005313725796}
+  m_Layer: 0
+  m_Name: Boss_HogriderBossAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1310203386246136
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4527747883066984}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1327575378302775
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4101037011788706}
+  - component: {fileID: 114189909325155869}
+  m_Layer: 0
+  m_Name: Boss_KrakenBossAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1814194587776247
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4129179204095684}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1046061451867046
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4339311163901628}
+  - component: {fileID: 114406883740766843}
+  m_Layer: 0
+  m_Name: Boss_TinkerBossAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1633221509569663
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4222407937884689}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1805156028532258
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4814365282545346}
+  - component: {fileID: 114776076262717566}
+  m_Layer: 0
+  m_Name: Campaign_AnniversaryAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1551033078755053
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4786284135283183}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1718925991097082
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4990240624762513}
+  - component: {fileID: 114290593928170058}
+  m_Layer: 0
+  m_Name: Campaign_ChristmasAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1468533784578896
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4715423617589791}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1328314879273926
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4804103139211930}
+  - component: {fileID: 114894022665291737}
+  m_Layer: 0
+  m_Name: Campaign_EasterAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1706815579378692
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4423738266316964}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1141298644420440
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4464530228841705}
+  - component: {fileID: 114304908528797704}
+  m_Layer: 0
+  m_Name: Campaign_HalloweenAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1227438833275181
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4642153742777309}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1140498628340901
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4660959213040928}
+  - component: {fileID: 114904560746211052}
+  m_Layer: 0
+  m_Name: Campaign_JungleAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1683577584560755
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4755062201540697}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1363544044665749
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4269818082678776}
+  - component: {fileID: 114896243030839268}
+  m_Layer: 0
+  m_Name: Campaign_MovieAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1727279932357519
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4432561977831555}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1328022079917887
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4129537728040913}
+  - component: {fileID: 114722756656374829}
+  m_Layer: 0
+  m_Name: Campaign_OktoberfestAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1803432753962841
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4627692190960237}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1966382784768050
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4596262293942544}
+  - component: {fileID: 114945158821154856}
+  m_Layer: 0
+  m_Name: Campaign_SportsAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1473986566623486
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4038685615523724}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1956900356991956
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4791963312955477}
+  - component: {fileID: 114453526047532636}
+  m_Layer: 0
+  m_Name: Campaign_ValentineAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1202354826127723
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4281214543200262}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1020975239687200
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4249094822589177}
+  - component: {fileID: 114839945704880358}
+  m_Layer: 0
+  m_Name: Invasion_ChinaAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1811201165173024
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4490967492475773}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1710605062802577
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4423085637932314}
+  - component: {fileID: 114754325077881931}
+  m_Layer: 0
+  m_Name: Invasion_NinjasAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1216359255168082
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4251656686338016}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1616690607493981
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4999212504762060}
+  - component: {fileID: 114427835738151417}
+  m_Layer: 0
+  m_Name: Invasion_PiratesAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1045497984622135
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4000230705933567}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1080444207728793
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4970172092626859}
+  - component: {fileID: 114501690944124846}
+  m_Layer: 0
+  m_Name: Invasion_TinkerAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1510006373617385
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4819681022423551}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1819306958467603
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4771591643295773}
+  - component: {fileID: 114948398645337885}
+  m_Layer: 0
+  m_Name: Invasion_VillainsAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1258207632647511
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4363210134805320}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1006459396339361
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4760432736230621}
+  - component: {fileID: 114420817143506047}
+  m_Layer: 0
+  m_Name: Invasion_ZombiesAssetProvider
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1034155849307225
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4448155798528519}
+  m_Layer: 0
+  m_Name: CachedTransformRoot
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4693820365499180
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1208238387013845}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4302231604656781}
+  - {fileID: 4101037011788706}
+  - {fileID: 4339311163901628}
+  - {fileID: 4814365282545346}
+  - {fileID: 4990240624762513}
+  - {fileID: 4804103139211930}
+  - {fileID: 4464530228841705}
+  - {fileID: 4660959213040928}
+  - {fileID: 4269818082678776}
+  - {fileID: 4129537728040913}
+  - {fileID: 4596262293942544}
+  - {fileID: 4791963312955477}
+  - {fileID: 4249094822589177}
+  - {fileID: 4423085637932314}
+  - {fileID: 4999212504762060}
+  - {fileID: 4970172092626859}
+  - {fileID: 4771591643295773}
+  - {fileID: 4760432736230621}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4302231604656781
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1850836626391583}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4527747883066984}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114312005313725796
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1850836626391583}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4527747883066984}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 69
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Boss_HogriderBoss_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Boss_HogriderBoss/Boss_HogriderBoss_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Boss_HogriderBoss_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Boss_HogriderBoss/Boss_HogriderBoss_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Boss_HogriderBoss_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Boss_HogriderBoss/Boss_HogriderBoss_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4527747883066984
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1310203386246136}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4302231604656781}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4101037011788706
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1327575378302775}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4129179204095684}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114189909325155869
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1327575378302775}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4129179204095684}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 63
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Boss_KrakenBoss_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Boss_KrakenBoss/Boss_KrakenBoss_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Boss_KrakenBoss_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Boss_KrakenBoss/Boss_KrakenBoss_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Boss_KrakenBoss_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Boss_KrakenBoss/Boss_KrakenBoss_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4129179204095684
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1814194587776247}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4101037011788706}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4339311163901628
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1046061451867046}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4222407937884689}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114406883740766843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1046061451867046}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4222407937884689}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 61
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Boss_TinkerBoss_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Boss_TinkerBoss/Boss_TinkerBoss_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Boss_TinkerBoss_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Boss_TinkerBoss/Boss_TinkerBoss_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Boss_TinkerBoss_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Boss_TinkerBoss/Boss_TinkerBoss_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4222407937884689
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1633221509569663}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4339311163901628}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4814365282545346
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1805156028532258}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4786284135283183}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114776076262717566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1805156028532258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4786284135283183}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 328
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Campaign_Anniversary_Map
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Anniversary/Campaign_Anniversary_Map
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Anniversary_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Anniversary/Campaign_Anniversary_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Anniversary_Entrance
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Anniversary/Campaign_Anniversary_Entrance
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Anniversary_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Anniversary/Campaign_Anniversary_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Anniversary_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Anniversary/Campaign_Anniversary_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: EventImage_Campaign_Anniversary
+    AssetLoadingType: 2
+    Path: Content/1_WorldMap/2_Interface/Events/Campaign_Anniversary/EventImage_Campaign_Anniversary
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Anniversary_Icon_Large_ClassChest
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Anniversary/Campaign_Anniversary_Icon_Large_ClassChest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4786284135283183
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1551033078755053}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4814365282545346}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4990240624762513
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1718925991097082}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4715423617589791}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114290593928170058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1718925991097082}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4715423617589791}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 261
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Campaign_Christmas_Map
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Christmas/Campaign_Christmas_Map
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Christmas_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Christmas/Campaign_Christmas_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Christmas_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Christmas/Campaign_Christmas_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Christmas_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Christmas/Campaign_Christmas_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Christmas_Entrance
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Christmas/Campaign_Christmas_Entrance
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: EventImage_Campaign_Christmas
+    AssetLoadingType: 2
+    Path: Content/1_WorldMap/2_Interface/Events/Campaign_Christmas/EventImage_Campaign_Christmas
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Christmas_Icon_Large_ClassChest
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Christmas/Campaign_Christmas_Icon_Large_ClassChest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4715423617589791
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1468533784578896}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4990240624762513}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4804103139211930
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1328314879273926}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4423738266316964}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114894022665291737
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1328314879273926}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4423738266316964}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 320
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Campaign_Easter_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Easter/Campaign_Easter_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Easter_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Easter/Campaign_Easter_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Easter_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Easter/Campaign_Easter_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Easter_Entrance
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Easter/Campaign_Easter_Entrance
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Easter_Map
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Easter/Campaign_Easter_Map
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: EventImage_Campaign_Easter
+    AssetLoadingType: 2
+    Path: Content/1_WorldMap/2_Interface/Events/Campaign_Easter/EventImage_Campaign_Easter
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Easter_Icon_Large_ClassChest
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Easter/Campaign_Easter_Icon_Large_ClassChest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4423738266316964
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1706815579378692}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4804103139211930}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4464530228841705
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1141298644420440}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4642153742777309}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114304908528797704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1141298644420440}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4642153742777309}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 148
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Campaign_Halloween_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Halloween/Campaign_Halloween_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Halloween_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Halloween/Campaign_Halloween_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Halloween_Map
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Halloween/Campaign_Halloween_Map
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Halloween_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Halloween/Campaign_Halloween_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Halloween_Entrance
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Halloween/Campaign_Halloween_Entrance
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: EventImage_Campaign_Halloween
+    AssetLoadingType: 2
+    Path: Content/1_WorldMap/2_Interface/Events/Campaign_Halloween/EventImage_Campaign_Halloween
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Halloween_Icon_Large_ClassChest
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Halloween/Campaign_Halloween_Icon_Large_ClassChest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4642153742777309
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1227438833275181}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4464530228841705}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4660959213040928
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1140498628340901}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4755062201540697}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114904560746211052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1140498628340901}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4755062201540697}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 67
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Campaign_Jungle_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Jungle/Campaign_Jungle_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Jungle_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Jungle/Campaign_Jungle_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Jungle_Map
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Jungle/Campaign_Jungle_Map
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Jungle_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Jungle/Campaign_Jungle_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Jungle_Entrance
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Jungle/Campaign_Jungle_Entrance
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: EventImage_Campaign_Jungle
+    AssetLoadingType: 2
+    Path: Content/1_WorldMap/2_Interface/Events/Campaign_Jungle/EventImage_Campaign_Jungle
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Jungle_Icon_Large_ClassChest
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Jungle/Campaign_Jungle_Icon_Large_ClassChest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4755062201540697
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1683577584560755}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4660959213040928}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4269818082678776
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1363544044665749}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4432561977831555}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114896243030839268
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1363544044665749}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4432561977831555}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 310
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Campaign_Movie_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Movie/Campaign_Movie_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Movie_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Movie/Campaign_Movie_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Movie_Entrance
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Movie/Campaign_Movie_Entrance
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Movie_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Movie/Campaign_Movie_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Movie_Map
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Movie/Campaign_Movie_Map
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: EventImage_Campaign_Movie
+    AssetLoadingType: 2
+    Path: Content/1_WorldMap/2_Interface/Events/Campaign_Movie/EventImage_Campaign_Movie
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Movie_Icon_Large_ClassChest
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Movie/Campaign_Movie_Icon_Large_ClassChest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4432561977831555
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1727279932357519}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4269818082678776}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4129537728040913
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1328022079917887}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4627692190960237}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 9
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114722756656374829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1328022079917887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4627692190960237}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 82
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Campaign_Oktoberfest_Entrance
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Oktoberfest/Campaign_Oktoberfest_Entrance
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Oktoberfest_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Oktoberfest/Campaign_Oktoberfest_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Oktoberfest_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Oktoberfest/Campaign_Oktoberfest_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Oktoberfest_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Oktoberfest/Campaign_Oktoberfest_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Oktoberfest_Map
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Oktoberfest/Campaign_Oktoberfest_Map
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: EventImage_Campaign_Oktoberfest
+    AssetLoadingType: 2
+    Path: Content/1_WorldMap/2_Interface/Events/Campaign_Oktoberfest/EventImage_Campaign_Oktoberfest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Oktoberfest_Icon_Large_ClassChest
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Oktoberfest/Campaign_Oktoberfest_Icon_Large_ClassChest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4627692190960237
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1803432753962841}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4129537728040913}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4596262293942544
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1966382784768050}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4038685615523724}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114945158821154856
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1966382784768050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4038685615523724}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 73
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Campaign_Sports_Entrance
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Sports/Campaign_Sports_Entrance
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Sports_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Sports/Campaign_Sports_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Sports_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Sports/Campaign_Sports_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Sports_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Sports/Campaign_Sports_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Sports_Map
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Sports/Campaign_Sports_Map
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: EventImage_Campaign_Sports
+    AssetLoadingType: 2
+    Path: Content/1_WorldMap/2_Interface/Events/Campaign_Sports/EventImage_Campaign_Sports
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Sports_Icon_Large_ClassChest
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Sports/Campaign_Sports_Icon_Large_ClassChest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4038685615523724
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1473986566623486}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4596262293942544}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4791963312955477
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1956900356991956}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4281214543200262}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114453526047532636
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1956900356991956}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4281214543200262}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 285
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Campaign_Valentine_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Valentine/Campaign_Valentine_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Valentine_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Valentine/Campaign_Valentine_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Valentine_Map
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Valentine/Campaign_Valentine_Map
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Valentine_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Valentine/Campaign_Valentine_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Valentine_Entrance
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Valentine/Campaign_Valentine_Entrance
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: EventImage_Campaign_Valentine
+    AssetLoadingType: 2
+    Path: Content/1_WorldMap/2_Interface/Events/Campaign_Valentine/EventImage_Campaign_Valentine
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Campaign_Valentine_Icon_Large_ClassChest
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Campaign_Valentine/Campaign_Valentine_Icon_Large_ClassChest
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4281214543200262
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1202354826127723}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4791963312955477}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4249094822589177
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1020975239687200}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4490967492475773}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114839945704880358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1020975239687200}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4490967492475773}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 31
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Invasion_China_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_China/Invasion_China_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_China_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_China/Invasion_China_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_China_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_China/Invasion_China_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4490967492475773
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1811201165173024}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4249094822589177}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4423085637932314
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1710605062802577}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4251656686338016}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114754325077881931
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1710605062802577}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4251656686338016}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 18
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Invasion_Ninjas_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Ninjas/Invasion_Ninjas_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Ninjas_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Ninjas/Invasion_Ninjas_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Ninjas_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Ninjas/Invasion_Ninjas_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4251656686338016
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1216359255168082}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4423085637932314}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4999212504762060
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1616690607493981}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4000230705933567}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 14
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114427835738151417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1616690607493981}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4000230705933567}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 18
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Invasion_Pirates_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Pirates/Invasion_Pirates_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Pirates_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Pirates/Invasion_Pirates_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Pirates_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Pirates/Invasion_Pirates_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4000230705933567
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1045497984622135}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4999212504762060}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4970172092626859
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1080444207728793}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4819681022423551}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 15
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114501690944124846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1080444207728793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4819681022423551}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 37
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Invasion_Tinker_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Tinker/Invasion_Tinker_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Tinker_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Tinker/Invasion_Tinker_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Tinker_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Tinker/Invasion_Tinker_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4819681022423551
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1510006373617385}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4970172092626859}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4771591643295773
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1819306958467603}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4363210134805320}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 16
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114948398645337885
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1819306958467603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4363210134805320}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 21
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Invasion_Villains_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Villains/Invasion_Villains_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Villains_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Villains/Invasion_Villains_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Villains_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Villains/Invasion_Villains_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4363210134805320
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1258207632647511}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4771591643295773}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!4 &4760432736230621
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1006459396339361}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4448155798528519}
+  m_Father: {fileID: 4693820365499180}
+  m_RootOrder: 17
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114420817143506047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1006459396339361}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb5db3c4e975ff84291fbc86a14fbd, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  PathAddition:
+  CachedInstancesRoot: {fileID: 4448155798528519}
+  BundleURLEditor:
+  SelfInitializing: 0
+  BundleMode: 1
+  InstantiateCopies: 1
+  EditorBundleVersion: 23
+  MaxAmountOfCachedObjects: 0
+  MinTimeForAssetUnload: 0
+  AssetInfos:
+  - NameId: Invasion_Zombies_Icon
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Zombies/Invasion_Zombies_Icon
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Zombies_Image
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Zombies/Invasion_Zombies_Image
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Invasion_Zombies_Icon_Large
+    AssetLoadingType: 2
+    Path: Prefabs/1_WorldMap/1_Interface/Elements/Events/Invasion_Zombies/Invasion_Zombies_Icon_Large
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  m_Initialized: 0
+  m_LoadingProgress: 1
+--- !u!4 &4448155798528519
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1034155849307225}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4760432736230621}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1208238387013845}
+  m_IsPrefabParent: 1

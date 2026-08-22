@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: 5756d81aa87e464fb75773e9b4238632, type: 3}
+  m_Name: MinionPig_Atlas_01
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 884e5f3964521794189d56361417be5b, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: 0.6035156
+    y: 0
+    width: 0.11425781
+    height: 0.091796875
+  - serializedVersion: 2
+    x: 0.1484375
+    y: 0.25683594
+    width: 0.04296875
+    height: 0.037109375
+  - serializedVersion: 2
+    x: 0.15722656
+    y: 0.11816406
+    width: 0.01171875
+    height: 0.005859375
+  - serializedVersion: 2
+    x: 0.16992188
+    y: 0.11816406
+    width: 0.01171875
+    height: 0.005859375
+  - serializedVersion: 2
+    x: 0.8408203
+    y: 0
+    width: 0.072265625
+    height: 0.076171875
+  - serializedVersion: 2
+    x: 0.19628906
+    y: 0.107421875
+    width: 0.14453125
+    height: 0.123046875
+  - serializedVersion: 2
+    x: 0.19628906
+    y: 0.23144531
+    width: 0.14941406
+    height: 0.11816406
+  - serializedVersion: 2
+    x: 0.375
+    y: 0.11230469
+    width: 0.14257812
+    height: 0.12109375
+  - serializedVersion: 2
+    x: 0.375
+    y: 0.234375
+    width: 0.14453125
+    height: 0.107421875
+  - serializedVersion: 2
+    x: 0.71875
+    y: 0
+    width: 0.12109375
+    height: 0.0859375
+  - serializedVersion: 2
+    x: 0
+    y: 0.25683594
+    width: 0.14746094
+    height: 0.13769531
+  - serializedVersion: 2
+    x: 0.375
+    y: 0.34277344
+    width: 0.09375
+    height: 0.125
+  - serializedVersion: 2
+    x: 0.375
+    y: 0
+    width: 0.15722656
+    height: 0.111328125
+  - serializedVersion: 2
+    x: 0.5332031
+    y: 0.15722656
+    width: 0.064453125
+    height: 0.107421875
+  - serializedVersion: 2
+    x: 0.19628906
+    y: 0.35058594
+    width: 0.13671875
+    height: 0.12890625
+  - serializedVersion: 2
+    x: 0.6035156
+    y: 0.09277344
+    width: 0.08691406
+    height: 0.049804688
+  - serializedVersion: 2
+    x: 0.15722656
+    y: 0.125
+    width: 0.0078125
+    height: 0.0078125
+  - serializedVersion: 2
+    x: 0.69140625
+    y: 0.09277344
+    width: 0.08691406
+    height: 0.049804688
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0.1953125
+    height: 0.1171875
+  - serializedVersion: 2
+    x: 0
+    y: 0.3955078
+    width: 0.14648438
+    height: 0.087890625
+  - serializedVersion: 2
+    x: 0
+    y: 0.11816406
+    width: 0.15625
+    height: 0.13769531
+  - serializedVersion: 2
+    x: 0.5332031
+    y: 0
+    width: 0.06933594
+    height: 0.15625
+  - serializedVersion: 2
+    x: 0.19628906
+    y: 0
+    width: 0.17773438
+    height: 0.10644531
+  textureGUIDs:
+  - 9d823c4bacb68fe43b881b71c16e8b26
+  - ca140d974d3ebe143b3c5702f202a04b
+  - d60f2dff0ca22c44589a9efb5de19a79
+  - d730a0503499c52409ec3ff1a0bb1310
+  - 6abf990304bc41b46af59d30244c7f61
+  - 5da3cfb2baad2174ba1bc9fce3473d76
+  - 550e7063c99d4aa4cb5ea5a774b0bafb
+  - 32ff7d444de5e6a41bef9c820e91dbee
+  - 8e58da741b9cecd42879750313bfcefd
+  - e00fd39fb03d13d4e8564c631d592fb3
+  - 7babf342cbac533429fa094ff6732aab
+  - aeddb094487f4e34e9acb02e565da934
+  - 4df4ba0dd06dae04cb578c3f9893c0e0
+  - 99728ab817cb1ff4988d5d7f91b78290
+  - cac7d16f53218f14a8f481c19826000d
+  - 8076a0b67eba9794697bdcdb152f302f
+  - d816223996fbecc40928d6be51cff8f6
+  - bc96865b5ed97ca4a9650887ef6adab1
+  - 7aefb19a8e42d9d4d821f1bd7d2ebf8f
+  - d4760d77d9c7e87449b22c81a2ce586c
+  - 48d50185ee1de2a49b5a93652b3a66b8
+  - cf7c8b22aebb6354f91a7fb0ceca943f
+  - a73b9fda912ed0b42b41ffef89dd744e
+  textureSizes:
+  - {x: 117, y: 94}
+  - {x: 44, y: 38}
+  - {x: 12, y: 6}
+  - {x: 12, y: 6}
+  - {x: 74, y: 78}
+  - {x: 148, y: 126}
+  - {x: 153, y: 121}
+  - {x: 146, y: 124}
+  - {x: 148, y: 110}
+  - {x: 124, y: 88}
+  - {x: 151, y: 141}
+  - {x: 96, y: 128}
+  - {x: 161, y: 114}
+  - {x: 66, y: 110}
+  - {x: 140, y: 132}
+  - {x: 89, y: 51}
+  - {x: 8, y: 8}
+  - {x: 89, y: 51}
+  - {x: 200, y: 120}
+  - {x: 150, y: 90}
+  - {x: 160, y: 141}
+  - {x: 71, y: 160}
+  - {x: 182, y: 109}
+  defaultPivotOffsets:
+  - {x: -0.24107142, y: -0.116688825}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: -0.17, y: -0.26}
+  - {x: -0.17678572, y: -0.28111717}
+  - {x: -0.16, y: -0.37}
+  - {x: -0.17, y: -0.17}
+  - {x: -0.29, y: 0.01}
+  - {x: -0.20892857, y: -0.36430472}
+  - {x: -0.4, y: -0.64}
+  - {x: -0.26785716, y: -0.503125}
+  - {x: -0.24107142, y: -0.13017857}
+  - {x: -0.15173025, y: -0.33369246}
+  - {x: 0, y: -1.622006}
+  - {x: 0, y: 0}
+  - {x: 0, y: -1.6220063}
+  - {x: -0.3, y: 0.072222225}
+  - {x: -0.14666666, y: -0.68333334}
+  - {x: -0.16645834, y: -0.5388889}
+  - {x: -0.050078247, y: -0.17222223}
+  - {x: -0.11312577, y: -0.5277778}
+  textureNames:
+  - Headgear_PigGuard
+  - Snout
+  - Eyebrow_Right
+  - Eyebrow_Left
+  - OffHand_PigGuard
+  - Headgear_Corporal
+  - Headgear_TurbanPig
+  - Headgear_BirdCatcher
+  - OffHand_PhatLootRogue
+  - OffHand_BirdCatcher
+  - Headgear_SnowPig
+  - Headgear_Apprentice
+  - Headgear_Elf
+  - OffHand_Pyrobolist
+  - Headgear_PumpkinPig
+  - Headgear_CuteCupid
+  - Headgear_DarkCupid
+  - Headgear_Cupido
+  - Headgear_Mermaid
+  - Headgear_Sheriff
+  - Headgear_Pilgrim
+  - MainHand_Shovel
+  - Headgear_Jester
+  texturePaths:
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_PigGuard.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Snout.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Eyebrow_Right.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Eyebrow_Left.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/OffHand_PigGuard.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_Corporal.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_TurbanPig.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_BirdCatcher.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/OffHand_PhatLootRogue.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/OffHand_BirdCatcher.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_SnowPig.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_Apprentice.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_Elf.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/OffHand_Pyrobolist.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_PumpkinPig.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_CuteCupid.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_DarkCupid.png
+  - Assets/content/4_Characters/8_Base/1_MinionPig/BodyParts/Headgear_Cupido.png
+  - Assets/content/4_Characters/2_Pigs/1_MinionPig/BodyParts/Headgear_Mermaid.png
+  - Assets/content/4_Characters/2_Pigs/1_MinionPig/BodyParts/Headgear_Sheriff.png
+  - Assets/content/4_Characters/2_Pigs/1_MinionPig/BodyParts/Headgear_Pilgrim.png
+  - Assets/content/4_Characters/2_Pigs/1_MinionPig/BodyParts/MainHand_Shovel.png
+  - Assets/content/4_Characters/2_Pigs/1_MinionPig/BodyParts/Headgear_Jester.png
+  lastBuildID: 2026062415463317
+  needsRebuilt: 0
+  dataVersion: 4
+  maxAtlasSize: 1024
+  padding: 1
+  forceSquare: 1
