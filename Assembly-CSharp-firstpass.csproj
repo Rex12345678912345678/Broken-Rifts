@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{87F6AC7F-BF0C-B130-72EE-B24D7FE58329}</ProjectGuid>
+    <ProjectGuid>{129F73E5-5B14-2B52-B04B-E88ACEACED72}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -1348,15 +1348,15 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="ABH.Shared.Models.Serialization.csproj">
-      <Project>{D85B021D-44E4-086F-B96F-DB0C9A735EBE}</Project>
+      <Project>{789A6A7B-4A05-C710-4EB2-388FFA55B9AE}</Project>
       <Name>ABH.Shared.Models.Serialization</Name>
     </ProjectReference>
     <ProjectReference Include="ABHSharedClient.csproj">
-      <Project>{0744AE94-8EEA-92BC-62C0-1CE19577EEDE}</Project>
+      <Project>{B02236D8-BAB8-D1C5-0B6F-EBFD26D7C843}</Project>
       <Name>ABHSharedClient</Name>
     </ProjectReference>
     <ProjectReference Include="ABH.Chimera.Library.Components.csproj">
-      <Project>{A60D1741-506F-CF69-54D5-C52DC92F19C7}</Project>
+      <Project>{E7B95049-5EB5-C87F-7334-91C24F5EB6E4}</Project>
       <Name>ABH.Chimera.Library.Components</Name>
     </ProjectReference>
   </ItemGroup>

@@ -419,6 +419,75 @@
     "PvpSetItemSkill": "bird_red_set_bonus_06_pvp"
   },
   {
+    "NameId": "bird_weapon_aqua_start",
+    "ItemType": "MainHandEquipment",
+    "AssetBaseId": "MainHand_Sword_01",
+    "LocaBaseId": "bird_weapon_red_sword",
+    "SortPriority": 1,
+    "BaseStat": 14,
+    "StatPerLevel": 0,
+    "StatPerQuality": 0,
+    "StatPerQualityPercent": [
+      0
+    ],
+    "AnimationIndex": 1,
+    "IsRanged": false,
+    "ProjectileAssetId": "",
+    "Perk": {
+      "Type": "CriticalStrike",
+      "ProbablityInPercent": 15.0,
+      "PerkValue": 50.0
+    },
+    "RestrictedBirdId": "bird_red",
+    "DirectAssetAndLoca": true,
+    "CorrespondingSetItemId": "",
+    "AssetLevelOffset": 0,
+    "AssetCycleCount": 9,
+    "HitEffectSuffix": "_Melee_Strike",
+    "SetItemSkill": "",
+    "DirectProjectileAssetAndLoca": false,
+    "Mainsource": "Crafting",
+    "ShowAsNew": false,
+    "HideInPreview": false,
+    "PvpSetItemSkill": ""
+  },
+  {
+    "NameId": "bird_offhand_aqua_start",
+    "ItemType": "OffHandEquipment",
+    "AssetBaseId": "OffHand_Shield_01",
+    "LocaBaseId": "bird_offhand_red_shield",
+    "SortPriority": 1,
+    "BaseStat": 88,
+    "StatPerLevel": 25,
+    "StatPerQuality": 0,
+    "StatPerQualityPercent": [
+      0,
+      10,
+      20,
+      30
+    ],
+    "AnimationIndex": 1,
+    "IsRanged": false,
+    "ProjectileAssetId": "",
+    "Perk": {
+      "Type": "Vigor",
+      "ProbablityInPercent": 100.0,
+      "PerkValue": 5.0
+    },
+    "RestrictedBirdId": "bird_red",
+    "DirectAssetAndLoca": true,
+    "CorrespondingSetItemId": "",
+    "AssetLevelOffset": 2,
+    "AssetCycleCount": 8,
+    "HitEffectSuffix": "",
+    "SetItemSkill": "",
+    "DirectProjectileAssetAndLoca": false,
+    "Mainsource": "Crafting",
+    "ShowAsNew": false,
+    "HideInPreview": false,
+    "PvpSetItemSkill": ""
+  },
+  {
     "NameId": "bird_offhand_red_shield_introwheel",
     "ItemType": "OffHandEquipment",
     "AssetBaseId": "OffHand_Shield_05",

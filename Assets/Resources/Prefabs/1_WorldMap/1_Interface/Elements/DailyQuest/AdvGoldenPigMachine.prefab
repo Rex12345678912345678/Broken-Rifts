@@ -26,6 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1019065885701429}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.67, y: 0.67, z: 1}
@@ -33,7 +34,6 @@ Transform:
   m_Children:
   - {fileID: 4478553019817941}
   m_Father: {fileID: 0}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!114 &114245838146334720
 MonoBehaviour:
@@ -688,6 +688,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -719,6 +728,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -750,6 +768,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -781,6 +808,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -812,6 +848,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -843,6 +888,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -874,6 +928,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -905,6 +968,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -936,6 +1008,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -967,6 +1048,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -998,6 +1088,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -1029,6 +1128,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -1060,6 +1168,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -1091,6 +1208,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -1125,6 +1251,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -1156,6 +1291,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -1187,6 +1331,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -1218,6 +1371,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -1249,6 +1411,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -1280,6 +1451,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -1311,6 +1491,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -1342,6 +1531,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -1373,6 +1571,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -1404,6 +1611,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -1435,6 +1651,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -1466,6 +1691,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -1497,6 +1731,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -1531,6 +1774,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -1562,6 +1814,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -1593,6 +1854,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -1624,6 +1894,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -1655,6 +1934,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -1686,6 +1974,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -1717,6 +2014,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -1748,6 +2054,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -1779,6 +2094,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -1810,6 +2134,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -1841,6 +2174,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -1872,6 +2214,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -1903,6 +2254,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -1934,6 +2294,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -1968,6 +2337,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -2002,6 +2380,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -2036,6 +2423,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -2070,6 +2466,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 1
@@ -2104,6 +2509,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -2138,6 +2552,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -2172,6 +2595,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -2203,6 +2635,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -2234,6 +2675,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -2265,6 +2715,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -2296,6 +2755,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -2327,6 +2795,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -2358,6 +2835,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -2389,6 +2875,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -2420,6 +2915,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -2451,6 +2955,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -2482,6 +2995,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -2513,6 +3035,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -2544,6 +3075,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -2578,6 +3118,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -2609,6 +3158,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -2640,6 +3198,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -2671,6 +3238,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -2702,6 +3278,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -2733,6 +3318,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -2764,6 +3358,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -2795,6 +3398,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -2826,6 +3438,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -2857,6 +3478,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -2888,6 +3518,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -2919,6 +3558,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -2950,6 +3598,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -2981,6 +3638,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -3015,6 +3681,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -3049,6 +3724,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -3083,6 +3767,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -3117,6 +3810,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -3151,6 +3853,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -3185,6 +3896,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -3219,6 +3939,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -3253,6 +3982,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -3287,6 +4025,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -3321,6 +4068,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -3355,6 +4111,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -3389,6 +4154,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -3423,6 +4197,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -3457,6 +4240,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -3488,6 +4280,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -3519,6 +4320,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -3550,6 +4360,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -3581,6 +4400,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -3612,6 +4440,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -3643,6 +4480,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -3674,6 +4520,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -3705,6 +4560,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -3736,6 +4600,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -3767,6 +4640,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -3798,6 +4680,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -3829,6 +4720,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -3863,6 +4763,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -3894,6 +4803,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -3925,6 +4843,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -3956,6 +4883,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -3987,6 +4923,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -4018,6 +4963,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -4049,6 +5003,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -4080,6 +5043,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -4111,6 +5083,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -4142,6 +5123,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -4173,6 +5163,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -4204,6 +5203,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -4235,6 +5243,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -4266,6 +5283,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -4300,6 +5326,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -4334,6 +5369,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -4368,6 +5412,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -4402,6 +5455,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -4436,6 +5498,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -4470,6 +5541,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -4504,6 +5584,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -4538,6 +5627,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -4572,6 +5670,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -4606,6 +5713,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -4640,6 +5756,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -4674,6 +5799,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -4708,6 +5842,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -4742,6 +5885,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -4776,6 +5928,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -4810,6 +5971,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -4841,6 +6011,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -4872,6 +6051,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -4903,6 +6091,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -4934,6 +6131,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -4965,6 +6171,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -4996,6 +6211,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -5027,6 +6251,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -5058,6 +6291,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -5089,6 +6331,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -5120,6 +6371,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -5151,6 +6411,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -5182,6 +6451,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -5216,6 +6494,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -5247,6 +6534,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -5278,6 +6574,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -5309,6 +6614,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -5340,6 +6654,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -5371,6 +6694,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -5402,6 +6734,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -5433,6 +6774,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -5464,6 +6814,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -5495,6 +6854,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -5526,6 +6894,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -5557,6 +6934,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -5588,6 +6974,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -5619,6 +7014,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -5653,6 +7057,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -5684,6 +7097,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -5715,6 +7137,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -5746,6 +7177,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -5777,6 +7217,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -5808,6 +7257,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -5839,6 +7297,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -5870,6 +7337,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -5901,6 +7377,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -5932,6 +7417,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -5963,6 +7457,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -5994,6 +7497,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -6025,6 +7537,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -6059,6 +7580,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -6090,6 +7620,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -6121,6 +7660,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -6152,6 +7700,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -6183,6 +7740,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -6214,6 +7780,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -6245,6 +7820,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -6276,6 +7860,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 17
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -6307,6 +7900,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -6338,6 +7940,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -6369,6 +7980,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -6400,6 +8020,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -6431,6 +8060,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -6462,6 +8100,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -6496,6 +8143,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -6530,6 +8186,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -6564,6 +8229,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -6595,6 +8269,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -6629,6 +8312,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -6663,6 +8355,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -6697,6 +8398,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -6731,6 +8441,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -6765,6 +8484,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -6799,6 +8527,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -6833,6 +8570,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -6867,6 +8613,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -6901,6 +8656,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -6935,6 +8699,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -6966,6 +8739,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -7000,6 +8782,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -7034,6 +8825,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -7068,6 +8868,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -7099,6 +8908,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -7133,6 +8951,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -7167,6 +8994,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -7201,6 +9037,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -7235,6 +9080,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -7269,6 +9123,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -7300,6 +9163,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: -1
@@ -7331,6 +9203,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -7362,6 +9243,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: -1
@@ -7396,6 +9286,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -7430,6 +9329,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -7461,6 +9369,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -7492,6 +9409,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -7523,6 +9449,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -7554,6 +9489,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -7585,6 +9529,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -7616,6 +9569,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -7647,6 +9609,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -7678,6 +9649,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -7709,6 +9689,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -7740,6 +9729,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -7771,6 +9769,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -7802,6 +9809,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -7836,6 +9852,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -7867,6 +9892,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -7898,6 +9932,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -7929,6 +9972,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -7960,6 +10012,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -7991,6 +10052,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -8022,6 +10092,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -8053,6 +10132,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 17
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -8084,6 +10172,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -8115,6 +10212,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -8146,6 +10252,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -8177,6 +10292,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -8208,6 +10332,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -8239,6 +10372,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -8273,6 +10415,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -8307,6 +10458,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -8341,6 +10501,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -8372,6 +10541,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -8406,6 +10584,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -8440,6 +10627,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -8474,6 +10670,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -8508,6 +10713,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -8542,6 +10756,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -8576,6 +10799,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -8610,6 +10842,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -8644,6 +10885,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -8678,6 +10928,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -8712,6 +10971,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -8743,6 +11011,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -8777,6 +11054,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -8811,6 +11097,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -8845,6 +11140,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -8876,6 +11180,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -8907,6 +11220,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -8941,6 +11263,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -8975,6 +11306,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -9006,6 +11346,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -9037,6 +11386,15 @@ MonoBehaviour:
       textureGUID: f7cee42040f5b7e4899636af3b12c2e1
       materialIndex: -1
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: f7cee42040f5b7e4899636af3b12c2e1
       originalMaterialIndex: -1
@@ -9071,6 +11429,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -9105,6 +11472,15 @@ MonoBehaviour:
       textureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 62dcf0045df3e5648a4fd27ff2ec63ea
       originalMaterialIndex: -1
@@ -9139,6 +11515,15 @@ MonoBehaviour:
       textureGUID: 8ba3cf83092978544b199b351c80df99
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 8ba3cf83092978544b199b351c80df99
       originalMaterialIndex: -1
@@ -9170,6 +11555,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: -1
@@ -9201,6 +11595,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -9232,6 +11635,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: -1
@@ -9266,6 +11678,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: -1
@@ -9300,6 +11721,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: -1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: -1
@@ -9334,6 +11764,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -9365,6 +11804,15 @@ MonoBehaviour:
       textureGUID: 388667c21efbea6439a4a722d52d6213
       materialIndex: 0
       depth: 15
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 388667c21efbea6439a4a722d52d6213
       originalMaterialIndex: 0
@@ -9396,6 +11844,15 @@ MonoBehaviour:
       textureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       materialIndex: 0
       depth: 20
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 3a96161dd1dd47446b7a8d32a78c5a50
       originalMaterialIndex: 0
@@ -9427,6 +11884,15 @@ MonoBehaviour:
       textureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       materialIndex: 0
       depth: 16
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 4037287808efdbe4ba9c4f6ad6316d6d
       originalMaterialIndex: 0
@@ -9458,6 +11924,15 @@ MonoBehaviour:
       textureGUID: 5601991ce77d40746ad588eea43be011
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5601991ce77d40746ad588eea43be011
       originalMaterialIndex: 0
@@ -9489,6 +11964,15 @@ MonoBehaviour:
       textureGUID: 5473821c30243a646b6148d8d4f824a0
       materialIndex: 0
       depth: 14
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: b7d542f6fc8492e41a69d497a12ea95a, type: 2}
       originalTextureGUID: 5473821c30243a646b6148d8d4f824a0
       originalMaterialIndex: 0
@@ -9520,6 +12004,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -9551,6 +12044,15 @@ MonoBehaviour:
       textureGUID: 21ff527739ac29b459cb5548ba0bbf43
       materialIndex: 1
       depth: 23
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 21ff527739ac29b459cb5548ba0bbf43
       originalMaterialIndex: 1
@@ -9582,6 +12084,15 @@ MonoBehaviour:
       textureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       materialIndex: 1
       depth: 24
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 9ec283f6e6ba58e4cacb76e826950d7f
       originalMaterialIndex: 1
@@ -9613,6 +12124,15 @@ MonoBehaviour:
       textureGUID: b6d2e20453ff9dd4189aa685d605ccde
       materialIndex: 1
       depth: 22
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: b6d2e20453ff9dd4189aa685d605ccde
       originalMaterialIndex: 1
@@ -9644,6 +12164,15 @@ MonoBehaviour:
       textureGUID: 4714fea4df04fa841a03bd371e35cce3
       materialIndex: 1
       depth: 18
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 4714fea4df04fa841a03bd371e35cce3
       originalMaterialIndex: 1
@@ -9675,6 +12204,15 @@ MonoBehaviour:
       textureGUID: 1551bbd83e7bf514d876726b525c14fc
       materialIndex: 1
       depth: 21
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 11400000, guid: 56b613fc71e14fe40a9b9b488dcafc5f, type: 2}
       originalTextureGUID: 1551bbd83e7bf514d876726b525c14fc
       originalMaterialIndex: 1
@@ -9706,6 +12244,15 @@ MonoBehaviour:
       textureGUID: 
       materialIndex: 0
       depth: 0
+      collider:
+        type: 0
+        center: {x: 0, y: 0, z: 0}
+        boxSize: {x: 0, y: 0, z: 0}
+        sphereRadius: 0
+        useAnimationLayer: 1
+        layer: 0
+        isTrigger: 1
+        tag: 
       originalAtlas: {fileID: 0}
       originalTextureGUID: 
       originalMaterialIndex: 0
@@ -9731,45 +12278,185 @@ MonoBehaviour:
     - boneDataIndex: 0
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 1
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 2
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 3
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 4
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 5
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 6
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 7
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 8
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 9
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 10
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 11
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 12
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 13
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
   - animationName: Clicked
     fps: 24
     wrapMode: 1
@@ -9781,45 +12468,185 @@ MonoBehaviour:
     - boneDataIndex: 0
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 1
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 2
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 3
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 4
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 5
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 6
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 7
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 8
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 9
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 10
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 11
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 12
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 13
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
   - animationName: GachaRoll
     fps: 24
     wrapMode: 1
@@ -9831,45 +12658,185 @@ MonoBehaviour:
     - boneDataIndex: 0
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 1
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 2
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 3
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 4
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 5
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 6
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 7
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 8
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 9
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 10
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 11
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 12
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 13
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
   - animationName: RainbowRiot
     fps: 24
     wrapMode: 2
@@ -9881,45 +12848,185 @@ MonoBehaviour:
     - boneDataIndex: 0
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 1
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 2
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 3
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 4
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 5
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 6
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 7
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 8
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 9
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 10
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 11
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 12
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 13
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
   - animationName: Base
     fps: 24
     wrapMode: 1
@@ -9931,45 +13038,185 @@ MonoBehaviour:
     - boneDataIndex: 0
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 1
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 2
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 3
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 4
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 5
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 6
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 7
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 8
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 9
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 10
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 11
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 12
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 13
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
   - animationName: GachaRoll_Multiple
     fps: 24
     wrapMode: 1
@@ -9981,45 +13228,185 @@ MonoBehaviour:
     - boneDataIndex: 0
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 1
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 2
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 3
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 4
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 5
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 6
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 7
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 8
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 9
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 10
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 11
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 12
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 13
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
   - animationName: GachaRoll_Multiple_Alt
     fps: 24
     wrapMode: 1
@@ -10031,45 +13418,185 @@ MonoBehaviour:
     - boneDataIndex: 0
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 1
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 2
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 3
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 4
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 5
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 6
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 7
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 8
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 9
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 10
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 11
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 12
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
     - boneDataIndex: 13
       mixTransform: 0
       animatesColor: 0
+      colorRCurveSerialized:
+        keyframes: []
+      colorGCurveSerialized:
+        keyframes: []
+      colorBCurveSerialized:
+        keyframes: []
+      colorACurveSerialized:
+        keyframes: []
+      colorBlendWeightCurveSerialized:
+        keyframes: []
   mAnimationStates: []
   mLocalTransform: {fileID: 4113110602293357}
   mMeshColor: {r: 1, g: 1, b: 1, a: 1}
@@ -10083,7 +13610,7 @@ Animation:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1019065885701429}
   m_Enabled: 1
-  serializedVersion: 3
+  serializedVersion: 4
   m_Animation: {fileID: 7400000, guid: 6a556ad7180c8fb48ba2e11d886b381a, type: 2}
   m_Animations:
   - {fileID: 7400000, guid: 6a556ad7180c8fb48ba2e11d886b381a, type: 2}
@@ -10096,6 +13623,7 @@ Animation:
   m_WrapMode: 0
   m_PlayAutomatically: 1
   m_AnimatePhysics: 0
+  m_UpdateMode: 0
   m_CullingType: 0
 --- !u!137 &137994793999152993
 SkinnedMeshRenderer:
@@ -10114,6 +13642,11 @@ SkinnedMeshRenderer:
   m_ReflectionProbeUsage: 1
   m_RayTracingMode: 3
   m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -10138,6 +13671,7 @@ SkinnedMeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
@@ -10180,7 +13714,7 @@ SkinnedMeshRenderer:
   m_AABB:
     m_Center: {x: 0, y: 0, z: 0}
     m_Extent: {x: 0, y: 0, z: 0}
-  m_DirtyAABB: 1
+  m_DirtyAABB: 0
 --- !u!1 &1023379491659653
 GameObject:
   m_ObjectHideFlags: 0
@@ -10204,6 +13738,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1023379491659653}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10216,7 +13751,6 @@ Transform:
   - {fileID: 4620882266192794}
   - {fileID: 4379157900118565}
   m_Father: {fileID: 4478553019817941}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1069143536725260
 GameObject:
@@ -10241,6 +13775,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1069143536725260}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10248,7 +13783,6 @@ Transform:
   m_Children:
   - {fileID: 4137497817702083}
   m_Father: {fileID: 4478553019817941}
-  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1072240790478648
 GameObject:
@@ -10273,13 +13807,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1072240790478648}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4154729160189921}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1123109863278169
 GameObject:
@@ -10304,13 +13838,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1123109863278169}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4620882266192794}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1125936858422914
 GameObject:
@@ -10335,6 +13869,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1125936858422914}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 66, y: 53, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10342,7 +13877,6 @@ Transform:
   m_Children:
   - {fileID: 4683678323767441}
   m_Father: {fileID: 4154729160189921}
-  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1141033755421460
 GameObject:
@@ -10367,6 +13901,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1141033755421460}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10374,7 +13909,6 @@ Transform:
   m_Children:
   - {fileID: 4184609042996781}
   m_Father: {fileID: 4154729160189921}
-  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1201877209416212
 GameObject:
@@ -10399,13 +13933,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1201877209416212}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4814779719824814}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1208708310520139
 GameObject:
@@ -10430,13 +13964,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1208708310520139}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4478553019817941}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1293577155832927
 GameObject:
@@ -10461,13 +13995,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1293577155832927}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4379157900118565}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1340191511186210
 GameObject:
@@ -10492,6 +14026,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1340191511186210}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10499,7 +14034,6 @@ Transform:
   m_Children:
   - {fileID: 4439595540762133}
   m_Father: {fileID: 4429007754263085}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1351425896520084
 GameObject:
@@ -10524,6 +14058,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1351425896520084}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -23, y: 54, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10531,7 +14066,6 @@ Transform:
   m_Children:
   - {fileID: 4012957185498380}
   m_Father: {fileID: 4154729160189921}
-  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1365316408705831
 GameObject:
@@ -10556,13 +14090,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1365316408705831}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4922615609565474}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1382040939353312
 GameObject:
@@ -10587,13 +14121,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1382040939353312}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4458426860124838}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1403114080641827
 GameObject:
@@ -10618,6 +14152,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1403114080641827}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10625,7 +14160,6 @@ Transform:
   m_Children:
   - {fileID: 4825286406516347}
   m_Father: {fileID: 4429007754263085}
-  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1464176172317311
 GameObject:
@@ -10650,6 +14184,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1464176172317311}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10662,7 +14197,6 @@ Transform:
   - {fileID: 4922615609565474}
   - {fileID: 4613478162510375}
   m_Father: {fileID: 4113110602293357}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1537826792548613
 GameObject:
@@ -10687,6 +14221,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1537826792548613}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10694,7 +14229,6 @@ Transform:
   m_Children:
   - {fileID: 4279240350605389}
   m_Father: {fileID: 4478553019817941}
-  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1566936089499414
 GameObject:
@@ -10719,6 +14253,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1566936089499414}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10726,7 +14261,6 @@ Transform:
   m_Children:
   - {fileID: 4631100766444717}
   m_Father: {fileID: 4154729160189921}
-  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1604522108576678
 GameObject:
@@ -10751,13 +14285,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1604522108576678}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4429007754263085}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1607430957367540
 GameObject:
@@ -10782,13 +14316,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1607430957367540}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4402798028839791}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1615433871344427
 GameObject:
@@ -10813,13 +14347,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1615433871344427}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4613478162510375}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1672424039283654
 GameObject:
@@ -10844,13 +14378,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1672424039283654}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4147362722801486}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1743724962210937
 GameObject:
@@ -10875,13 +14409,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1743724962210937}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4114554601818434}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1763274647855549
 GameObject:
@@ -10906,6 +14440,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1763274647855549}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -10913,7 +14448,6 @@ Transform:
   m_Children:
   - {fileID: 4416783327455510}
   m_Father: {fileID: 4429007754263085}
-  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1808766951791456
 GameObject:
@@ -10938,13 +14472,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1808766951791456}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4289521970193259}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1881333131207996
 GameObject:
@@ -10969,13 +14503,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1881333131207996}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 4374505691100474}
-  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1933999092434542
 GameObject:
@@ -11000,6 +14534,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1933999092434542}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -11007,7 +14542,6 @@ Transform:
   m_Children:
   - {fileID: 4861917586748044}
   m_Father: {fileID: 4154729160189921}
-  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1956017583454139
 GameObject:
@@ -11032,6 +14566,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1956017583454139}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 10, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -11039,7 +14574,6 @@ Transform:
   m_Children:
   - {fileID: 4162144382564629}
   m_Father: {fileID: 4478553019817941}
-  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
 --- !u!1 &1964400605226788
 GameObject:
@@ -11064,6 +14598,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1964400605226788}
+  serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 60, z: 0}
   m_LocalScale: {x: 0.001, y: 0.001, z: 1}
@@ -11074,5 +14609,4 @@ Transform:
   - {fileID: 4402798028839791}
   - {fileID: 4458426860124838}
   m_Father: {fileID: 4478553019817941}
-  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}

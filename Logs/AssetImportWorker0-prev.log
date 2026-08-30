@@ -1,9 +1,9 @@
 [Licensing::Module] Trying to connect to existing licensing client channel...
 Built from '6000.2/respin/6000.2.7f1-2eb0c79396db' branch; Version is '6000.2.7f2 (2b518236b676) revision 2838914'; Using compiler version '194234433'; Build Type 'Release'
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-royal" at "2026-08-25T13:53:21.6280288Z"
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-royal" at "2026-08-29T18:30:44.1392424Z"
 OS: 'Windows 11  (10.0.26200) 64bit Core' Language: 'en' Physical Memory: 15765 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
-Date: 2026-08-25T13:53:21Z
+Date: 2026-08-29T18:30:44Z
 
 COMMAND LINE ARGUMENTS:
 C:\Program Files\Unity\Hub\Editor\6000.2.7f2-x86_64\Editor\Unity.exe
@@ -13,11 +13,11 @@ C:\Program Files\Unity\Hub\Editor\6000.2.7f2-x86_64\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/royal/Downloads/GitHub/Broken-Rifts
+C:/Users/royal/Downloads/3.0.1Decomp(3) - Copy
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-62014
+51809
 -licensingIpc
 LicenseClient-royal
 -job-worker-count
@@ -28,8 +28,8 @@ LicenseClient-royal
 1
 -name
 AssetImport
-Successfully changed project path to: C:/Users/royal/Downloads/GitHub/Broken-Rifts
-C:/Users/royal/Downloads/GitHub/Broken-Rifts
+Successfully changed project path to: C:/Users/royal/Downloads/3.0.1Decomp(3) - Copy
+C:/Users/royal/Downloads/3.0.1Decomp(3) - Copy
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-allocator-temp-initial-block-size-main=262144"
     "memorysetup-allocator-temp-initial-block-size-worker=262144"
@@ -65,27 +65,16 @@ C:/Users/royal/Downloads/GitHub/Broken-Rifts
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [33368]  Target information:
+Player connection [17764]  Target information:
 
-Player connection [33368]  * "[IP] 192.168.178.70 [Port] 0 [Flags] 2 [Guid] 2321822259 [EditorId] 2321822259 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UKKR08J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [17764]  * "[IP] 192.168.178.70 [Port] 0 [Flags] 2 [Guid] 1586163813 [EditorId] 1586163813 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-UKKR08J) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [33368] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [33368] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [17764] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [17764] Host joined alternative multi-casting on [225.0.0.222:34997]...
 JobSystem: Creating JobQueue using job-worker-count value 5
 Input System module state changed to: Initialized.
 [Physics::Module] Initialized fallback backend.
 [Physics::Module] Id: 0xdecafbad
-[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 13308, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
-[Licensing::Module] LicensingClient has failed validation; ignoring
-[Licensing::Client] Handshaking with LicensingClient:
-  Version:                 1.17.4+4293ba1
-  Session Id:              50006f1603e64cb88d02a839fba46db9
-  Correlation Id:          51d03876c315cb9674f4706d85ad8abf
-  External correlation Id: 7466538708627577968
-  Machine Id:              nr4BdEJEz5NRZbMVu/w9+2Z7r+g=
-[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-royal" (connect: 0.00s, validation: 0.00s, handshake: 0.06s)
-[Licensing::IpcConnector] Successfully connected to: "LicenseClient-royal-notifications" at "2026-08-25T13:53:21.689211Z"
-[Licensing::Module] Licensing Background thread has ended after 0.06s
 Library Redirect Path: Library/
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -95,11 +84,11 @@ Library Redirect Path: Library/
 [Physics::Module] Threading Mode: Multi-Threaded
 ETC Legacy compression has been deprecated and will be removed in a future release. You can review compressors in "Project Settings > Editor > Texture Compressors".
 The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
-Refreshing native plugins compatible for Editor in 64.45 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 62.99 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 6000.2.7f2 (2b518236b676)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.2.7f2-x86_64/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/royal/Downloads/GitHub/Broken-Rifts/Assets
+[Subsystems] Discovering subsystems at path C:/Users/royal/Downloads/3.0.1Decomp(3) - Copy/Assets
 GfxDevice: creating device client; kGfxThreadingModeNonThreaded
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
@@ -111,242 +100,21 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.2.7f2-x86_64/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.2.7f2-x86_64/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.2.7f2-x86_64/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56876
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56508
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.7f2-x86_64/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.7f2-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-[Licensing::Client] Successfully resolved entitlement details
-[Licensing::Module] License group:
-  Id: 9072287710966-UnityPersXXXX
-  Product: Unity Personal
-  Type: Assigned
-  Expiration: Unlimited
-Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.2.7f2-x86_64/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.006782 seconds.
-- Loaded All Assemblies, in  0.685 seconds
-Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 2032 ms
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  2.522 seconds
-Domain Reload Profiling: 3202ms
-	BeginReloadAssembly (349ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (0ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (40ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (61ms)
-	LoadAllAssembliesAndSetupDomain (218ms)
-		LoadAssemblies (351ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (209ms)
-			TypeCache.Refresh (206ms)
-				TypeCache.ScanAssembly (192ms)
-			BuildScriptInfoCaches (0ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (2522ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (2473ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (2215ms)
-			SetLoadedEditorAssemblies (3ms)
-			BeforeProcessingInitializeOnLoad (82ms)
-			ProcessInitializeOnLoadAttributes (116ms)
-			ProcessInitializeOnLoadMethodAttributes (56ms)
-			AfterProcessingInitializeOnLoad (0ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (0ms)
-========================================================================
-Worker process is ready to serve import requests
-Import Worker Mode flag is 0x00
-Begin MonoManager ReloadAssembly
-[Licensing::Client] Successfully resolved entitlement details
-Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  1.163 seconds
-The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
-Refreshing native plugins compatible for Editor in 12.18 ms, found 4 plugins.
-The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
-Native extension for Android target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Forcing NO_GPGS to be defined for iOS builds.
-UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-GooglePlayGames.Editor.ForceNoGpgsForIOS:setNoGPGS () (at Assets/GooglePlayGames/Editor/ForceNoGpgsForIOS.cs:49)
-GooglePlayGames.Editor.ForceNoGpgsForIOS:.cctor () (at Assets/GooglePlayGames/Editor/ForceNoGpgsForIOS.cs:35)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-(Filename: Assets/GooglePlayGames/Editor/ForceNoGpgsForIOS.cs Line: 49)
-
-Package Manager log level set to [2]
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.665 seconds
-Domain Reload Profiling: 1817ms
-	BeginReloadAssembly (205ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (6ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (33ms)
-	RebuildCommonClasses (34ms)
-	RebuildNativeTypeToScriptingClass (10ms)
-	initialDomainReloadingComplete (35ms)
-	LoadAllAssembliesAndSetupDomain (867ms)
-		LoadAssemblies (809ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (179ms)
-			TypeCache.Refresh (131ms)
-				TypeCache.ScanAssembly (116ms)
-			BuildScriptInfoCaches (36ms)
-			ResolveRequiredComponents (9ms)
-	FinalizeReload (665ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (545ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (21ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (116ms)
-			ProcessInitializeOnLoadAttributes (249ms)
-			ProcessInitializeOnLoadMethodAttributes (145ms)
-			AfterProcessingInitializeOnLoad (10ms)
-			EditorAssembliesLoaded (0ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
-ETC Legacy compression has been deprecated and will be removed in a future release. You can review compressors in "Project Settings > Editor > Texture Compressors".
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
-The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
-Refreshing native plugins compatible for Editor in 12.63 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 5132 unused Assets / (1.6 MB). Loaded Objects now: 5717.
-Memory consumption went from 112.7 MB to 111.1 MB.
-Total: 12.020000 ms (FindLiveObjects: 0.515700 ms CreateObjectMapping: 0.303700 ms MarkObjects: 9.725400 ms  DeleteObjects: 1.473900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 611901.876396 seconds.
-  path: Assets/Zone_02_09.mat
-  artifactKey: Guid(b7d4bbc60ee279a4792d641ab86b4ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Zone_02_09.mat using Guid(b7d4bbc60ee279a4792d641ab86b4ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25764060526e3b5c38f3e9cb33e6855c') in 0.1230511 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Edge.fbx
-  artifactKey: Guid(63c9512b6a77fd6478e52d708f312f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Edge.fbx using Guid(63c9512b6a77fd6478e52d708f312f92) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '834d1d5d46454935351925e6a674e13f') in 0.0556812 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Sector_8.fbx
-  artifactKey: Guid(0081954b165f9f04ea74f3f41402bce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sector_8.fbx using Guid(0081954b165f9f04ea74f3f41402bce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3681291e9319c153b6cbe2445fba0577') in 0.0177295 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Sector_9.fbx
-  artifactKey: Guid(145309dd455da614d9264ca294710491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Sector_9.fbx using Guid(145309dd455da614d9264ca294710491) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '255b7b5fb55c58bbc529db8ee4153927') in 0.017804 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/7_ForegroundProps.fbx
-  artifactKey: Guid(48a8ccf7f18fd1e4793e764dad074412) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/7_ForegroundProps.fbx using Guid(48a8ccf7f18fd1e4793e764dad074412) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '262c17096dcc9e013d5ca5160365c77e') in 0.065592 seconds
-Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 31
-
-========================================================================
-Received Prepare
-ETC Legacy compression has been deprecated and will be removed in a future release. You can review compressors in "Project Settings > Editor > Texture Compressors".
-Begin MonoManager ReloadAssembly
-Symbol file LoadedFromMemory is not a mono symbol file
-- Loaded All Assemblies, in  0.710 seconds
-The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
-Refreshing native plugins compatible for Editor in 12.68 ms, found 4 plugins.
-The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
-Native extension for Android target not found
-Native extension for WindowsStandalone target not found
-Native extension for WebGL target not found
-Forcing NO_GPGS to be defined for iOS builds.
-UnityEngine.Debug:ExtractStackTraceNoAlloc (byte*,int,string)
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:Log (object)
-GooglePlayGames.Editor.ForceNoGpgsForIOS:setNoGPGS () (at Assets/GooglePlayGames/Editor/ForceNoGpgsForIOS.cs:49)
-GooglePlayGames.Editor.ForceNoGpgsForIOS:.cctor () (at Assets/GooglePlayGames/Editor/ForceNoGpgsForIOS.cs:35)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-(Filename: Assets/GooglePlayGames/Editor/ForceNoGpgsForIOS.cs Line: 49)
-
-[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
-[Package Manager] Unable to send message (not connected to server process).
-[Package Manager] Cannot connect to Unity Package Manager local server
-Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.753 seconds
-Domain Reload Profiling: 1458ms
-	BeginReloadAssembly (214ms)
-		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (6ms)
-		BackupInstance (0ms)
-		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (47ms)
-	RebuildCommonClasses (33ms)
-	RebuildNativeTypeToScriptingClass (11ms)
-	initialDomainReloadingComplete (35ms)
-	LoadAllAssembliesAndSetupDomain (411ms)
-		LoadAssemblies (410ms)
-		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (117ms)
-			TypeCache.Refresh (7ms)
-				TypeCache.ScanAssembly (0ms)
-			BuildScriptInfoCaches (100ms)
-			ResolveRequiredComponents (8ms)
-	FinalizeReload (754ms)
-		ReleaseScriptCaches (0ms)
-		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (609ms)
-			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (22ms)
-			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (120ms)
-			ProcessInitializeOnLoadAttributes (275ms)
-			ProcessInitializeOnLoadMethodAttributes (173ms)
-			AfterProcessingInitializeOnLoad (14ms)
-			EditorAssembliesLoaded (1ms)
-		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (10ms)
-The Editor does not support 32-bit plugins. Assets/NGUI/Editor/x86/FreeType.dylib will not be available.
-Refreshing native plugins compatible for Editor in 15.43 ms, found 4 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 5130 unused Assets / (1.7 MB). Loaded Objects now: 5763.
-Memory consumption went from 113.3 MB to 111.5 MB.
-Total: 11.514400 ms (FindLiveObjects: 0.595300 ms CreateObjectMapping: 0.462000 ms MarkObjects: 8.921300 ms  DeleteObjects: 1.534800 ms)
-
-Prepare: number of updated asset objects reloaded= 0
+[Licensing::Module] Licensing is not yet initialized.
+[Licensing::Client] Code 10 while verifying Licensing Client signature (process Id: 15312, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.17.4+4293ba1
+  Session Id:              de7e9be9ec524be296352cfdbb25bce7
+  Correlation Id:          d2720dccc8e7da0191598f567e7d4e30
+  External correlation Id: 8176204674110917587
+  Machine Id:              nr4BdEJEz5NRZbMVu/w9+2Z7r+g=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-royal" (connect: 0.00s, validation: 0.01s, handshake: 1.53s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-royal-notifications" at "2026-08-29T18:30:45.6807118Z"
+[Licensing::Module] Licensing Background thread has ended after 1.54s
+[Licensing::Module] Licensing is initialized (took 0.09s).

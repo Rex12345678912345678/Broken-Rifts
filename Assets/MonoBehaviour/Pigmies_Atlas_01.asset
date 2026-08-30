@@ -3,248 +3,249 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 529336600, guid: 5756d81aa87e464fb75773e9b4238632, type: 3}
   m_Name: Pigmies_Atlas_01
-  m_EditorClassIdentifier:
-  material: {fileID: 2100000, guid: 89f0a26886a667b4da569f6fee0e3450, type: 2}
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 84728e1f6ed0b6b4a991df742e48e256, type: 2}
   uvs:
   - serializedVersion: 2
-    x: 0.9042969
-    y: 0.064453125
+    x: 0.23242188
+    y: 0.49414062
     width: 0.0546875
     height: 0.046875
   - serializedVersion: 2
     x: 0.98046875
-    y: 0
+    y: 0.091796875
     width: 0.01953125
     height: 0.01953125
   - serializedVersion: 2
-    x: 0.40429688
-    y: 0.93359375
+    x: 0.1796875
+    y: 0.96484375
     width: 0.02734375
     height: 0.0234375
   - serializedVersion: 2
-    x: 0.609375
-    y: 0.21875
+    x: 0.75
+    y: 0.27539062
     width: 0.19140625
     height: 0.046875
   - serializedVersion: 2
-    x: 0.38867188
-    y: 0.9589844
+    x: 0.44921875
+    y: 0.6230469
     width: 0.02734375
     height: 0.0234375
   - serializedVersion: 2
-    x: 0.4375
-    y: 0.7949219
+    x: 0.8769531
+    y: 0.1640625
     width: 0.1171875
     height: 0.0546875
   - serializedVersion: 2
-    x: 0.88671875
-    y: 0.21875
+    x: 0.23242188
+    y: 0.6972656
     width: 0.015625
     height: 0.015625
   - serializedVersion: 2
-    x: 0.4375
-    y: 0.72265625
+    x: 0.8769531
+    y: 0.091796875
     width: 0.1015625
     height: 0.0703125
   - serializedVersion: 2
-    x: 0.9453125
-    y: 0.32421875
+    x: 0.9433594
+    y: 0.27539062
     width: 0.046875
     height: 0.04296875
   - serializedVersion: 2
-    x: 0.98046875
-    y: 0.021484375
+    x: 0.62890625
+    y: 0.26171875
     width: 0.0078125
     height: 0.0078125
   - serializedVersion: 2
-    x: 0.3515625
-    y: 0.9589844
+    x: 0.9433594
+    y: 0.47070312
     width: 0.03515625
     height: 0.0234375
   - serializedVersion: 2
-    x: 0.9042969
-    y: 0.16210938
+    x: 0.23242188
+    y: 0.54296875
     width: 0.046875
     height: 0.0546875
   - serializedVersion: 2
-    x: 0.4375
-    y: 0.6582031
+    x: 0.6972656
+    y: 0.6699219
     width: 0.125
     height: 0.0625
   - serializedVersion: 2
-    x: 0.3515625
-    y: 0.8964844
+    x: 0.9472656
+    y: 0.40820312
     width: 0.03515625
     height: 0.03515625
   - serializedVersion: 2
-    x: 0.8671875
-    y: 0.33398438
+    x: 0.91015625
+    y: 0.375
     width: 0.04296875
     height: 0.03125
   - serializedVersion: 2
-    x: 0.111328125
-    y: 0.9472656
+    x: 0.23242188
+    y: 0.6484375
     width: 0.05078125
     height: 0.046875
   - serializedVersion: 2
-    x: 0.1640625
-    y: 0.9472656
+    x: 0.13476562
+    y: 0.9160156
     width: 0.05078125
     height: 0.046875
   - serializedVersion: 2
-    x: 0.9609375
-    y: 0.064453125
+    x: 0.9433594
+    y: 0.3203125
     width: 0.0390625
     height: 0.0390625
   - serializedVersion: 2
-    x: 0.23242188
+    x: 0.29492188
     y: 0.6230469
     width: 0.15234375
     height: 0.16015625
   - serializedVersion: 2
-    x: 0.9453125
-    y: 0.27539062
+    x: 0.20898438
+    y: 0.9296875
     width: 0.046875
     height: 0.046875
   - serializedVersion: 2
-    x: 0.83203125
-    y: 0.375
+    x: 0
+    y: 0.9160156
     width: 0.1328125
     height: 0.07421875
   - serializedVersion: 2
-    x: 0.95703125
-    y: 0.21875
+    x: 0.2578125
+    y: 0.9296875
     width: 0.03515625
     height: 0.0390625
   - serializedVersion: 2
-    x: 0.38671875
-    y: 0.66796875
+    x: 0.26171875
+    y: 0.83203125
     width: 0.03125
     height: 0.04296875
   - serializedVersion: 2
-    x: 0.8222656
-    y: 0.33398438
+    x: 0.13476562
+    y: 0.96484375
     width: 0.04296875
     height: 0.03125
   - serializedVersion: 2
-    x: 0.9609375
-    y: 0.11328125
+    x: 0.2578125
+    y: 0.8808594
     width: 0.03515625
     height: 0.0390625
   - serializedVersion: 2
-    x: 0.4375
-    y: 0.8515625
+    x: 0.5
+    y: 0.94140625
     width: 0.109375
     height: 0.05859375
   - serializedVersion: 2
-    x: 0
-    y: 0.9472656
+    x: 0.8769531
+    y: 0.22070312
     width: 0.109375
     height: 0.05078125
   - serializedVersion: 2
-    x: 0.8027344
-    y: 0.21875
+    x: 0.20898438
+    y: 0.7832031
     width: 0.08203125
     height: 0.046875
   - serializedVersion: 2
-    x: 0.3515625
-    y: 0.93359375
+    x: 0.9433594
+    y: 0.4453125
     width: 0.05078125
     height: 0.0234375
   - serializedVersion: 2
-    x: 0.4375
-    y: 0.9121094
+    x: 0.89453125
+    y: 0.5
     width: 0.10546875
     height: 0.0546875
   - serializedVersion: 2
-    x: 0.9042969
-    y: 0.21875
+    x: 0.20898438
+    y: 0.83203125
     width: 0.05078125
     height: 0.046875
   - serializedVersion: 2
-    x: 0.38671875
-    y: 0.75
+    x: 0.9550781
+    y: 0.375
     width: 0.0390625
     height: 0.02734375
   - serializedVersion: 2
-    x: 0.9042969
-    y: 0
+    x: 0.20898438
+    y: 0.71875
     width: 0.07421875
     height: 0.0625
   - serializedVersion: 2
-    x: 0.9042969
-    y: 0.11328125
+    x: 0.23242188
+    y: 0.5996094
     width: 0.0546875
     height: 0.046875
   - serializedVersion: 2
-    x: 0.38867188
-    y: 0.8964844
+    x: 0.2578125
+    y: 0.9707031
     width: 0.03515625
     height: 0.02734375
   - serializedVersion: 2
-    x: 0.38671875
-    y: 0.6230469
+    x: 0.8847656
+    y: 0.32421875
     width: 0.046875
     height: 0.04296875
   - serializedVersion: 2
-    x: 0.9121094
-    y: 0.33398438
+    x: 0.91015625
+    y: 0.4453125
     width: 0.03125
     height: 0.0390625
   - serializedVersion: 2
-    x: 0.88671875
-    y: 0.25390625
+    x: 0.98046875
+    y: 0.13085938
     width: 0.015625
     height: 0.015625
   - serializedVersion: 2
-    x: 0.38671875
-    y: 0.7128906
+    x: 0.91015625
+    y: 0.40820312
     width: 0.03515625
     height: 0.03515625
   - serializedVersion: 2
-    x: 0.6875
-    y: 0.27539062
+    x: 0.6972656
+    y: 0.6113281
     width: 0.25585938
     height: 0.056640625
   - serializedVersion: 2
-    x: 0.98046875
-    y: 0.03125
+    x: 0.6191406
+    y: 0.26171875
     width: 0.0078125
     height: 0.0078125
   - serializedVersion: 2
     x: 0
-    y: 0.5
+    y: 0.71875
     width: 0.20703125
     height: 0.1953125
   - serializedVersion: 2
-    x: 0.4375
-    y: 0.59765625
+    x: 0.29492188
+    y: 0.8964844
     width: 0.15234375
     height: 0.05859375
   - serializedVersion: 2
-    x: 0.88671875
-    y: 0.23632812
+    x: 0.98046875
+    y: 0.11328125
     width: 0.015625
     height: 0.015625
   - serializedVersion: 2
-    x: 0.9902344
-    y: 0.021484375
+    x: 0.609375
+    y: 0.26171875
     width: 0.0078125
     height: 0.0078125
   - serializedVersion: 2
-    x: 0.609375
-    y: 0
+    x: 0
+    y: 0.27539062
     width: 0.29296875
     height: 0.21679688
   - serializedVersion: 2
-    x: 0.50390625
+    x: 0.56640625
     y: 0.27539062
     width: 0.18164062
     height: 0.09765625
@@ -254,23 +255,23 @@ MonoBehaviour:
     width: 0.2734375
     height: 0.27148438
   - serializedVersion: 2
-    x: 0.23242188
+    x: 0.29492188
     y: 0.27539062
     width: 0.26953125
     height: 0.09765625
   - serializedVersion: 2
-    x: 0.6347656
-    y: 0.48632812
+    x: 0.5
+    y: 0.72265625
     width: 0.18359375
     height: 0.109375
   - serializedVersion: 2
-    x: 0.953125
-    y: 0.16210938
+    x: 0.20898438
+    y: 0.8808594
     width: 0.046875
     height: 0.046875
   - serializedVersion: 2
-    x: 0.23242188
-    y: 0.8964844
+    x: 0.8769531
+    y: 0
     width: 0.1171875
     height: 0.08984375
   - serializedVersion: 2
@@ -280,74 +281,79 @@ MonoBehaviour:
     height: 0.2734375
   - serializedVersion: 2
     x: 0
-    y: 0.27539062
+    y: 0.49414062
     width: 0.23046875
     height: 0.22265625
   - serializedVersion: 2
-    x: 0.8203125
-    y: 0.48632812
+    x: 0.5
+    y: 0.8339844
     width: 0.171875
     height: 0.10546875
   - serializedVersion: 2
-    x: 0.6875
-    y: 0.33398438
+    x: 0.6972656
+    y: 0.734375
     width: 0.1328125
     height: 0.03515625
   - serializedVersion: 2
-    x: 0.8613281
-    y: 0.59765625
+    x: 0.82421875
+    y: 0.6699219
     width: 0.1328125
     height: 0.03515625
   - serializedVersion: 2
-    x: 0.7265625
-    y: 0.59765625
+    x: 0.29492188
+    y: 0.95703125
     width: 0.1328125
     height: 0.03515625
   - serializedVersion: 2
-    x: 0.23242188
+    x: 0.5
+    y: 0.6113281
+    width: 0.1953125
+    height: 0.109375
+  - serializedVersion: 2
+    x: 0.29492188
     y: 0.78515625
     width: 0.1953125
     height: 0.109375
   - serializedVersion: 2
-    x: 0.4375
-    y: 0.48632812
+    x: 0.6972656
+    y: 0.5
     width: 0.1953125
     height: 0.109375
   - serializedVersion: 2
-    x: 0.6347656
-    y: 0.375
-    width: 0.1953125
-    height: 0.109375
-  - serializedVersion: 2
-    x: 0.5917969
-    y: 0.59765625
+    x: 0.75
+    y: 0.32421875
     width: 0.1328125
     height: 0.03515625
   - serializedVersion: 2
-    x: 0.4375
-    y: 0.375
+    x: 0.5
+    y: 0.5
     width: 0.1953125
     height: 0.109375
   - serializedVersion: 2
-    x: 0.23242188
+    x: 0.29492188
     y: 0.5
     width: 0.203125
     height: 0.12109375
   - serializedVersion: 2
-    x: 0
-    y: 0.8222656
-    width: 0.203125
-    height: 0.123046875
-  - serializedVersion: 2
-    x: 0
-    y: 0.6972656
-    width: 0.203125
-    height: 0.123046875
-  - serializedVersion: 2
-    x: 0.23242188
+    x: 0.7050781
     y: 0.375
     width: 0.203125
     height: 0.123046875
+  - serializedVersion: 2
+    x: 0.5
+    y: 0.375
+    width: 0.203125
+    height: 0.123046875
+  - serializedVersion: 2
+    x: 0.29492188
+    y: 0.375
+    width: 0.203125
+    height: 0.123046875
+  - serializedVersion: 2
+    x: 0.609375
+    y: 0
+    width: 0.265625
+    height: 0.25976562
   textureGUIDs:
   - 018c122bd42456b4a836b1ffe9bab957
   - 02abcc789e7cfd44c80f656809f38fed
@@ -416,6 +422,7 @@ MonoBehaviour:
   - 86737cde63837e445a9aa063e67d91f7
   - 8fdf8ef27f8da274baa624dbccff604f
   - a75fd89de4cdc7a468ccea3a80438b29
+  - 7dae04952a926aa4ebdd06c2f9a3f966
   textureSizes:
   - {x: 28, y: 24}
   - {x: 10, y: 10}
@@ -484,6 +491,7 @@ MonoBehaviour:
   - {x: 104, y: 63}
   - {x: 104, y: 63}
   - {x: 104, y: 63}
+  - {x: 136, y: 133}
   defaultPivotOffsets:
   - {x: 0.36, y: -0.4}
   - {x: 0, y: 0}
@@ -552,6 +560,7 @@ MonoBehaviour:
   - {x: -0.38571426, y: -0.43775508}
   - {x: -0.3857143, y: -0.4377551}
   - {x: -0.3857143, y: -0.4377551}
+  - {x: -0.06268854, y: -0.03846154}
   textureNames:
   - Tongue_Up
   - Pupil_Right_Red
@@ -602,7 +611,7 @@ MonoBehaviour:
   - Headgear_FrostPigmies_Back
   - Headgear_PigmyShooters
   - MainHand_FrostPigmies
-  - MainHand_PigmyShooters
+  - Mainhand_PigmyShooters
   - MainHand_PigmyShooters_Projectile
   - Headgear_DragonPlayer_Back
   - Headgear_DragonPlayer
@@ -620,75 +629,77 @@ MonoBehaviour:
   - MainHand_SpectatorsB
   - MainHand_SpectatorsC
   - MainHand_SpectatorsD
+  - Headgear_PigmiesSheep
   texturePaths:
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Tongue_Up.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Right_Red.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Lower.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_ForestPigmies.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Left_Red.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Scream.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Squint.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Right.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Upper.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Eye_Right.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Smile.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Squint.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Tongue_Down.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_KO.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Angry.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_ForestPigmies_Back.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Happy.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Laugh.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Happy.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Eye_Left.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Sad.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_HalfOpen.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Angry.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_KO.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Affected.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Upper.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Sad.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_HalfOpen.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Lower.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Snout.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Angry.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Tail.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Closed.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_KO.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Left_Big.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Closed.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_ForestPigmies.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Left.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Body.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Shadow.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Right_Big.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Empty.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_FrostPigmies.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_FrostPigmies_Back.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_PigmyShooters.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_FrostPigmies.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_PigmyShooters.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_PigmyShooters_Projectile.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_DragonPlayer_Back.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_DragonPlayer.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_TemplePigmies.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_TemplePigmies.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsD_Back.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsA_Back.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsC_Back.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsB.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsC.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsD.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsB_Back.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsA.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_SpectatorsA.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_SpectatorsB.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_SpectatorsC.png
-  - Assets/Content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_SpectatorsD.png
-  lastBuildID: 20180628143513757
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Tongue_Up.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Right_Red.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Lower.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_ForestPigmies.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Left_Red.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Scream.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Squint.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Right.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Upper.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Eye_Right.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Smile.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Squint.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Tongue_Down.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_KO.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Angry.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_ForestPigmies_Back.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Happy.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Laugh.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Happy.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Eye_Left.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Sad.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_HalfOpen.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Angry.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_KO.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Affected.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Upper.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mouth_Sad.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_HalfOpen.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Lower.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Snout.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Angry.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Tail.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Right_Closed.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_KO.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Left_Big.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Lid_Left_Closed.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_ForestPigmies.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Left.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Body.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Shadow.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Pupil_Right_Big.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Empty.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_FrostPigmies.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_FrostPigmies_Back.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_PigmyShooters.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_FrostPigmies.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Mainhand_PigmyShooters.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_PigmyShooters_Projectile.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_DragonPlayer_Back.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_DragonPlayer.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_TemplePigmies.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_TemplePigmies.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsD_Back.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsA_Back.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsC_Back.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsB.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsC.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsD.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsB_Back.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_SpectatorsA.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_SpectatorsA.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_SpectatorsB.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_SpectatorsC.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/MainHand_SpectatorsD.png
+  - Assets/content/4_Characters/2_Pigs/11_Pigmies/BodyParts/Headgear_PigmiesSheep.png
+  lastBuildID: 20260822203718716
   needsRebuilt: 0
   dataVersion: 4
   maxAtlasSize: 1024

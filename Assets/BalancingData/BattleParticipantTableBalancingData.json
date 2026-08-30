@@ -1906,10 +1906,18 @@
         "ForcePercent": false
       },
       {
-        "NameId": "pig_dukeg",
+        "NameId": "pig_batteringramgoat",
         "LevelDifference": 0,
         "Probability": 2.0,
-        "Amount": 2.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_duchess",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
         "Unique": false,
         "ForcePercent": false
       }
@@ -2038,7 +2046,7 @@
     },
     "BattleParticipants": [
       {
-        "NameId": "pig_daguard",
+        "NameId": "pig_batteringrampoison",
         "LevelDifference": 0,
         "Probability": 2.0,
         "Amount": 1.0,
@@ -2050,6 +2058,14 @@
         "LevelDifference": 0,
         "Probability": 2.0,
         "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_daguard",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 3.0,
         "Unique": false,
         "ForcePercent": false
       },
@@ -2480,26 +2496,26 @@
     },
     "BattleParticipants": [
       {
-        "NameId": "pig_executioner",
+        "NameId": "pig_da_pirate_01",
         "LevelDifference": 0,
         "Probability": 2.0,
-        "Amount": 1.0,
+        "Amount": 2.0,
         "Unique": false,
         "ForcePercent": false
       },
       {
-        "NameId": "da_pirate_02",
+        "NameId": "pig_da_pirate_02",
         "LevelDifference": 0,
         "Probability": 2.0,
-        "Amount": 1.0,
+        "Amount": 2.0,
         "Unique": false,
         "ForcePercent": false
       },
       {
-        "NameId": "pig_paradise_boss",
+        "NameId": "pig_da_pirate_03",
         "LevelDifference": 0,
         "Probability": 2.0,
-        "Amount": 1.0,
+        "Amount": 2.0,
         "Unique": false,
         "ForcePercent": false
       }
@@ -2585,18 +2601,18 @@
         "ForcePercent": false
       },
       {
-        "NameId": "pig_jester_02",
+        "NameId": "pig_batteringram",
         "LevelDifference": 0,
         "Probability": 2.0,
-        "Amount": 2.0,
+        "Amount": 1.0,
         "Unique": false,
         "ForcePercent": false
       },
       {
-        "NameId": "pig_jester_03",
+        "NameId": "pig_pilgrim",
         "LevelDifference": 0,
         "Probability": 2.0,
-        "Amount": 2.0,
+        "Amount": 1.0,
         "Unique": false,
         "ForcePercent": false
       }
