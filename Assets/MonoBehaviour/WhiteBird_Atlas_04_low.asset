@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: 5756d81aa87e464fb75773e9b4238632, type: 3}
+  m_Name: WhiteBird_Atlas_04_low
+  m_EditorClassIdentifier:
+  material: {fileID: 2100000, guid: 2c5fdbe012ccbdf45ae4047f4465b334, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: 0.48046875
+    y: 0
+    width: 0.0078125
+    height: 0.0078125
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: 0.24414062
+    height: 0.265625
+  - serializedVersion: 2
+    x: 0
+    y: 0.46484375
+    width: 0.171875
+    height: 0.111328125
+  - serializedVersion: 2
+    x: 0.19238281
+    y: 0.26660156
+    width: 0.15234375
+    height: 0.16796875
+  - serializedVersion: 2
+    x: 0.34570312
+    y: 0.26660156
+    width: 0.15234375
+    height: 0.11328125
+  - serializedVersion: 2
+    x: 0
+    y: 0.26660156
+    width: 0.19140625
+    height: 0.19726562
+  - serializedVersion: 2
+    x: 0.24511719
+    y: 0
+    width: 0.234375
+    height: 0.22265625
+  - serializedVersion: 2
+    x: 0.17285156
+    y: 0.46484375
+    width: 0.13671875
+    height: 0.107421875
+  textureGUIDs:
+  - a2ed82770cbb7c046804c1b7f68043ea
+  - 2cf05d7d9d02c4f40ad7a3b99e400354
+  - 5a7bb1029be2fc640aef92adb717742f
+  - 07b542f2b8cdd2c469b8653840c6d690
+  - 21e64924c8da27e48b87ea831201b7b8
+  - dc336fac0beb0bf47a04dfe46243d81e
+  - 144fad90b5e55f54db1ea3ff6a92a2a2
+  - a76d443f46abe614aba7c6c92ed155d0
+  textureSizes:
+  - {x: 8, y: 8}
+  - {x: 250, y: 272}
+  - {x: 176, y: 114}
+  - {x: 156, y: 172}
+  - {x: 156, y: 116}
+  - {x: 196, y: 202}
+  - {x: 240, y: 228}
+  - {x: 140, y: 110}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0.12901185, y: 0.10968379}
+  - {x: 0.005357143, y: 0.98007524}
+  - {x: -0.032684706, y: -0.49505928}
+  - {x: 0.05892857, y: 0.9870074}
+  - {x: 0.06964286, y: 0.38985148}
+  - {x: 0.096428566, y: 0.30451125}
+  - {x: -0.06964286, y: 1.0568181}
+  textureNames:
+  - Empty
+  - Headgear_EasterDruid
+  - Headgear_EasterDruid_Back
+  - Body
+  - Headgear_SuperheroBard_Back
+  - Headgear_SuperheroBard
+  - Headgear_ChallengerPrincess
+  - Headgear_ChallengerPrincess_Back
+  texturePaths:
+  - Assets/Content/4_Characters/1_Birds/4_BlackBird/BodyParts/Empty.png
+  - Assets/Content/4_Characters/1_Birds/3_WhiteBird/BodyParts/Headgear_EasterDruid.png
+  - Assets/Content/4_Characters/1_Birds/3_WhiteBird/BodyParts/Headgear_EasterDruid_Back.png
+  - Assets/Content/4_Characters/1_Birds/3_WhiteBird/BodyParts/Body.png
+  - Assets/Content/4_Characters/1_Birds/3_WhiteBird/BodyParts/Headgear_SuperheroBard_Back.png
+  - Assets/Content/4_Characters/1_Birds/3_WhiteBird/BodyParts/Headgear_SuperheroBard.png
+  - Assets/Content/4_Characters/1_Birds/3_WhiteBird/BodyParts/Headgear_ChallengerPrincess.png
+  - Assets/Content/4_Characters/1_Birds/3_WhiteBird/BodyParts/Headgear_ChallengerPrincess_Back.png
+  lastBuildID: 20180425121340793
+  needsRebuilt: 0
+  dataVersion: 4
+  maxAtlasSize: 1024
+  padding: 1
+  forceSquare: 1

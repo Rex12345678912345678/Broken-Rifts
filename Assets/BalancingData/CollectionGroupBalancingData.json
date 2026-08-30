@@ -1,0 +1,883 @@
+[
+  {
+    "NameId": "aztec_headgear",
+    "LocaBaseId": "aztec_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "bird_class_stoneguard",
+    "FallbackRewardLocaId": "player_stat_lucky_coin",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_feathers",
+        "Value": 30.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_flower",
+        "Value": 30.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_tusk",
+        "Value": 45.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_stone",
+        "Value": 45.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_event_stars",
+        "Value": 35.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "illusionist_headgear",
+    "LocaBaseId": "illusionist_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "bird_class_illusionist",
+    "FallbackRewardLocaId": "player_stat_lucky_coin",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_illusionist_bluecloth",
+        "Value": 5.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_illusionist_needles",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_illusionist_ring",
+        "Value": 20.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_illusionist_redrope",
+        "Value": 20.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_illusionist_whitewool",
+        "Value": 25.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "witch_headgear",
+    "LocaBaseId": "witch_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "bird_class_witch",
+    "FallbackRewardLocaId": "bird_class_elitewitch",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_witch_spirit",
+        "Value": 5.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_witch_pumpkin",
+        "Value": 5.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_witch_bones",
+        "Value": 7.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_witch_ectoplasm",
+        "Value": 8.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_witch_candy",
+        "Value": 10.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "winterfighter_headgear",
+    "LocaBaseId": "winterfighter_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "bird_class_winterfighter",
+    "FallbackRewardLocaId": "bird_class_elitewinterfighter",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_snow_treeball",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_snow_bell",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_snow_candycane",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_snow_mistletoe",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_snow_present",
+        "Value": 20.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "treasurehunters_headgear",
+    "LocaBaseId": "treasurehunter_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "bird_class_treasurehunters",
+    "FallbackRewardLocaId": "bird_class_elitetreasurehunters",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_valentine_heartlollipop",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_valentine_bouquet",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_valentine_chocolate",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_valentine_loveletter",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_valentine_goldenarrows",
+        "Value": 20.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "elite_knight_headgear",
+    "LocaBaseId": "elite_knight_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "",
+    "FallbackRewardLocaId": "",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_easter_basket",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_easter_bunny",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_easter_carrots",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_easter_hat",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_easter_egg",
+        "Value": 20.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "elite_mage_headgear",
+    "LocaBaseId": "elite_mage_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "",
+    "FallbackRewardLocaId": "player_stat_lucky_coin",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_movie_popcorn",
+        "Value": 5.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_movie_softdrink",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_movie_glasses",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_movie_ticket",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_movie_filmreel",
+        "Value": 20.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "boss_elite_cleric_headgear",
+    "LocaBaseId": "elite_cleric_headgear_title",
+    "Reward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "FallbackReward": {
+      "gold": 500
+    },
+    "RewardAssetBaseId": "Headgear_EliteCleric",
+    "FallbackRewardAssetBaseId": "Resource_LuckyCoin",
+    "RewardLocaId": "bird_class_elitecleric",
+    "FallbackRewardLocaId": "player_stat_lucky_coin",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveEventScore",
+        "NameId": "any",
+        "Value": 10000.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "elite_pirate_headgear",
+    "LocaBaseId": "elite_pirate_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "",
+    "FallbackRewardLocaId": "player_stat_lucky_coin",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_anniversary_partyhat",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_anniversary_balloons",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_anniversary_partywhistle",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_anniversary_birthdaypresent",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_anniversary_birthdaycake",
+        "Value": 20.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "aztec_02_headgear",
+    "LocaBaseId": "aztec_02_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "",
+    "FallbackRewardLocaId": "player_stat_lucky_coin",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_feathers",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_flower",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_tusk",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_stone",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_idol",
+        "Value": 20.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "elite_tricksters_headgear",
+    "LocaBaseId": "elite_trickster_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "EliteChest_Large",
+    "RewardLocaId": "",
+    "FallbackRewardLocaId": "player_stat_lucky_coin",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_sports_torch",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_sports_flag",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_sports_podium",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_sports_baywreath",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_sports_goldmedal",
+        "Value": 20.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "boss_elite_guardian_headgear",
+    "LocaBaseId": "elite_guardian_headgear_title",
+    "Reward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "FallbackReward": {
+      "gold": 500
+    },
+    "RewardAssetBaseId": "Headgear_EliteGuardian",
+    "FallbackRewardAssetBaseId": "Resource_LuckyCoin",
+    "RewardLocaId": "bird_class_eliteguardian",
+    "FallbackRewardLocaId": "player_stat_lucky_coin",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveEventScore",
+        "NameId": "any",
+        "Value": 10000.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "elite_illusionist_headgear",
+    "LocaBaseId": "elite_illusionist_headgear_title",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "RewardAssetBaseId": "Headgear_Illusionist",
+    "FallbackRewardAssetBaseId": "Headgear_EliteIllusionist",
+    "RewardLocaId": "bird_class_Illusionist",
+    "FallbackRewardLocaId": "bird_class_eliteIllusionist",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_oktoberfest_prezel",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_oktoberfest_gingerbreadheart",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_oktoberfest_bavarianhat",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_oktoberfest_bavarianflag",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_oktoberfest_cottoncandy",
+        "Value": 20.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "elite_chest_campaign",
+    "LocaBaseId": "",
+    "Reward": {
+      "collection_elite_chest_campaign": 1
+    },
+    "FallbackReward": null,
+    "RewardAssetBaseId": "EliteChest_Large",
+    "FallbackRewardAssetBaseId": "",
+    "RewardLocaId": "",
+    "FallbackRewardLocaId": "",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_feathers",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_flower",
+        "Value": 10.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_tusk",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_stone",
+        "Value": 15.0
+      },
+      {
+        "RequirementType": "HaveItem",
+        "NameId": "collection_stoneguard_idol",
+        "Value": 20.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  },
+  {
+    "NameId": "elite_chest_worldboss",
+    "LocaBaseId": "",
+    "Reward": {
+      "collection_elite_chest_worldboss": 1
+    },
+    "FallbackReward": null,
+    "RewardAssetBaseId": "ClassChest_Large",
+    "FallbackRewardAssetBaseId": "",
+    "RewardLocaId": "",
+    "FallbackRewardLocaId": "",
+    "ComponentRequirements": [
+      {
+        "RequirementType": "HaveEventScore",
+        "NameId": "any",
+        "Value": 10000.0
+      }
+    ],
+    "ComponentFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "FallbackRewardRequirements": null,
+    "EasyBattleFallbackLoot": {
+      "event_points_standard": 250
+    },
+    "MediumBattleFallbackLoot": {
+      "event_points_standard": 500
+    },
+    "HardBattleFallbackLoot": {
+      "event_points_standard": 750
+    },
+    "HardBattleSecondaryFallbackLoot": {
+      "event_points_standard": 400
+    },
+    "MediumBattleSecondaryFallbackLoot": {
+      "event_points_standard": 260
+    },
+    "EasyBattleSecondaryFallbackLoot": {
+      "event_points_standard": 130
+    }
+  }
+]

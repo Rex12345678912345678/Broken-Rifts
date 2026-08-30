@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1334935934613941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4198618290424397}
+  - component: {fileID: 114202379626330231}
+  - component: {fileID: 65374161697811499}
+  - component: {fileID: 114303660703115513}
+  - component: {fileID: 114948564361035503}
+  - component: {fileID: 54027599410238920}
+  m_Layer: 9
+  m_Name: CharacterControllerBattleGround
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4198618290424397
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1334935934613941}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114202379626330231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1334935934613941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3a746d7028d942fe2dcf8a71bfd2658, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_ReviveMePrefab: {fileID: 1303044091948508, guid: 9ef9efb4cda79314ea8cd59b84df191d,
+    type: 3}
+  m_BattleMgr: {fileID: 0}
+  m_WasKnockedOut: 0
+  m_AlreadyPlaced: 0
+  m_AllowClick: 1
+  m_AllowDrag: 1
+  m_StartPositionY: 0
+  m_reviveClicked: 0
+  m_CommandGiven: 0
+  m_stunnedDuringAttack: 0
+  m_maxSpawnDelay: 0
+  m_minSpawnDelay: 0
+  m_ScrollingCombatTextPrefab: {fileID: 114096939343714222, guid: a0459a04f9d1e114984b90ffb1204d0f,
+    type: 3}
+  m_ScrollingCombatTextWithLabelPrefab: {fileID: 114971876204981666, guid: b12e86b27b51fc94ba1ecbab3e4a846e,
+    type: 3}
+  m_CriticalAdditionalEffect: {fileID: 0}
+  m_ScorePopup: {fileID: 114194038925007645, guid: 2b0ae473e2190b348adf318265409ba0,
+    type: 3}
+  m_CharacterSpeechBubblePrefab: {fileID: 114518994312922159, guid: 6b1b23e71512d3043b13baa087af9418,
+    type: 3}
+  m_TapHoldTrigger: {fileID: 114948564361035503}
+  m_TweenMovement: {fileID: 114303660703115513}
+  m_CurrentPerkType: 0
+  m_AssetController: {fileID: 0}
+  m_BoxCollider: {fileID: 0}
+  m_IsWaitingForInput: 0
+  m_CachedTransform: {fileID: 0}
+  OffsetFromEnemyZ: -10
+  m_BirdFocusPosOffset: {x: 150, y: 0, z: 0}
+  m_RankUpEffect: {fileID: 0}
+  m_InitialStartPosOffset: {x: 0, y: 0, z: 0}
+  m_HealthBarPrefab: {fileID: 114268490236648193, guid: 36b4891670c2ec74b85d36c607c8abcd,
+    type: 3}
+  m_BossHealthBarPrefab: {fileID: 114119374491285108, guid: f886f5a478dc34f40b7d5fac7f272341,
+    type: 3}
+  m_IsTapping: 0
+  m_ControlHUDPrefab: {fileID: 114245124635784675, guid: 19e2890a9c1dd654db9e8479926301ee,
+    type: 3}
+--- !u!65 &65374161697811499
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1334935934613941}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &114303660703115513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1334935934613941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6f04afc464e62c2e6ad68af8cf7b0c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_StartTransform: {fileID: 0}
+  m_StartOffset: {x: 0, y: 0, z: 0}
+  m_EndTransform: {fileID: 0}
+  m_EndOffset: {x: 0, y: 0, z: 0}
+  m_Timing: 0
+  m_DurationInSeconds: 0
+  m_SpeedInUnitsSecond: 0
+  m_IsPlayOnStart: 0
+  m_IsLooping: 0
+  m_AnimationCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 1
+      outSlope: 1
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  m_AnimationCurvesPerAxis: []
+--- !u!114 &114948564361035503
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1334935934613941}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d26aed2b3ab266d055ec73952abef10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TapStartThreshold: 0.8
+  TapEndThreshold: 0.1
+  m_MaxPosDistanceForTap: 50
+--- !u!54 &54027599410238920
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1334935934613941}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0

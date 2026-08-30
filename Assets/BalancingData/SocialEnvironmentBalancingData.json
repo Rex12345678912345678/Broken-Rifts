@@ -1,0 +1,51 @@
+[
+  {
+    "NameId": "default",
+    "TimeForGetFriendBird": 0,
+    "TimeForFreeGachaRollSpawn": 86400,
+    "HighMaxFreeRolls": 1,
+    "LowMaxFreeRolls": 1,
+    "MinFriendsForMaxFreeRolls": 15,
+    "MightyEagleBirdReqirement": {
+      "RequirementType": "PayItem",
+      "NameId": "lucky_coin",
+      "Value": 15.0
+    },
+    "MaxFriendsInHighscoreList": 20,
+    "FriendshipGateHelpCooldown": 0,
+    "FriendshipEssenceCooldown": 0,
+    "CacheFriendBirdTime": 43200,
+    "FriendShipEssenceMessageCap": 5,
+    "FacebookDailyBonus": {
+      "lucky_coin": 1
+    },
+    "SkipCooldownRequirement": {
+      "RequirementType": "PayItem",
+      "NameId": "lucky_coin",
+      "Value": 10.0
+    },
+    "McCoolVisitMinCooldown": 345600,
+    "McCoolVisitMaxCooldown": 604800,
+    "MaxRewardsForPvp": 5,
+    "PvPFallbackChanceHard": 20,
+    "PvPFallbackChanceMedium": 40,
+    "PvPFallbackEasy": {
+      "sets": 0,
+      "level": -2,
+      "mastery": -1,
+      "high_average": 0
+    },
+    "PvPFallbackMedium": {
+      "sets": 1,
+      "level": -1,
+      "mastery": 0,
+      "high_average": 1
+    },
+    "PvPFallbackHard": {
+      "sets": 2,
+      "level": 0,
+      "mastery": 0,
+      "high_average": 1
+    }
+  }
+]
