@@ -217,13 +217,13 @@ public class FriendInfoElement : MonoBehaviour
 		case "NPC_Porky":
 			return "Avatar_PrincePorky";
 		case "NPC_Asia":
-			return "Avatar_Generic";
+			return "Avatar_Asia";
 		case "NPC_Mauvey":
-			return "Avatar_Generic";
+			return "Avatar_Mauvey";
 		case "NPC_Rex":
-			return "Avatar_Generic";
+			return "Avatar_Rex";
 		case "NPC_Mace":
-			return "Avatar_Generic";
+			return "Avatar_MaCe";
 		case "NPC_Adventurer":
 			return "Avatar_Adventurer";
 		case "NPC_Low":

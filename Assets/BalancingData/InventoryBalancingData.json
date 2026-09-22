@@ -331,10 +331,10 @@
   {
     "NameId": "aqua_bird_start",
     "DefaultInventoryContent": {
-      "bird_weapon_red_sword_0star": 1,
-      "bird_offhand_red_shield_start": 1,
-      "class_knight": 1,
-      "skin_knight": 1
+      "bird_weapon_aqua_start": 1,
+      "bird_offhand_aqua_start": 1,
+      "class_captivator": 1,
+      "skin_captivator": 1
     },
     "InitializingLevel": 1
   },
@@ -830,10 +830,37 @@
     "InitializingLevel": 0
   },
   {
+    "NameId": "pig_gnomeleader",
+    "DefaultInventoryContent": {
+      "pig_weapon_gnomeleader": 1,
+      "pig_offhand_gnomeleader": 1,
+      "headgear_gnomeleader": 1
+    },
+    "InitializingLevel": 0
+  },
+  {
+    "NameId": "pig_gnome",
+    "DefaultInventoryContent": {
+      "pig_weapon_gnome": 1,
+      "pig_offhand_gnome": 1,
+      "headgear_gnome": 1
+    },
+    "InitializingLevel": 0
+  },
+  {
     "NameId": "pig_farmerz",
     "DefaultInventoryContent": {
       "pig_weapon_farmerz": 1,
       "headgear_farmerz": 1
+    },
+    "InitializingLevel": 0
+  },
+  {
+    "NameId": "pig_jiganshi",
+    "DefaultInventoryContent": {
+      "pig_weapon_jigashi": 1,
+      "pig_offhand_jigashi": 1,
+      "headgear_jigashi": 1
     },
     "InitializingLevel": 0
   },

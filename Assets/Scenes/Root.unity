@@ -35743,6 +35743,17 @@ MonoBehaviour:
       Value: 0
     AssetPrioritiy: 3
     Source: {fileID: 0}
+  - NameId: Character_Aqua_Cheer
+    AssetNames:
+    - character_aqua_cheer_01
+    ChannelId: 1
+    Muted: 0
+    Volume: 1
+    Params:
+    - Type: 1
+      Value: 0
+    AssetPrioritiy: 0
+    Source: {fileID: 0}
   - NameId: Character_Black_Defeated
     AssetNames:
     - character_black_defeated_01
@@ -35759,6 +35770,19 @@ MonoBehaviour:
     - character_black_hit_01
     - character_black_hit_02
     - character_black_hit_03
+    ChannelId: 1
+    Muted: 0
+    Volume: 1
+    Params:
+    - Type: 1
+      Value: 0
+    AssetPrioritiy: 0
+    Source: {fileID: 0}
+  - NameId: Character_Aqua_Hit
+    AssetNames:
+    - character_aqua_hit_01
+    - character_aqua_hit_02
+    - character_aqza_hit_03
     ChannelId: 1
     Muted: 0
     Volume: 1
@@ -46110,6 +46134,12 @@ MonoBehaviour:
     AssetLink: {fileID: 0}
     DeleteOnBuild: 0
     Extension: prefab
+  - NameId: Headgear_Beast
+    AssetLoadingType: 0
+    Path: Prefabs/0_Generic/1_Interface/BirdEquipment/Headgear/6_AquaBird/Headgear_Beast
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
   - NameId: Headgear_Cannoneer
     AssetLoadingType: 0
     Path: Prefabs/0_Generic/1_Interface/BirdEquipment/Headgear/4_BlackBird/Headgear_Cannoneer
@@ -46371,6 +46401,12 @@ MonoBehaviour:
   - NameId: Headgear_Paladin
     AssetLoadingType: 0
     Path: Prefabs/0_Generic/1_Interface/BirdEquipment/Headgear/1_RedBird/Headgear_Paladin
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: Headgear_Captivator
+    AssetLoadingType: 0
+    Path: Prefabs/0_Generic/1_Interface/BirdEquipment/Headgear/6_AquaBird/Headgear_Captivator
     AssetLink: {fileID: 0}
     DeleteOnBuild: 0
     Extension: prefab
@@ -46815,6 +46851,12 @@ MonoBehaviour:
   - NameId: MainHand_Hammer_01
     AssetLoadingType: 0
     Path: Prefabs/0_Generic/1_Interface/BirdEquipment/MainHand/1_RedBird/MainHand_Hammer_01
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: prefab
+  - NameId: MainHand_Gaxe_01
+    AssetLoadingType: 0
+    Path: Prefabs/0_Generic/1_Interface/BirdEquipment/MainHand/6_AquaBird/MainHand_Gaxe_01
     AssetLink: {fileID: 0}
     DeleteOnBuild: 0
     Extension: prefab
@@ -49568,6 +49610,12 @@ MonoBehaviour:
     AssetLink: {fileID: 0}
     DeleteOnBuild: 0
     Extension: wav
+  - NameId: character_aqua_cheer_01
+    AssetLoadingType: 0
+    Path: Sound/Characters/Birds/AquaBird/character_aqua_cheer_01
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: wav
   - NameId: character_red_defeated_01
     AssetLoadingType: 0
     Path: Sound/Characters/Birds/RedBird/character_red_defeated_01
@@ -49577,6 +49625,24 @@ MonoBehaviour:
   - NameId: character_red_hit_01
     AssetLoadingType: 0
     Path: Sound/Characters/Birds/RedBird/character_red_hit_01
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: wav
+  - NameId: character_aqua_hit_01
+    AssetLoadingType: 0
+    Path: Sound/Characters/Birds/AquaBird/character_aqua_hit_01
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: wav
+  - NameId: character_aqua_hit_02
+    AssetLoadingType: 0
+    Path: Sound/Characters/Birds/AquaBird/character_aqua_hit_02
+    AssetLink: {fileID: 0}
+    DeleteOnBuild: 0
+    Extension: wav
+  - NameId: character_aqua_hit_03
+    AssetLoadingType: 0
+    Path: Sound/Characters/Birds/AquaBird/character_aqua_hit_03
     AssetLink: {fileID: 0}
     DeleteOnBuild: 0
     Extension: wav

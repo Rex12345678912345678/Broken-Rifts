@@ -10522,6 +10522,77 @@
     "IgnoreDifficulty": false
   },
   {
+    "NameId": "pig_gnomeleader",
+    "AssetId": "PigMage",
+    "LocaId": "pig_gnomeleader",
+    "DefaultInventoryNameId": "pig_gnomeleader",
+    "BaseHealth": 244,
+    "BaseAttack": 14,
+    "PerLevelHealth": 0,
+    "PerLevelAttack": 0,
+    "SkillNameIds": [
+      "pig_attack_lunarmage",
+      "pig_attack_lunarmage2"
+    ],
+    "SkillCombos": [
+      {
+        "Percentage": 50.0,
+        "ComboChain": [
+          "pig_attack_lunarmage"
+        ]
+      },
+      {
+        "Percentage": 50.0,
+        "ComboChain": [
+          "pig_attack_lunarmage2"
+        ]
+      }
+    ],
+    "SizeType": "Large",
+    "Faction": "Pigs",
+    "LootTableDefeatBonus": {
+      "loot_pig5_defeated_gold": 1,
+      "loot_pig5_defeated_exp": 1,
+      "loot_piglarge_defeated_mastery": 1
+    },
+    "SizeScale": 1.2,
+    "PigStrength": 6,
+    "PassiveSkillNameId": "pig_lunarcurse",
+    "IgnoreDifficulty": false
+  },
+  {
+    "NameId": "pig_gnome",
+    "AssetId": "MinionPig",
+    "LocaId": "pig_gnome",
+    "DefaultInventoryNameId": "pig_gnome",
+    "BaseHealth": 133,
+    "BaseAttack": 15,
+    "PerLevelHealth": 0,
+    "PerLevelAttack": 0,
+    "SkillNameIds": [
+      "pig_attack_gnome"
+    ],
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "pig_attack_gnome"
+        ]
+      }
+    ],
+    "SizeType": "Small",
+    "Faction": "Pigs",
+    "LootTableDefeatBonus": {
+      "loot_pig4_defeated_gold": 1,
+      "loot_pig4_defeated_exp": 1,
+      "loot_pigsmall_defeated_mastery": 1
+    },
+    "SizeScale": 1.0,
+    "PigStrength": 4,
+    "PassiveSkillNameId": "pig_passive_gnome",
+    "IgnoreDifficulty": false
+  },
+  {
     "NameId": "pig_farmerz",
     "AssetId": "ZombiePig",
     "LocaId": "pig_farmerz",
@@ -10551,6 +10622,40 @@
     "SizeScale": 1.1,
     "PigStrength": 7,
     "PassiveSkillNameId": "pig_passive_undead_02",
+    "IgnoreDifficulty": false
+  },
+  {
+    "NameId": "pig_jiganshi",
+    "AssetId": "ZombiePig",
+    "LocaId": "pig_jiganshi",
+    "DefaultInventoryNameId": "pig_jiganshi",
+    "BaseHealth": 270,
+    "BaseAttack": 20,
+    "PerLevelHealth": 0,
+    "PerLevelAttack": 0,
+    "SkillNameIds": [
+      "pig_attack_jiganshi",
+      "pig_support_jiganshi"
+    ],
+    "SkillCombos": [
+      {
+        "Percentage": 100.0,
+        "ComboChain": [
+          "pig_support_jiganshi",
+          "pig_attack_jiganshi"
+        ]
+      }
+    ],
+    "SizeType": "Medium",
+    "Faction": "Pigs",
+    "LootTableDefeatBonus": {
+      "loot_pig7_defeated_gold": 1,
+      "loot_pig7_defeated_exp": 1,
+      "loot_piglarge_defeated_mastery": 1
+    },
+    "SizeScale": 1.3,
+    "PigStrength": 8,
+    "PassiveSkillNameId": "pig_passive_jiganshi",
     "IgnoreDifficulty": false
   },
   {

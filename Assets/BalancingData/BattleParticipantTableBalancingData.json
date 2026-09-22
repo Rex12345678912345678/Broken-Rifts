@@ -2062,10 +2062,10 @@
         "ForcePercent": false
       },
       {
-        "NameId": "pig_daguard",
+        "NameId": "pig_lunarmage",
         "LevelDifference": 0,
         "Probability": 2.0,
-        "Amount": 3.0,
+        "Amount": 1.0,
         "Unique": false,
         "ForcePercent": false
       },
@@ -2415,10 +2415,18 @@
     },
     "BattleParticipants": [
       {
-        "NameId": "pig_farmerz",
+        "NameId": "pig_jiganshi",
         "LevelDifference": 0,
         "Probability": 2.0,
-        "Amount": 5.0,
+        "Amount": 1.0,
+        "Unique": false,
+        "ForcePercent": false
+      },
+      {
+        "NameId": "pig_gnome",
+        "LevelDifference": 0,
+        "Probability": 2.0,
+        "Amount": 1.0,
         "Unique": false,
         "ForcePercent": false
       }
@@ -2496,7 +2504,7 @@
     },
     "BattleParticipants": [
       {
-        "NameId": "pig_da_pirate_01",
+        "NameId": "pig_gnome",
         "LevelDifference": 0,
         "Probability": 2.0,
         "Amount": 2.0,
@@ -2504,7 +2512,7 @@
         "ForcePercent": false
       },
       {
-        "NameId": "pig_da_pirate_02",
+        "NameId": "pig_gnomeleader",
         "LevelDifference": 0,
         "Probability": 2.0,
         "Amount": 2.0,

@@ -112,6 +112,14 @@
     "SetAsNewInShop": 0
   },
   {
+    "NameId": "addbird_aquabird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_aqua",
+    "LocaBaseId": "addbird_aquabird",
+    "SortPriority": 6,
+    "SetAsNewInShop": 0
+  },
+  {
     "NameId": "removebird_asia",
     "ItemType": "Story",
     "AssetBaseId": "bird_asia",
@@ -156,6 +164,14 @@
     "ItemType": "Story",
     "AssetBaseId": "bird_blue",
     "LocaBaseId": "removebird_bluebird",
+    "SortPriority": 0,
+    "SetAsNewInShop": 0
+  },
+  {
+    "NameId": "removebird_aquabird",
+    "ItemType": "Story",
+    "AssetBaseId": "bird_aqua",
+    "LocaBaseId": "removebird_aquabird",
     "SortPriority": 0,
     "SetAsNewInShop": 0
   },

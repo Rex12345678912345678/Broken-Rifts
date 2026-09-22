@@ -84,7 +84,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_ScaleTransform: {fileID: 4291901257110248}
   m_BaseScale: {x: 1, y: 1, z: 1}
-  m_Index: 23
+  m_Index: 25
   m_Last_z_Position: 0
 --- !u!114 &114788289245368195
 MonoBehaviour:
@@ -374,6 +374,7 @@ MonoBehaviour:
   - {fileID: 2100000, guid: 17fe45935b295644dafc2ebd328c975c, type: 2}
   - {fileID: 2100000, guid: 884e5f3964521794189d56361417be5b, type: 2}
   - {fileID: 2100000, guid: 626d6848aa3a34b45ad38b8c983469d2, type: 2}
+  - {fileID: 2100000, guid: afa55541cd8853b4f8cea582833c2a3a, type: 2}
   mBoneSource:
   - boneNodeIndex: 0
     boneDataIndex: 0
@@ -48147,6 +48148,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 0518def0e8eeb544aaa9b87aea6d90db, type: 2}
   - {fileID: 11400000, guid: 67a1a7ccdaaccc04fb712602534fd40d, type: 2}
   - {fileID: 11400000, guid: 80d97b21d9eda9c439fa14c73a2c78d2, type: 2}
+  - {fileID: 11400000, guid: 0cddd0e4037312c458843674dcd3f13b, type: 2}
   mAnimationClips:
   - animationName: Idle
     fps: 24
@@ -72786,7 +72788,7 @@ AudioSource:
       outWeight: 0.33333334
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 0
+    m_RotationOrder: 4
   spreadCustomCurve:
     serializedVersion: 2
     m_Curve:
@@ -72816,7 +72818,7 @@ AudioSource:
       outWeight: 0.33333334
     m_PreInfinity: 2
     m_PostInfinity: 2
-    m_RotationOrder: 0
+    m_RotationOrder: 4
 --- !u!111 &4267719893469166096
 Animation:
   m_ObjectHideFlags: 0
@@ -72960,8 +72962,8 @@ SkinnedMeshRenderer:
   m_BlendShapeWeights: []
   m_RootBone: {fileID: 0}
   m_AABB:
-    m_Center: {x: -28.829002, y: 60.83111, z: -0.000000014901161}
-    m_Extent: {x: 113.829, y: 71.83111, z: 0.000000044703484}
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
   m_DirtyAABB: 0
 --- !u!1 &233664361567161628
 GameObject:

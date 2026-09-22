@@ -1,8 +1,9 @@
-using System.Collections;
-using System.Collections.Generic;
 using ABH.GameDatas.Interfaces;
 using ABH.Shared.Generic;
 using ABH.Shared.Models.Generic;
+using SmoothMoves;
+using System.Collections;
+using System.Collections.Generic;
 
 namespace ABH.GameDatas.Battle.Skills
 {
@@ -26,7 +27,12 @@ namespace ABH.GameDatas.Battle.Skills
 			m_All = base.Model.SkillParameters.ContainsKey("all");
 		}
 
-		public override void DoActionInstant(BattleGameData battle, ICombatant source, ICombatant target)
+        public override void BoneAnimationUserTrigger(UserTriggerEvent triggerEvent)
+        {
+            base.BoneAnimationUserTrigger(triggerEvent);
+        }
+
+        public override void DoActionInstant(BattleGameData battle, ICombatant source, ICombatant target)
 		{
 			DebugLog.Log("Trigger set bonus skill: " + base.Model.Balancing.NameId + "; Target: " + target.CombatantName);
 			m_Source = source;

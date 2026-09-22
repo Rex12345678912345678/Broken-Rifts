@@ -5115,6 +5115,62 @@
     "ExclusiveOffer": false,
     "Level": 1,
     "OfferContents": {
+      "class_beast": 1
+    },
+    "SortPriority": 1,
+    "SlotId": 1,
+    "Category": "shop_trainer_da_beast",
+    "NameId": "offer_class_aqua_beast_01",
+    "AssetId": "",
+    "LocaId": "bird_class_beast",
+    "DiscountValue": 0,
+    "DiscountRequirements": null,
+    "DiscountStartDate": 0,
+    "DiscountEndDate": 0,
+    "DiscountDuration": 0,
+    "UniqueOffer": false,
+    "AtlasNameId": "",
+    "SpecialOfferBackgroundColor": null,
+    "SpecialOfferLabelColor": null,
+    "SpecialOfferLocaId": null,
+    "DisplayAsLarge": false,
+    "ShowDiscountPopup": false,
+    "PopupLoca": "",
+    "PopupIconId": null,
+    "PopupAtlasId": null,
+    "DiscountCooldown": 0,
+    "Duration": 0,
+    "StartDate": 0,
+    "EndDate": 0,
+    "BuyRequirements": [
+      {
+        "RequirementType": "NotHaveClass",
+        "NameId": "class_beast",
+        "Value": 1.0
+      },
+      {
+        "RequirementType": "HaveBird",
+        "NameId": "bird_aqua",
+        "Value": 1.0
+      },
+      {
+        "RequirementType": "PayItem",
+        "NameId": "gold",
+        "Value": 750.0
+      }
+    ],
+    "ShowRequirements": null,
+    "SpecialOfferPrio": 0,
+    "SpeechBubbleLoca": null,
+    "AlwaysShowSpeechBubble": false,
+    "HideUnlessOnSale": false
+  },
+  {
+    "DiscountPrice": 0,
+    "DisplayAfterPurchase": false,
+    "ExclusiveOffer": false,
+    "Level": 1,
+    "OfferContents": {
       "class_samurai": 1
     },
     "SortPriority": 1,
